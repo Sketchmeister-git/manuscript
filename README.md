@@ -1,0 +1,2 @@
+# manuscript
+draft philosophical manuscript
