@@ -1,0 +1,84 @@
+% ---------------------------------------------------------------------------
+% header.tex: LaTeX preamble additions for the KDP paperback interior.
+% Loaded by pandoc with -H. Placeholders of the form @@NAME@@ are filled in by
+% build_kdp.py from book_config.py. Do not put packages in -V header-includes:
+% the backslashes do not survive shell evaluation.
+% ---------------------------------------------------------------------------
+
+% --- Fonts: TeX Gyre Pagella, with DejaVu Serif for any glyph Pagella lacks.
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+\newfontfamily\fallbackfont{DejaVu Serif}
+\usepackage{newunicodechar}
+\newunicodechar{≈}{{\fallbackfont ≈}}
+
+% --- Micro-typography and hyphenation (US patterns; spelling is unaffected).
+\usepackage{microtype}
+\usepackage{polyglossia}
+\setdefaultlanguage[variant=american]{english}
+
+% --- Page furniture.
+\usepackage{fancyhdr}
+\usepackage{emptypage}          % blank versos carry no running head
+\usepackage{xurl}               % break long DOIs and URLs
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{etoolbox}
+\usepackage{imakeidx}
+\makeindex[intoc, columns=2, title={Index}]
+
+\setstretch{1.08}
+\setlength{\parindent}{1.2em}
+\setlength{\parskip}{0pt}
+\setcounter{tocdepth}{0}        % contents lists parts and chapters only
+
+% Running heads: author on versos, title on rectos; folio in the outer corner.
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\thepage\hspace{1.5em}\textsc{\MakeLowercase{@@AUTHOR@@}}}
+\fancyhead[RO]{\small\textit{@@TITLE@@}\hspace{1.5em}\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\small\thepage}\renewcommand{\headrulewidth}{0pt}}
+
+% Chapter openings: small-caps label above a large title, generous sink.
+\titleformat{\chapter}[display]
+  {\normalfont\centering}
+  {\small\textsc{\MakeLowercase{\chaptertitlename}} \thechapter}
+  {0.6em}
+  {\LARGE\itshape}
+\titleformat{name=\chapter,numberless}[display]
+  {\normalfont\centering}{}{0pt}{\LARGE\itshape}
+\titlespacing*{\chapter}{0pt}{1.2in}{0.45in}
+\titleformat{\section}{\normalfont\large\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries\itshape}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.4em plus 0.3em}{0.6em}
+\titlespacing*{\subsection}{0pt}{1.1em plus 0.2em}{0.4em}
+
+% Part pages.
+\titleformat{\part}[display]
+  {\normalfont\centering}
+  {\small\textsc{part} \thepart}
+  {1em}
+  {\Huge\itshape}
+
+% Block quotations (propositions, epigraphs, verified quotations).
+\renewenvironment{quote}
+  {\list{}{\leftmargin=1.6em\rightmargin=1.6em}\item\relax\small}
+  {\endlist}
+
+% Wide tables read better a size down.
+\AtBeginEnvironment{longtable}{\footnotesize}
+
+% Hanging indent for the Works Cited list.
+\newenvironment{hangingrefs}
+  {\begingroup\setlength{\parindent}{-1.8em}\setlength{\leftskip}{1.8em}\setlength{\parskip}{0.45em}\small}
+  {\par\endgroup}
+
+% Print edition: links stay black.
+\AtBeginDocument{\hypersetup{hidelinks}}
+
+\hyphenpenalty=600
+\tolerance=1500
+\emergencystretch=1.5em
+\widowpenalty=10000
+\clubpenalty=10000

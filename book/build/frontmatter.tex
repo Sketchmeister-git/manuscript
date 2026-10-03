@@ -1,0 +1,62 @@
+% ---------------------------------------------------------------------------
+% frontmatter.tex: half-title, title page, copyright page, epigraph, contents.
+% Inserted with pandoc -B; placeholders filled by build_kdp.py.
+% ---------------------------------------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half-title (page i)
+\begin{center}
+\vspace*{2.2in}
+{\Large\itshape @@TITLE@@\par}
+\end{center}
+\cleardoublepage
+
+% Title page (page iii)
+\begin{center}
+\vspace*{1.4in}
+{\Huge\itshape @@TITLE@@\par}
+\vspace{0.35in}
+{\large @@SUBTITLE@@\par}
+\vspace{1.6in}
+{\large\textsc{\MakeLowercase{@@AUTHOR@@}}\par}
+\vfill
+{\small @@EDITION@@\par}
+\end{center}
+\clearpage
+
+% Copyright page (page iv)
+{\footnotesize\raggedright
+\vspace*{\fill}
+\textit{@@TITLE@@: @@SUBTITLE@@}\\[0.6em]
+Copyright \copyright\ @@YEAR@@ @@AUTHOR@@. All rights reserved.\\[0.6em]
+No part of this book may be reproduced in any form without written permission from the author, except for brief quotations in reviews and scholarly works.\\[0.6em]
+Quotations from Nietzsche and Tocqueville are taken from translations in the public domain, as transcribed by Project Gutenberg, and are cited in the Works Cited. All other quotations are brief and are used for criticism and commentary.\\[0.6em]
+This book discusses psychological research for general and scholarly readers. It is not clinical advice.\\[0.6em]
+ISBN (paperback): @@ISBN@@\\[0.6em]
+@@EDITION@@, @@YEAR@@ (@@VERSION@@)\\[0.6em]
+Independently published.\par}
+\clearpage
+
+% Epigraph (page v)
+\vspace*{2.4in}
+\begin{flushright}
+\begin{minipage}{0.72\textwidth}
+\itshape
+But tell me, my brethren, what the child can do, which even the lion could not do? Why hath the preying lion still to become a child?\par
+\vspace{0.6em}
+\upshape\small\raggedleft--- Friedrich Nietzsche, \textit{Thus Spake Zarathustra}\\(trans.\ Thomas Common)\par
+\end{minipage}
+\end{flushright}
+\cleardoublepage
+
+% Contents
+\pagestyle{fancy}
+\tableofcontents
+\cleardoublepage
+
+% Pandoc's template issues \mainmatter straight after this include; the
+% Message and Preface must stay in roman-numbered front matter, so the real
+% \mainmatter is saved and invoked from the Introduction source instead.
+\let\realmainmatter\mainmatter
+\let\mainmatter\relax
