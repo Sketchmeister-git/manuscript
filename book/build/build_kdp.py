@@ -210,10 +210,10 @@ def run_xelatex(tex_path: Path) -> Path:
 
 def run_checks(pdf_path: Path) -> dict:
     """Check trim size, font embedding, missing glyphs and overfull boxes."""
-    import fitz  # PyMuPDF
+    import pymupdf  # PyMuPDF (the old "fitz" name is deprecated)
 
     report = {}
-    document = fitz.open(pdf_path)
+    document = pymupdf.open(pdf_path)
     report["pages"] = document.page_count
     first_page = document[0].rect
     report["trim_in"] = (round(first_page.width / 72, 3), round(first_page.height / 72, 3))

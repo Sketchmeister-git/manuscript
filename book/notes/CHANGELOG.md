@@ -1,5 +1,18 @@
 # Changelog: *The Lion's Problem*
 
+## Build tooling: `audit_book.py` blind spots closed (2026-10-06)
+
+No manuscript text changed. The audit now fails where it used to pass silently:
+
+| # | Audit | What it missed | Now |
+|---|---|---|---|
+| 1 | Citation sweep | An author cited in the text whose Works Cited entry was missing entirely. The sweep dropped every in-text citation whose author had no entry, so deleting Libet's only entry still reported success. | Every in-text citation is checked; a missing entry is reported as "cited but not in Works Cited". |
+| 2 | Citation sweep | Three entries (Aristotle, Laozi, Center for Near-Earth Object Studies) were never parsed, because they are written "Name. (Year)." rather than "Surname, I. (Year)". They were checked in neither direction. | All 56 entries are read. The earlier count of 53 (pass report §7, "53/53") left these three out. |
+| 3 | Quotation audit | Quotations as printed in the book. It compared a hand-kept list with the primary texts and never read the master, so a quotation changed in `book/src/` still passed. | Each listed fragment must also appear in the master, in inline, blockquote or italic form, with or without a † mark. |
+| 4 | Quotation audit | A listed fragment the book does not print. "But tell me, my brethren, what the child can do…" (*Zarathustra*, "The Three Metamorphoses") is in the list but not in the book. | Reported on every run. Acknowledged in `UNPRINTED_FRAGMENTS_ACKNOWLEDGED` so the audit stays green. **Author: re-add the passage or delete the list entry.** |
+
+Also: `build_kdp.py` now imports `pymupdf` instead of the deprecated `fitz` name. Not done: listing quotations that are in the book but not in the audit list (the Proposition blockquotes make any heuristic too noisy).
+
 ## v1.0 KDP trade edition, revised draft (2026-10-03)
 
 Derived from the modular edition (Modules A–I) and *The Path to Renewal*. Structural changes are documented in `PASS-REPORT_2026-10-03.md`. Corrections, each with the error it replaces:

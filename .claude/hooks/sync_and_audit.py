@@ -16,10 +16,10 @@ happened, so this is feedback, not a block.
 Expect a "cited but not in Works Cited" report mid-draft if a citation is added before
 its Works Cited entry. That is the audit working as intended.
 
-This hook reports exactly what audit_book.py reports, and audit_book.py has two blind
-spots (see CLAUDE.md): it does not notice an author whose Works Cited entry is missing
-entirely, and it never compares the quotations printed in the book to the primary
-texts. A silent pass therefore means "no audit failure", not "every check passed".
+This hook reports exactly what audit_book.py reports. A silent pass means "no audit
+failure", not "everything is verified": audit_book.py checks only the quotations listed
+in VERIFIED_QUOTATIONS, and only recognises citations written in APA form (see
+CLAUDE.md for the known limits).
 """
 
 import json

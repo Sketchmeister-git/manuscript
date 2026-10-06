@@ -23,8 +23,8 @@ A PostToolUse hook runs the first two after every edit to `book/src/`, `index_te
 ## Conventions
 
 - **† and ‡ mark unverified items.** The build strips them from the body above `<!-- MARKS-KEPT-BELOW -->` and keeps them in the appendix. Never delete that marker; `build_kdp.py` refuses to build without it.
-- **A quotation without † must be word-for-word in a primary text.** Add each new one to `VERIFIED_QUOTATIONS` in `audit_book.py`. **Known gap:** the audit compares that hand-kept list to the primary texts and never reads the book, so an unlisted quotation, or a quotation altered in `src/`, passes silently. Re-check by hand (or with `quotation-integrity`) after editing any quoted passage.
-- **Citations are APA 7.** Every in-text citation needs a Works Cited entry and the reverse. **Known gap:** the sweep catches a wrong year or an uncited entry, but not an author whose Works Cited entry is missing entirely (it discards in-text citations for authors with no entry). If you delete or rename an entry, search `src/` for the surname.
+- **A quotation without † must be word-for-word in a primary text.** Add each new one to `VERIFIED_QUOTATIONS` in `audit_book.py`. The audit checks every listed fragment against the primary texts **and against the master**, so changing or removing a listed quotation in `src/` fails it. **Known gap:** a quotation you do not list is never checked; list it, or re-check by hand (or with `quotation-integrity`).
+- **Citations are APA 7.** The sweep fails on an in-text citation with no Works Cited entry (including an author with no entry at all) and on an entry that is never cited. It reads both "Surname, I. (Year)" and "Name. (Year)." entries. **Known limit:** a citation is recognised only in APA form ("Name, 2001" or "Name (2001)"); a name and year written any other way is invisible to it.
 - New index terms go in `book/build/index_terms.py`. Title, author, trim, margins and the master's dated name live only in `book/build/book_config.py`.
 - **Weaknesses go in `book/notes/`, not in the book.** An objection enters the text only once a strengthening has been found. Appendix D is the one place the book states its limits.
 - Log each correction in `notes/CHANGELOG.md` with the error it replaces, and each problem in `notes/INCIDENT-LOG.md`.
@@ -46,4 +46,5 @@ A PostToolUse hook runs the first two after every edit to `book/src/`, `index_te
 
 - `TODO(author)`: the 26 Sep 2026 "standing rulings" are cited in `notes/` (KDP rules checked as of that date; "weaknesses in notes, claims stated plainly in the book") but their text is not in this repo. Add it here so it is not re-derived each pass.
 - `TODO(author)`: British or American spelling (pass report, author decision 4). The text is currently British-leaning, while `header.tex` sets American hyphenation.
+- `TODO(author)`: `VERIFIED_QUOTATIONS` lists a Zarathustra fragment ("But tell me, my brethren, what the child can do…") that the book does not print. It is acknowledged in `UNPRINTED_FRAGMENTS_ACKNOWLEDGED` in `audit_book.py` and named on every audit run. Either re-add the passage to Chapter 2 or delete the list entry, then remove the acknowledgement.
 - Before upload: replace the placeholders for author name, ISBN, author bio and the personal paragraph (`notes/KDP-UPLOAD-CHECKLIST.md`).
