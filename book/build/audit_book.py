@@ -55,9 +55,11 @@ VERIFIED_QUOTATIONS = [
 # still reported on every run. Resolve each by re-adding the passage to its
 # chapter in book/src/, or by deleting its VERIFIED_QUOTATIONS entry and then
 # removing it from this set.
-UNPRINTED_FRAGMENTS_ACKNOWLEDGED = {
-    "But tell me, my brethren, what the child can do, which even the lion could not do? Why hath the preying lion still to become a child?",
-}
+UNPRINTED_FRAGMENTS_ACKNOWLEDGED = set()
+
+# The epigraph is printed from the front-matter template, not from book/src/,
+# so the printed text the audit checks must include it.
+FRONTMATTER_PATH = BOOK_DIR / "build" / "frontmatter.tex"
 
 # Works Cited entries are keyed by first-author surname and the year printed in
 # the entry; in-text "Original/Translation" years cite the translation year.
@@ -173,7 +175,8 @@ def printed_book_text(master_text: str) -> str:
 
 def quotation_audit(master_text: str) -> bool:
     """Check each listed fragment against its primary text and against the book."""
-    book_text = printed_book_text(master_text)
+    frontmatter_text = FRONTMATTER_PATH.read_text(encoding="utf-8")
+    book_text = printed_book_text(frontmatter_text + "\n" + master_text)
     found_in_primary_count = 0
     printed_in_book_count = 0
     acknowledged_unprinted = []

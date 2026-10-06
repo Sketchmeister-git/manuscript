@@ -46,5 +46,4 @@ A PostToolUse hook runs the first two after every edit to `book/src/`, `index_te
 
 - `TODO(author)`: the 26 Sep 2026 "standing rulings" are cited in `notes/` (KDP rules checked as of that date; "weaknesses in notes, claims stated plainly in the book") but their text is not in this repo. Add it here so it is not re-derived each pass.
 - `TODO(author)`: British or American spelling (pass report, author decision 4). The text is currently British-leaning, while `header.tex` sets American hyphenation.
-- `TODO(author)`: `VERIFIED_QUOTATIONS` lists a Zarathustra fragment ("But tell me, my brethren, what the child can do…") that the book does not print. It is acknowledged in `UNPRINTED_FRAGMENTS_ACKNOWLEDGED` in `audit_book.py` and named on every audit run. Either re-add the passage to Chapter 2 or delete the list entry, then remove the acknowledgement.
 - Before upload: replace the placeholders for author name, ISBN, author bio and the personal paragraph (`notes/KDP-UPLOAD-CHECKLIST.md`).
