@@ -4,13 +4,13 @@ This book began as a complaint and turned into a question.
 
 The complaint was the familiar one. We are distracted, the feeds are engineered, the institutions have lost our trust, and everyone seems to be shouting at everyone else. I have heard that complaint at dinner tables, in seminar rooms, in podcasts and in the trade press of the companies that build the feeds. I have made it myself many times. At some point I noticed that everyone agreed with it and that nothing changed. That observation became the question this book tries to answer. *Why does a critique that nearly everyone accepts change almost nothing?*
 
-Answering it took me through more fields than I expected. Clinical ethics had already measured the condition I wanted to describe and given it a name. Phenomenology explained why nobody catches the moment of capture. Experimental psychology showed that our sense of having chosen is assembled after the fact. Nietzsche had drawn the shape of the whole problem as a parable about a lion, and Erich Fromm had stated its mechanism half a century later without citing him. Each field held part of the answer, and each described its part in a vocabulary the others could not easily read. A good deal of the work was translation, and the Glossary at the back of the book is my attempt to leave the dictionary behind for the next reader.
+Answering it took me through more fields than I expected. Clinical ethics had already measured the condition I wanted to describe and given it a name. Phenomenology explained why nobody catches the moment of capture. Experimental psychology showed that our sense of having chosen is assembled after the fact. Nietzsche had drawn the shape of the whole problem as a parable about a lion, and Erich Fromm had stated its mechanism nearly sixty years later without citing him. Each field held part of the answer, and each described its part in a vocabulary the others could not easily read. A good deal of the work was translation, and the Glossary at the back of the book is my attempt to leave the dictionary behind for the next reader.
 
 The book was built rather than planned. I started from a rough outline. I rewrote the outline every time a new section was finished, and I reread the whole draft each time to see whether the argument had shifted under me. It usually had. Chapters that were meant to be supporting material became central, and one chapter I expected to be the heart of the book ended up as a short section of the Introduction. That flexibility was deliberate. An argument that cannot change shape while it is being written has usually decided its conclusions too early. The final ordering of the chapters is the shape the argument settled into, not the shape it started with.
 
 [AUTHOR: a short personal paragraph belongs here, such as the moment the question first became your own, or the scene where you noticed the agreement and the inertia side by side. Only you can write it, and the book is better with it than without it.]
 
-I ask one thing of you as a reader, and it comes from the argument itself. Chapter 7 claims that agreeing with a book like this one is the most efficient available way of doing nothing about it. If that claim is right, nodding along is worth very little. Try one of the small arrangements described in Chapter 9 for a week instead, and decide for yourself whether anything changed. That test costs you nothing, and it is the only one that counts.
+I ask one thing of you as a reader, and it comes from the argument itself. Chapter 7 proposes that agreeing with a book like this one may be the most efficient available way of doing nothing about it. If that is right, nodding along is worth very little. Run the one-minute conduct test in Chapter 7 instead. Then try one of the small arrangements described in Chapter 9 for a week, and notice what changes without keeping score (Chapter 9 explains why a score would defeat the point). Both cost you nothing, and both count for more than agreeing.
 
 \vspace{1em}
 
@@ -25,15 +25,15 @@ The thesis can be stated in a few sentences. Our civic vocabulary is fluent in r
 
 ## Who this book is for
 
-The argument draws on clinical ethics, social and cognitive psychology, phenomenology, political theory, the history of philosophy and literary criticism. Each of these fields has studied a piece of the problem, and each has named its piece in terms the others do not use. Nursing ethics calls it *moral distress*, political science calls it *low external efficacy*, and Nietzsche calls it *the lion*. One of the book's claims is that these are often the same structure seen from different windows. Its method is to translate between the windows without pretending they are one room.
+The argument draws on clinical ethics, social and cognitive psychology, phenomenology, political theory, the history of philosophy and literary criticism. Each of these fields has studied a piece of the problem, and each has named its piece in terms the others do not use. Nursing ethics calls one form of it *moral distress*, political science calls another *low external efficacy*, and Nietzsche's parable gives its civic form the figure of *the lion*. The book proposes that these are overlapping structures seen from different windows, and where it says so, it says what would show the overlap to be wrong. Its method is to translate between the windows without pretending they are one room.
 
-That makes the book useful in several directions. A psychologist will find philosophical structures that predict findings in their own literature. A philosopher will find empirical anchors for claims usually defended by exegesis alone. Sociologists and anthropologists will find a functional account of conspiracy belief and a theory of how norms get built in a new medium. A general reader needs no background in any of these fields. Every technical term is defined when it first appears, and all of them are collected in the Glossary, which notes the discipline each term comes from and the nearest equivalents in neighboring fields.
+That makes the book useful in several directions. A psychologist will find philosophical structures that predict findings in their own literature. A philosopher will find empirical anchors for claims usually defended by exegesis alone. Sociologists and anthropologists will find a functional account of conspiracy belief and a theory of how norms get built in a new medium. A general reader needs no background in any of these fields. The argument is framed through the United States, where the evidence is richest. Whether it travels is a question Chapter 2 raises and Appendix D lists. Technical terms are defined where they first matter, and all of them are collected in the Glossary, which notes the discipline each term comes from and the nearest equivalents in neighboring fields.
 
 ## How the book is built
 
 The book has four parts. **Part One** describes the condition: what the strain of modern citizenship actually is, why the culture's only remedy for it is subtraction, and what Nietzsche saw coming. **Part Two** describes the mechanism: the collapse of the interval between stimulus and response, and the reasons nobody catches that collapse happening in their own experience. **Part Three** describes two counterfeits, one disreputable and one respectable. They differ enormously in accuracy and not at all in structure. **Part Four** turns to construction, meaning the capacity it requires and the arrangements that can build it without demanding it in advance. A Conclusion revisits the four-stage path from Julian Jaynes to David Foster Wallace that framed the project, and revises its last stage in light of everything the book found.
 
-Nineteen numbered propositions carry the argument. They keep the numbers they had in the modular edition this book grew out of, so a proposition can be traced across editions. As a result the numbers do not run in order through the chapters. Appendix B lists all nineteen in numerical order, with the chapter where each is argued.
+Nineteen numbered propositions carry the argument. They keep the numbers they had in the earlier modular edition of this argument (Appendix A explains the change), so a proposition can be traced across editions. As a result the numbers do not run in order through the chapters, and a reader who meets Proposition 7 before Proposition 5 has not found an error. Appendix B lists all nineteen in numerical order, with the chapter where each is argued.
 
 The evidence for every empirical claim is graded. The grades are collected in Appendix C, and the tests that would show each proposition wrong are listed in Appendix D. The body of the book states its claims plainly, and the appendices keep the record of how sure it is entitled to be.
 
@@ -54,7 +54,7 @@ This book is an attempt to say precisely what that "nothing" is, why it is so he
 
 ## Four voices and a path
 
-The project began with a provisional map, a four-stage arc through four thinkers who never cited one another. Julian Jaynes supplied an origin, Friedrich Nietzsche a crisis, Alan Watts a reorientation and David Foster Wallace a practice. The map was useful because it was wrong in an instructive place, and the Conclusion returns to it to say where. As a way into the argument, though, it is still the clearest path, so here it is.
+The project began with a provisional map, a four-stage arc through four thinkers who never cited one another. Julian Jaynes supplied an origin, Friedrich Nietzsche a crisis, Alan Watts a reorientation and David Foster Wallace a practice. The map was useful because it was wrong in an instructive place, and the Conclusion returns to it to say where. It also had a gap, which a fifth voice, Erich Fromm, fills below. As a way into the argument it is still the clearest path, so here it is.
 
 **The voice.** In *The Origin of Consciousness in the Breakdown of the Bicameral Mind*, Jaynes (1976) proposed that the introspective self is a late cultural invention. On his account the people of the early Bronze Age did not deliberate. They heard commands, experienced as the voices of gods, and obeyed them. Jaynes's history is contested, and this book does not rest any claim on it. It earns its place as a parable about the shape of authority. The authority Jaynes describes is perfectly *overt*: it has a voice, it issues commands, and a hearer knows exactly what is being asked of them. That is the oldest form of authority in the human repertoire and the one our equipment for obedience and disobedience was built for.
 
@@ -62,19 +62,19 @@ The project began with a provisional map, a four-stage arc through four thinkers
 
 **The authority with no voice.** Erich Fromm, writing in the twentieth century, named the form those shadows finally took: *anonymous authority* (Fromm, 1941, 1955). It is the authority of common sense, of the market, of what one does, of what is normal. It issues no commands, so it cannot be disobeyed. Alexis de Tocqueville had already sketched it a century earlier, as a mild, provident power that does not break the will but softens it, bends it and guides it (Tocqueville, 1840/2006, Vol. 2, Book 4, Ch. 6).‡ Today its most visible form is the ranked feed, an arrangement that shapes what millions of people attend to and that no one can name an author for.
 
-**The practice.** Wallace saw the late-twentieth-century version of this from inside American entertainment. He saw that irony had become the dominant cultural posture and that irony is superb at unmasking and useless at building (Wallace, 1993). His proposed answer, in the commencement address published as *This Is Water*, was a discipline of attention, a choice about what to notice and how to construe it (Wallace, 2009). Watts, from a different direction, had argued that some states cannot be reached by trying, because effort produces their opposite (Watts, 1951).
+**The practice.** Wallace saw the late-twentieth-century version of this from inside American entertainment. He saw that irony had become the dominant cultural posture and that irony is superb at unmasking and useless at building (Wallace, 1993). His proposed answer, in the commencement address published as *This Is Water*, was a discipline of attention, a choice about what to notice and how to construe it (Wallace, 2009). Watts, from a different direction, had argued that some states cannot be reached by trying, because effort produces their opposite (Watts, 1951). The map gave him the third stage as a cure: the dissolution of the "skin-encapsulated ego"† into a sense of unity with everything. What this book keeps from Watts is the first idea, not the cure.
 
-The provisional map ran from voice to silence to reorientation to attention. This book keeps the first three stages and corrects the fourth. Its central finding is that attention cannot be the last stage, because a *resolution* to attend is itself one of the reactions the problem is made of. The practice has to move out of the head and into the arrangements around it. Chapter 9 makes that argument, and the Conclusion redraws the map.
+The provisional map ran from an origin to a crisis, a reorientation and a practice. This book keeps the first three stages, adds the stage the map lacked (the form authority took after the crisis), and corrects the last. Its central finding is that attention cannot be the last stage, because a *resolution* to attend is itself one of the reactions the problem is made of. The practice has to move out of the head and into the arrangements around it. Chapter 9 makes that argument, and the Conclusion redraws the map.
 
 ## The argument in outline
 
-**Part One: The Condition.** Chapter 1 argues that the strain of holding many catastrophes in view is routinely misnamed as cognitive dissonance. It is better described as a disproportion between assigned *responsibility* and available *efficacy*. Clinical ethics has studied this structure for forty years under the name *moral distress*. Chapter 2 asks why the culture's only remedy for that strain is subtraction, and finds the answer in a civic vocabulary almost entirely built from prohibitions. Nietzsche's parable of the camel, the lion and the child describes exactly this: the lion can win freedom by refusing, but it cannot create. Chapter 3 shows that Nietzsche's two famous figures, the Last Man and the Übermensch, are two responses to one situation. They differ by a single capacity, the capacity to make something, and the present looks less like the Last Man than like a nation of lions.
+**Part One: The Condition.** Chapter 1 argues that the strain of holding many catastrophes in view is routinely misnamed as cognitive dissonance. It is better described as a disproportion between assigned *responsibility* and available *efficacy*. Clinical ethics has studied this structure for forty years under the name *moral distress*. Chapter 2 asks why the culture's only remedy for that strain is subtraction, and finds the answer in a civic vocabulary almost entirely built from prohibitions. Nietzsche's parable of the camel, the lion and the child describes exactly this: the lion can win freedom by refusing, but it cannot create. Chapter 3 shows that Nietzsche's two famous figures, the Last Man (the contented person who has stopped wanting anything difficult) and the Übermensch (the person who makes new values), are two responses to one situation. They differ by a single capacity, the capacity to make something, and the present looks less like the Last Man than like a nation of lions.
 
 **Part Two: The Mechanism.** Chapter 4 identifies the mechanism the other pathologies depend on: the collapse of the interval between a stimulus arriving and a response leaving. Filling that interval is rational, because the interval is where an undischargeable obligation becomes present. Chapter 5 explains why nobody catches the collapse happening. An incorporated instrument does not appear in experience as an instrument. An instrument optimized against breakdown never becomes visible. And the sense of having chosen is assembled after the fact, from cues that an arrangement can supply.
 
 **Part Three: Two Counterfeits.** Chapter 6 proposes that conspiracism is an attempt to convert anonymous authority into overt authority by supplying the missing agent, because an agent can be refused and a system cannot. The best evidence shows that the motives driving the belief are not satisfied by it, and the chapter explains why that failure deepens the belief instead of ending it. Chapter 7 turns the same analysis on the respectable critique of the attention economy. That critique is nearly universally accepted and almost entirely inert, and the chapter argues that this is a stable equilibrium rather than a stage on the way to change.
 
-**Part Four: Construction.** Chapter 8 argues that tolerating an undischarged impulse and tolerating being bad at something are a single capacity, and that construction requires it. Chapter 9 draws the practical consequence. Remedies must operate on arrangements rather than on states, and at the scale of a society that means norms. The chapter proposes twelve norms for a medium that has had only twenty-five years to develop any.
+**Part Four: Construction.** Chapter 8 argues that tolerating an undischarged impulse and tolerating being bad at something belong to one family of capacities, and that construction requires them. Chapter 9 draws the practical consequence. Remedies must operate on arrangements rather than on states, and at the scale of a society that means norms. The chapter proposes twelve norms for a medium that has had only twenty-five years to develop any.
 
 ## How to read the claims
 
@@ -91,9 +91,9 @@ The book makes three kinds of claim, and it helps to know which is which.
 Five rules govern the argument. They are stated here because the chapters rely on them.
 
 1. **Every proposition can be wrong in a stated way.** For each one, Appendix D names the observation that would refute it. A claim that nothing could refute would not be an argument, and the book does not make claims of that kind.
-2. **No agentless motives.** A sentence that gives wants to something that cannot want ("the market wants," "the algorithm wants") explains nothing. Chapter 6 argues that such sentences substitute for an explanation. Where this book describes a system, it describes what the system is optimized on, by whom, and with what effect.
+2. **No agentless motives.** A sentence that gives wants to something that cannot want ("the market wants," "the algorithm wants") explains nothing. Chapter 6 argues that such sentences substitute for an explanation. Where this book describes a system, it says what the system is optimized on and with what effect, and it says so plainly where it cannot say who set the objective.
 3. **Convergence is not corroboration.** When two thinkers working independently reach the same structure, the agreement is worth noting. It is not evidence that the structure is real, and the book never counts it as evidence.
-4. **Quotations are verified or marked.** Every direct quotation in this book has been checked against a printed or authoritative source, or it is identified as unverified in Appendix E. Paraphrase is never dressed as quotation.
+4. **Quotations are verified or marked.** Every direct quotation in this book has been checked against a printed or authoritative source, or it is listed in Appendix E, by chapter, as unverified. Nietzsche is quoted from the public-domain translations of Common and Ludovici, which can be checked word for word; where the text paraphrases him, it cites the Cambridge Texts edition. Paraphrase is never dressed as quotation.
 5. **The book is inside its own diagnosis.** An argument about hidden orders, disclosure and the reader who finally sees has the shape of what it diagnoses. Chapter 6 says that this shape does not sort by respectability. Falsifiers and evidence grades are the governor this book accepts in place of an exemption.
 
 ```{=latex}
@@ -104,7 +104,7 @@ Five rules govern the argument. They are stated here because the chapters rely o
 
 *Why the weight of many catastrophes is not cognitive dissonance, and what it is instead*
 
-The strain of holding many civilization-scale threats in view is routinely called *cognitive dissonance*. The label is wrong in a way that matters, because it sends the analysis to a literature whose remedies do not apply. This chapter argues that the strain is a disproportion between assigned *responsibility* and available *efficacy*. It is an obligation to hold a defensible position on an unbounded set of matters, combined with the capacity to affect almost none of them. The chapter separates three senses of *responsibility* to show which one has been detached and generalized. It shows that this structure already has a name and a measurement literature, in a field few people would think to consult. It corrects two adjacent constructs that most discussions reach for. And it derives the shrug as the correct output of a correct procedure, not as a failure of character.
+The strain of holding many civilization-scale threats in view is routinely called *cognitive dissonance*. The label is wrong in a way that matters, because it sends the analysis to a literature whose remedies all work by restoring consistency between beliefs, and that is not the problem here. This chapter argues that the strain is a disproportion between assigned *responsibility* and available *efficacy*. It is an obligation to hold a defensible position on an unbounded set of matters, combined with the capacity to affect almost none of them. The chapter separates three senses of *responsibility* to show which one has been detached and generalized. It shows that this structure already has a name and a measurement literature, in a field few people would think to consult. It corrects two adjacent constructs that most discussions reach for. And it derives the shrug as the correct output of a correct procedure, not as a failure of character.
 
 ## Why "cognitive dissonance" is the wrong construct
 
@@ -138,15 +138,15 @@ Agreement between a hypothesis and the evidence is cheap. The useful question is
 | Distress persists in low-consumption people holding the same beliefs | – | – | no | yes |
 | Distress tracks the *number* of threats, not the severity of the worst | yes | – | – | yes |
 
-: What each explanation predicts ("yes"), forbids ("no") or leaves open ("–").
+: What each explanation predicts ("yes"), cannot accommodate ("no": it gives no reason to expect the observation, and on its own terms it should not occur) or is silent about ("–").
 
-The third row does the decisive work, and it is where H4 would die if it were wrong. H4 predicts that giving a person a bounded, concrete, local responsibility they can actually discharge will reduce the distress without changing a single belief about the threats. H1 and H2 predict nothing of the kind, because on those accounts the problem lives in the beliefs. H3 predicts nothing of the kind either, because on that account the problem lives in the feed.
+The third row does the decisive work, and it is where H4 would die if it were wrong. H4 predicts that giving a person a bounded, concrete, local responsibility they can actually discharge will reduce the distress without changing a single belief about the threats. H1 and H2 cannot accommodate that result, because on those accounts the problem lives in the beliefs and the beliefs have not changed. H3 cannot accommodate it either, because on that account the problem lives in the feed and the feed has not changed.
 
 ## The inventory, side by side
 
 An argument that insists on measurement cannot then wave vaguely at "existential risk," and the finding below only becomes visible when the threats are set out in one table.
 
-**Start with the threat we can count.** NASA's Jet Propulsion Laboratory lists more than 42,000 known near-Earth objects in its Small-Body Database. Its Sentry system continuously evaluates every cataloged object's chance of impact over the next century, and none currently rates above zero on the scale used to communicate impact hazard to the public (Center for Near-Earth Object Studies, 2026). The goal Congress set in 1998, finding nine in ten of the kilometer-class objects capable of global catastrophe, has been met. Here is a civilization-ending threat with a known base rate, a dedicated agency, a budget and a published answer. The correct response for a citizen is that this is handled, the people handling it have said so, and attention belongs elsewhere.
+**Start with the threat we can count.** NASA's Jet Propulsion Laboratory lists more than 42,000 known near-Earth objects in its Small-Body Database. Its Sentry system continuously evaluates every cataloged object's chance of impact over the next century, and none currently rates above zero on the scale used to communicate impact hazard to the public (Center for Near-Earth Object Studies, 2026). The survey goal set for NASA in 1998, finding nine in ten of the kilometer-class objects capable of global catastrophe, is reported to have been met.† Here is a civilization-ending threat with a known base rate, a dedicated agency, a budget and a published answer. The correct response for a citizen is that this is handled, the people handling it have said so, and attention belongs elsewhere.
 
 Nobody feels that. The gap between what the evidence licenses and what a person feels on reading an asteroid headline is the cleanest available case of vividness overriding probability where the probability is actually known. It is also the reason the asteroid belongs on the list at all. It shows that the weight is not coming from the threats.
 
@@ -190,7 +190,7 @@ For the modern citizen, answerability has been detached from both of the others 
 
 > **Proposition 1** *(structural).* The distress produced by a catastrophic threat inventory is a function not of the threats' severity or of their inconsistency, but of the disproportion between the responsibility a citizen is assigned and the efficacy they possess.
 
-This is the argument about pressure from Fromm's *Escape from Freedom* (1941), with one term substituted. Fromm's gap runs between the freedom a person has and the *self-strength* to use it. He held that this gap was the standing condition of modern life and that every "escape" he described was shaped to fit it. Here the gap runs between the responsibility a person has been given and the capacity to discharge it. The formal structure is the same, and so are the consequences. The pressure cannot be relieved by argument, because a belief did not produce it. Adding input can increase the pressure instead of relieving it. And the gap can be closed from either side, but the two sides are not equivalent.
+In Proposition 1, "assigned responsibility" means answerability, the third sense above. This is the argument about pressure from Fromm's *Escape from Freedom* (1941), with one term substituted. Fromm's gap runs between the freedom a person has and the *self-strength* to use it. He held that this gap was the standing condition of modern life and that every "escape" he described was shaped to fit it. Here the gap runs between the responsibility a person has been given and the capacity to discharge it. The formal structure is the same, and so are the consequences. The pressure cannot be relieved by argument, because a belief did not produce it. Adding input can increase the pressure instead of relieving it. And the gap can be closed from either side, but the two sides are not equivalent (Chapter 2 says how they differ).
 
 This also gives the precise reason the dissonance label fails. Dissonance is a relation between two cognitions. This is a relation between a cognition and a capacity. There is no pair of beliefs to bring into line, so every dissonance-style resolution is unavailable. You cannot change the belief, because it is true. You cannot change the behavior, because no behavior is available. You cannot add a consonant belief, because no belief supplies a missing capacity. And you cannot shrink the item's importance, because the item is a war. Dissonance comes with a resolution procedure. This condition comes with none, which makes it a different object rather than a stronger version of the same discomfort.
 
@@ -300,7 +300,7 @@ If the citizen's condition is a gap between answerability and efficacy, the obvi
 
 American political vocabulary is, at its foundation, almost entirely negative. It is a grammar of prohibitions on power. That was a design achievement of the first order, and it is also only half of an equation. When the polity feels a crisis, it reaches for the tool it has, and the tool it has is subtraction.
 
-Nietzsche gave the best available account of what happens when subtraction becomes a permanent stance. He wrote it sixty years before Fromm, in the form of a parable. In the three metamorphoses of the spirit, the camel bears what it is given, the lion wins freedom by refusing, and only the child creates. Nietzsche presents the lion's inability to create as a structural limit, not a moral failing. This chapter argues that a culture stuck at the lion has maximal negative liberty and no capacity to make anything with it. It argues that this describes the contemporary United States better than accounts that reach straight for the Last Man. And it argues that the lion's position was genuinely earned and is not cowardly. The chapter ends by naming the hinge on which the rest of the book turns. The lion was made to fight a dragon with a face, and the authority it now faces has none.
+Nietzsche gave the best available account of what happens when subtraction becomes a permanent stance. He wrote it nearly sixty years before Fromm, in the form of a parable. In the three metamorphoses of the spirit, the camel bears what it is given, the lion wins freedom by refusing, and only the child creates. Nietzsche presents the lion's inability to create as a structural limit, not a moral failing. This chapter argues that a culture stuck at the lion has maximal negative liberty and no capacity to make anything with it. It argues that this describes the contemporary United States better than accounts that reach straight for the Last Man. And it argues that the lion's position was genuinely earned and is not cowardly. The chapter ends by naming the hinge on which the rest of the book turns. The lion was made to fight a dragon with a face, and the authority it now faces has none (a point the end of this chapter develops).
 
 ## Freedom from and freedom to
 
@@ -434,9 +434,9 @@ Fromm saw that modern authority had changed shape, and he described the change a
 
 > **Proposition 4** *(structural).* Anonymous authority cannot be disobeyed, because it never commanded anything. There is no face to defy, no order to refuse and no relationship within which refusal would make sense. It does not tell you what to do; it tells you what *is done*.
 
-Tocqueville described the shape of this power a century before Fromm named it, at the close of *Democracy in America*. He pictured an immense, tutelary power, absolute, minute, regular, provident and mild. It covers the surface of society with a network of small, complicated rules. It seldom forces anyone to act, but it constantly restrains people from acting. It does not shatter the will; it softens it, bends it and guides it (Tocqueville, 1840/2006, Vol. 2, Book 4, Ch. 6).‡ Mildness is why it provokes no resistance. Providence is why it is experienced as a service rather than as rule. And because it works as a network rather than through a commander, there is no one to defy.
+Tocqueville described the shape of this power a century before Fromm named it, at the close of *Democracy in America*. He pictured an immense, tutelary power, absolute, minute, regular, provident and mild. It covers the surface of society with a network of small, complicated rules. It seldom forces anyone to act, but it constantly restrains people from acting. It does not shatter the will; it softens it, bends it and guides it (Tocqueville, 1840/2006, Vol. 2, Book 4, Ch. 6).‡ The rules in that picture are not issued by anyone a citizen could name. They are restraints with no restrainer. Mildness is why it provokes no resistance. Providence is why it is experienced as a service rather than as rule. And because it works as a network rather than through a commander, there is no one to defy.
 
-Now put the pieces together. A culture whose only well-developed competence is refusal faces conditions in which the operative authority cannot be refused. The threats in Chapter 1's inventory cannot be refused either. Refusal does not disappear when its object does. It goes looking for the nearest refusable thing, and the nearest refusable thing is usually other people.
+Now put the pieces together. A culture whose only well-developed competence is refusal faces conditions in which the operative authority cannot be refused. The threats in Chapter 1's inventory share the property that matters: there is no one to refuse. Refusal does not disappear when its object does. It goes looking for the nearest refusable thing, and the nearest refusable thing is usually other people.
 
 Chapter 3 follows the same structure into a second register, Nietzsche's fork between the Last Man and the Übermensch. Part Two asks why the collapse of that search into reflex goes unnoticed by the people it happens to. Part Three shows where the search for a refusable object ends.
 
@@ -502,7 +502,7 @@ Three properties remain, and each has a text behind it.
 
 **Creation rather than reception.** The defining act is the making of values. That is only possible once the guarantee has gone, so the project is specifically post-collapse rather than nostalgic. The death of God is the precondition of the Übermensch, not its obstacle. This reverses the usual reading, in which Nietzsche mourns something. He does not. The disorientation of §125 is the price of an opportunity, not the report of a loss.
 
-**Affirmation.** The test is *amor fati* and the thought experiment of eternal recurrence: could you will this life, unchanged in every detail, endlessly? Nietzsche offers recurrence chiefly as a *criterion*, a test of whether a life is one's own, rather than as a cosmology. It is brutal, and it is the exact inverse of the Last Man's calculation. The Last Man asks what is too burdensome. The recurrence test asks what you would carry forever.
+**Affirmation.** The test is *amor fati* (love of fate) and the thought experiment of eternal recurrence: could you will this life, unchanged in every detail, endlessly? Nietzsche offers recurrence chiefly as a *criterion*, a test of whether a life is one's own, rather than as a cosmology. It is brutal, and it is the exact inverse of the Last Man's calculation. The Last Man asks what is too burdensome. The recurrence test asks what you would carry forever.
 
 **Self-overcoming, continuously.** This means neither perfection nor arrival. The rope over the abyss is not crossed once and finished with.
 
@@ -516,7 +516,7 @@ The Übermensch draws the other: *if nothing is underwritten, creation is both p
 
 The fork, then, is not between belief and unbelief, or between optimism and pessimism. It is between two responses to an identical and correctly diagnosed situation, and the responses differ in whether the person still has the capacity to make something.
 
-This is Fromm's distinction arriving in a second vocabulary. Freedom *from* the guarantee is where both roads begin. The Last Man is what happens when freedom *to* is absent, when the removal has happened and the capacity has not developed. Two philosophers, half a century apart and neither citing the other, describe one fork in two languages. By the rules this book keeps, their agreement is worth noting and is not evidence. The evidence lies in whether the fork predicts anything, and it does.
+This is Fromm's distinction arriving in a second vocabulary. Freedom *from* the guarantee is where both roads begin. The Last Man is what happens when freedom *to* is absent, when the removal has happened and the capacity has not developed. Two philosophers, nearly sixty years apart and neither citing the other, describe one fork in two languages. By the rules this book keeps, their agreement is worth noting and is not evidence. The evidence lies in whether the fork predicts anything, and it does.
 
 ## Where the trajectory points
 
@@ -524,7 +524,7 @@ This genre usually goes wrong at this point by predicting. The better course is 
 
 **The guarantee has gone.** This is not an atheist claim, since a majority still report belief. It is a claim about the background of public argument. The assumption that values are underwritten by something outside human decision is no longer the default, even among believers, who now argue for their values in the same currency as everyone else.
 
-**The shadows have been found out.** Nation, party, progress, market and expert authority have each undergone serial and largely justified disillusionment within living memory. Gallup's nine institutions, tracked consistently since 1979, now average 28 percent confidence ("a great deal" or "quite a lot"). That is near the lowest reading in forty-six years of measurement, and the average has stayed under 30 percent for four years running (Brenan, 2025). The same report adds a qualification. The average is stable only in aggregate. Republicans' and Democrats' confidence swings with which party holds the presidency, and the 11-point gap between them is the largest in the series. Confidence is low overall, and for partisans it follows control of the White House.
+**The shadows have been found out.** Nation, party, progress, market and expert authority have each undergone serial and largely justified disillusionment within living memory. Gallup's nine institutions, tracked consistently since 1979, averaged 28 percent in its July 2025 survey confidence ("a great deal" or "quite a lot"). That is near the lowest reading in forty-six years of measurement, and the average has stayed under 30 percent for four years running (Brenan, 2025). The same report adds a qualification. The average is stable only in aggregate. Republicans' and Democrats' confidence swings with which party holds the presidency, and the 11-point gap between them is the largest in the series. Confidence is low overall, and for partisans it follows control of the White House.
 
 **Passive nihilism is widespread.** This is the claim most often asserted and least often shown. Some evidence points toward it: declining participation, declining trust, and a rising expectation that public claims are made in bad faith. But it sits alongside strong evidence of intense, sustained and costly engagement by very large numbers of people. An account that reports only the disengagement is selecting its data, and much writing in this area does exactly that.
 
@@ -670,7 +670,7 @@ The usual answers do not work. It is not inattention, because attentive people f
 
 The answer assembles three literatures that have not been put together for this purpose before. An incorporated instrument does not appear in experience as an instrument. An instrument optimized against its own breakdown never becomes visible at all, because breakdown is how a person discovers they were inside a structure. And the sense of having chosen is manufactured after the fact, from cues an arrangement can supply. Together these establish something narrower and more important than a causal claim. First-person report is not a competent instrument for detecting this kind of shaping, so the absence of a felt compulsion is worth nothing as evidence. The result is defensive. It removes a defense rather than proving a charge, but the defense it removes is the one doing nearly all the work in ordinary arguments about this subject. The chapter then uses the result to answer a question people ask constantly and answer badly: has the anonymous authority of the present actually been revealed, or is it still behind the curtain?
 
-## Part one: the incorporated instrument
+## The incorporated instrument
 
 Maurice Merleau-Ponty's *Phenomenology of Perception* (1945/2012) makes a claim about the body that most later discussion of technology has never absorbed.
 
@@ -698,7 +698,7 @@ That is *alienation* in the strict sense Marx gave the word and Fromm generalize
 
 > **Proposition 14** *(structural).* An instrument that has been incorporated into the body schema is not available to first-person inspection as an instrument, and its transparency is constitutive rather than accidental. When what is incorporated is a medium arranged by an interested party, the arrangement inherits the transparency.
 
-## Part two: the instrument that never breaks
+## The instrument that never breaks
 
 Heidegger reaches the same structure by another route and adds something Merleau-Ponty does not: an account of *when* the instrument becomes visible. That turns out to be the key.
 
@@ -732,7 +732,7 @@ Breakdowns do occur. Services go down. Feeds visibly malfunction. A recommendati
 
 The question is whether disclosure accumulates, and it appears not to. The outage is repaired, the scandal is absorbed, transparency is restored and the context goes dark again. What is left is not an attribution but a memory of an interruption, and a memory of an interruption does not govern anything.
 
-## Part three: manufactured authorship
+## Manufactured authorship
 
 The last line of defense is the strongest available: *I know I chose to open it, because I was there.*
 
@@ -788,7 +788,7 @@ Naming without attributing is not a partial success. It has two specific failure
 
 The second failure is that the disclosure has been absorbed as content. Critique of the attention economy is a high-performing category *within* the attention economy. Documentaries about attention capture are distributed on attention-capture platforms and ranked by the systems they criticize. Essays about the feed are optimized for the feed. The apparatus is not merely surviving the disclosure. It is metabolizing it.
 
-A third effect is the sharpest prediction in this chapter. By Proposition 16, being able to describe the mechanism supplies exactly the cues of authorship. Consider a person who can explain engagement optimization, knows about variable-ratio reward schedules and can name what is being done to them. Their next four hours of scrolling arrive with a narrative attached that is knowing, ironic and chosen. Priority, consistency and exclusivity are all satisfied, now with an explicit theory on top. That predicts something checkable. Critical knowledge of the mechanism should not reduce the behavior, and it may raise people's reported sense of control while leaving the behavior unchanged. If so, the critique works as a better *authorship narrative* rather than as an intervention. It does not free the person. It improves the story they tell about the same conduct.
+A third effect is the sharpest prediction in this chapter. By Proposition 16, being able to describe the mechanism supplies exactly the cues of authorship. Consider a person who can explain engagement optimization, knows about variable-ratio reward schedules (rewards that arrive at unpredictable intervals, the pattern slot machines use) and can name what is being done to them. Their next four hours of scrolling arrive with a narrative attached that is knowing, ironic and chosen. Priority, consistency and exclusivity are all satisfied, now with an explicit theory on top. That predicts something checkable. Critical knowledge of the mechanism should not reduce the behavior, and it may raise people's reported sense of control while leaving the behavior unchanged. If so, the critique works as a better *authorship narrative* rather than as an intervention. It does not free the person. It improves the story they tell about the same conduct.
 
 ### Where attribution has occurred
 
@@ -867,7 +867,7 @@ The sharper prediction concerns *where* theories arise, and it is sharp because 
 
 Run the test on yourself, in a domain you are not suspicious about. Pick something that affects you and was decided by someone. It might be the formulary that sets which medications your insurer covers, the model that priced your premium, the standard that defines a serving size, the committee that approved a drug you take, or the ranking function that decided what you saw this morning. Now find out who decided it, when, on what objective, and with what trade-off.
 
-In most cases you will find that you cannot. That is not because the decision is secret in any dramatic sense. It is because it was distributed across a committee, a model, a regulatory comment period, a vendor and an optimization process, and no document names an author. The inquiry does not hit a lie. It hits a structure with an author-shaped hole in it. That experience, a good-faith inquiry ending in an absence, is the raw material.
+In most cases you will find that you cannot. That is not because the decision is secret in any dramatic sense. It is because it was distributed across a committee, a model, a regulatory comment period, a vendor and an optimization process, and no document names an author. The inquiry does not hit a lie. It hits a structure with an agent-shaped hole in it. That experience, a good-faith inquiry ending in an absence, is the raw material.
 
 Test the prediction against the actual distribution. The recurring objects of American conspiracy belief are finance, public health, pharmaceutical regulation, election administration, intelligence agencies, media ownership and the food supply. Every one is a domain of genuinely distributed causation, where attribution is genuinely unavailable.
 
@@ -889,7 +889,7 @@ This has a consequence for anyone who wants to intervene. You are not asking the
 
 ## The evidence that it does not work
 
-This is what keeps the account from being an apology, and it is the strongest empirical finding in the book.
+This is what keeps the account from being an apology, and it is the best-supported empirical finding in the book, although what it supports is the direction of the effects and not their size.
 
 Douglas et al. (2017) organize the psychology of conspiracy belief around three motives, and that organization is now standard in the field. *Epistemic* motives are the desire for understanding, accuracy and certainty. *Existential* motives are the desire for safety, security and control: people turn to conspiracy theories when they are anxious and feel powerless. *Social* motives are the desire to maintain a positive image of oneself and one's group.
 
@@ -1080,13 +1080,13 @@ Chapters 6 and 7 form a pair. One concerns a disreputable response and one a res
 
 # The Fool Before the Wise Man
 
-*Why tolerating an undischarged impulse and tolerating being bad at something are one capacity*
+*Why tolerating an undischarged impulse and tolerating being bad at something belong to one family of capacities*
 
 Everything constructive asked of a modern person has a single prerequisite that is almost never named. That includes building a capacity, making something, and taking part in something instead of refusing it. *You have to be willing to be bad at it for a long time.*
 
 This is not a motivational point. It is structural. Competence has no shortcut, and acquiring it consists of an extended period of doing the thing badly, visibly, with the gap between one's performance and one's standard in plain view. That period is not a phase before the learning. It *is* the learning, and its experience is sustained, undischarged frustration.
 
-This chapter argues four things. The capacity to hold an undischarged impulse is a deposit rather than a cost. It is the *same* capacity as tolerance for incompetence. Three features of modern life have made the incompetence phase harder to enter than at any earlier point. And a culture that loses this capacity loses the ability to construct, which returns it to refusal as its only competence.
+This chapter argues four things. The capacity to hold an undischarged impulse is a deposit rather than a cost. It belongs to the same family as tolerance for incompetence, and the two share the ingredient that construction needs. Three features of modern life have made the incompetence phase harder to enter than at any earlier point. And a culture that loses this capacity loses the ability to construct, which returns it to refusal as its only competence.
 
 ## A deposit, not a cost
 
@@ -1112,11 +1112,17 @@ The deposit view also explains something the depletion view handles badly. Peopl
 
 Every constructive demand requires an extended period of being visibly bad at something: building a capacity, making something, tolerating a disagreement long enough to learn from it, moving from refusal to construction. The experience of that period is sustained, undischarged frustration. Proposition 9's capacity is therefore not one virtue among several. It is the enabling condition of construction itself.
 
-> **Proposition 10** *(structural).* The capacity to tolerate an undischarged impulse and the capacity to be bad at something are the same capacity. A culture in which the first is declining cannot build the second, and therefore cannot construct, which returns it to refusal as its only remaining competence.
+> **Proposition 10** *(structural).* Tolerating an undischarged impulse and tolerating being bad at something share one ingredient: remaining in an aversive state without acting to end it. They belong to a single family of capacities, and a culture that stops exercising the first has removed the training the second depends on. Such a culture cannot build the second, and therefore cannot construct, which returns it to refusal as its only remaining competence.
 
-This is the connection most worth taking from the chapter. A culture's inability to construct is not mainly a failure of imagination, will or vision. It is downstream of a lost tolerance for incompetence, which is downstream of a lost tolerance for undischarged frustration.
+This is the connection most worth taking from the chapter. A culture's inability to construct is not mainly a failure of imagination, will or vision. It is downstream of a lost tolerance for incompetence, and that tolerance draws on the same ingredient as the tolerance for undischarged frustration.
 
 Refusal, by contrast, needs no incompetence phase at all. You are good at refusing from the first attempt. That is exactly why a culture that has lost the capacity for the incompetence phase will find that refusal is the only competence it seems to have, and will mistake that finding for a judgment about the world.
+
+### One capacity, or a family of them?
+
+Proposition 10 invites an obvious challenge: are these really one thing? Clinical psychology has asked the same question for two decades under the name *distress tolerance*, the ability to withstand aversive experience. Researchers commonly treat tolerance of negative emotion, of frustration and of physical discomfort as dimensions of a single higher-order construct, and they argue about what else belongs under it (Wesner et al., 2023). The structure is not settled. In one student sample, behavioral tasks and self-report scales of distress tolerance did not form a single dimension, or even two correlated ones (Hsu et al., 2023). The evidence supports a family of related tolerances, not a single faculty, and it explains why the book's claim is narrower than "the same capacity." The two tolerances share the ingredient that matters for construction, staying in an aversive state without acting to end it, and what exercises one exercises the other. Whether practice in one transfers to the other is an empirical question, and Appendix D lists it as a test.
+
+The same literature gives the incompetence phase a better record than the book first assumed. Kapur's (2015) research on *productive failure* finds that students who struggle with a problem before being taught its solution later show better conceptual understanding and transfer than students taught directly. A meta-analysis of the twelve experimental studies it could use found a moderately positive effect of learning from failure (Darabi et al., 2018). The qualification is the interesting part. The struggle pays off when a consolidation phase follows it. Failure alone does not teach. Failure inside an arrangement that turns it into understanding does, and that is the logic of norms 6 and 8 in Chapter 9, which exist to make visible failure survivable.
 
 ### Three modern obstacles
 
@@ -1208,7 +1214,7 @@ The current governance conversation about online discourse is almost entirely ab
 
 Consider how thoroughly the offline equivalents exist. There are elaborate, unwritten, universally understood norms for a funeral, a dinner party, a checkout line, an elevator, a library, a courtroom, a playground, and a face-to-face conversation with someone you disagree with. They took generations to develop. They are enforced by nothing but mild disapproval. And they are extraordinarily effective.
 
-Online discourse is about twenty-five years old and has almost none. That is not a moral fact about the people using it. It is a fact about elapsed time. Norms develop slowly, and the medium has not existed for long.
+Online discourse is about twenty-five years old, counting from the spread of blogs and social platforms in the early 2000s, and has almost none. That is not a moral fact about the people using it. It is a fact about elapsed time. Norms develop slowly, and the medium has not existed for long.
 
 This is the most hopeful thing in the book, and after a great deal of grim analysis it deserves to be stated plainly. The condition described here is not a permanent feature of human nature meeting a permanent feature of technology. It is a norm vacuum in a young medium, and norm vacuums in young media have been filled before, by ordinary people, without anyone's permission.
 
@@ -1224,7 +1230,7 @@ This is the most hopeful thing in the book, and after a great deal of grim analy
 
 ## Twelve norms for digital civic life
 
-What follows is a draft for argument, not a prescription. Each norm is designed against Propositions 12 and 13: each is an arrangement rather than a state, each is cheap, and each works on a bad day. Each is tagged with the mechanism it targets, so that any of them can be rejected on the grounds that it does not do the work claimed.
+What follows is a draft for argument, not a prescription. Each norm is designed against Propositions 12 and 13: each is an arrangement rather than a state, each is cheap, and each works on a bad day. Each is tagged with the mechanism it targets, so that any of them can be rejected on the grounds that it does not do the work claimed. The tags name mechanisms described in Chapters 1 to 8 and defined in the Glossary.
 
 **1. State the strongest version of what you are disagreeing with before you disagree with it.**
 *Targets the reactive discharge and the authoritarian need for an enemy.* Restating a position accurately means holding it undischarged for the length of a paragraph. It is the cheapest interval training there is, it is publicly visible, and it makes the exchange much more likely to go somewhere.
@@ -1233,7 +1239,7 @@ What follows is a draft for argument, not a prescription. Each norm is designed 
 *Targets cynicism and the unfalsifiable position.* It costs one sentence and turns a posture into a claim. Anyone who cannot answer it has learned something. It is the single most valuable norm on this list.
 
 **3. Do not reply within the first minute.**
-*Targets the discharge directly.* This is a norm about latency, not tone, and the interval is the faculty being trained. It is the only norm here that works on time rather than on content, and it is the one most likely to make the others unnecessary.
+*Targets the discharge directly.* This is a norm about latency, not tone, and the interval is the faculty being trained. It is the only norm here defined purely by a delay, whatever the content, and it is the one most likely to make the others unnecessary.
 
 **4. Attribute before you attack: name who actually decided the thing.**
 *Targets anonymous authority and the conspiracist impulse.* When something outrageous has happened, the useful question is *who decided this, and what were they optimizing?* This is the constructive form of an impulse that conspiracism serves badly, and anyone with an afternoon can act on it.
@@ -1242,7 +1248,7 @@ What follows is a draft for argument, not a prescription. Each norm is designed 
 *Targets the verification loop.* Two different phrases, used consistently, would do more for public reasoning than any moderation policy. They cost nothing and are immediately legible.
 
 **6. Correct yourself in public, in the same place, without deleting.**
-*Targets the self held as a possession.* This is the norm most at odds with managing one's reputation, and therefore the most valuable. A community in which visible self-correction is ordinary is one in which being wrong is survivable, and a community in which being wrong is survivable can build things.
+*Targets the self held as a possession.* This is the norm most at odds with managing one's reputation, and therefore the hardest to adopt and the most revealing of whether a community can build. A community in which visible self-correction is ordinary is one in which being wrong is survivable, and a community in which being wrong is survivable can build things.
 
 **7. Do not speak about a category of people unless you could name three of them.**
 *Targets group narcissism and the authoritarian pair.* If the out-group in your sentence cannot be replaced by three actual people you know, the sentence is doing the work of group narcissism, not description.
@@ -1261,6 +1267,10 @@ What follows is a draft for argument, not a prescription. Each norm is designed 
 
 **12. Do not measure any of this.**
 *Targets the marketing orientation and the law of reversed effort.* Keep no streak, score, log, app or thread about your progress. A practice that acquires a number has become a display, and the apparatus has been given something new to sell you. This is the most likely failure, and it will not feel like failure while it is happening.
+
+### Habits, norms and the solitary ones
+
+Some of these can be done alone. Norms 9, 10 and 11 describe things one person can simply do, and a person doing them alone is keeping a habit. They become norms only to the extent that others can see them and come to expect them: the monthly thing is shown, the offline obligation is kept with people who notice an absence. Norm 10 is the exception. It is private training, offered because its stakes are the lowest on the list and failing at it costs nothing. The twelve are therefore a starting point for modeling, not a finished set of norms. A norm in the full sense needs other people.
 
 ### Two warnings
 
@@ -1314,11 +1324,11 @@ That is four things. None of them requires you to have a position on any civiliz
 
 Notice also where the leverage actually is. Chapter 1's inventory showed that of all the civilization-scale threats a citizen is expected to have a view on, only two have nonzero individual leverage, and both are local. One is community-scale pandemic response. The other is civil conflict, the only threat on the list constituted by the aggregate ordinary conduct of ordinary people rather than by a government, a laboratory or a rock. So the conduct norms above are not a consolation prize awarded to a citizen who cannot reach the real threats. They are direct action on one of the two threats the citizen can actually reach. That is the load-bearing conclusion of this chapter, and the constructive half of the book stands or falls with it.
 
-The evidence for that conclusion is partial, and it is worth stating at its actual strength. The conduct that feeds civil conflict is, in the research literature, largely *affective polarization*: the growing dislike and distrust that ordinary Americans feel toward members of the other party (Iyengar et al., 2019). A megastudy of 32,059 Americans tested 25 treatments designed to reduce partisan animosity and antidemocratic attitudes. Many reduced animosity, most strongly those that showed participants relatable, sympathetic individuals on the other side or emphasized identities that rival partisans share. Several reduced support for undemocratic practices, most strongly by correcting misperceptions of the other side's views (Voelkel et al., 2024). Those treatments resemble norms 1 and 7. The study measured attitudes in an experiment, and it tested treatments rather than norms. It supports the narrower claim that the attitudes behind civil conflict can be moved by the kind of act the norms ask for. It does not show that modeling a norm moves the aggregate.
+The evidence for that conclusion is partial, and it is worth stating at its actual strength. The conduct that feeds civil conflict is, in the research literature, largely *affective polarization*: the growing dislike and distrust that ordinary Americans feel toward members of the other party (Iyengar et al., 2019). A megastudy, a single experiment that tests many treatments at once, of 32,059 Americans tested 25 treatments designed to reduce partisan animosity and antidemocratic attitudes. Many reduced animosity, most strongly those that showed participants relatable, sympathetic individuals on the other side or emphasized identities that rival partisans share. Several reduced support for undemocratic practices, most strongly by correcting misperceptions of the other side's views (Voelkel et al., 2024). Those treatments resemble norms 1 and 7. The study measured attitudes in an experiment, and it tested treatments rather than norms. It supports the narrower claim that the attitudes behind civil conflict can be moved by the kind of act the norms ask for. It does not show that modeling a norm moves the aggregate.
 
 ### Why now
 
-The loop described in Chapter 4 does not stop on its own. Falling capacity to verify produces cynicism, cynicism removes the motive to rebuild that capacity, and each turn makes the next more likely. Loops of that kind are broken at the level of the individual or not at all, because no institution can install in a person the willingness to examine something. Every structural remedy worth endorsing produces a document that someone has to be willing to read.
+The loop described in Chapter 4 does not stop on its own. Falling capacity to verify produces cynicism, cynicism removes the motive to rebuild that capacity, and each turn makes the next more likely. Loops of that kind cannot be broken from outside alone, because no institution can install in a person the willingness to examine something. Every structural remedy worth endorsing produces a document that someone has to be willing to read.
 
 Norm vacuums also close, and someone closes them. The norms of a young medium are set in its first decades by whoever behaves consistently while everyone else improvises. That window is open now, and it will not stay open indefinitely. This is the one item in the book where being early actually matters.
 
@@ -1332,7 +1342,7 @@ The task is not to be right about the arrangement. The shrugger is already right
 
 # Conclusion: The Path to Renewal, Redrawn {.unnumbered}
 
-The Introduction offered a provisional map, a four-stage arc through four thinkers who never cited one another. Jaynes supplied an origin, Nietzsche a crisis, Watts a reorientation and Wallace a practice. The map had a pleasing shape. It ran from fragmentation to renewal, from a mind that obeyed voices to a mind that chooses where to look. It also concluded, as such maps usually do, that renewal is a bottom-up transformation of consciousness, a choice made again and again to pay attention and to care.
+The Introduction offered a provisional map, a four-stage arc through four thinkers who never cited one another. Jaynes supplied an origin, Nietzsche a crisis, Watts a reorientation and Wallace a practice. The map had a pleasing shape. It ran from a mind that obeyed voices to a mind that chooses where to look. It also concluded, as such maps usually do, that renewal is a bottom-up transformation of consciousness, a choice made again and again to pay attention and to care.
 
 After nine chapters, the first three stages hold. The fourth needs to be redrawn.
 
@@ -1352,7 +1362,7 @@ The address's own fate makes the point more sharply than any argument could. *Th
 
 So the fourth stage is not a transformation of consciousness. It has two halves, and neither works alone.
 
-**The structural half** belongs to the institutions that hold compulsory process. Chapter 5 found that every successful conversion of an anonymous arrangement into a decision with an author was achieved by discovery, compelled audit, statutory researcher access, or a person taking a personal risk. Awareness never achieved it. Renewal at this level means making authority speak again, supplying the agent that conspiracism fabricates and the critique only names. It is Jaynes's voice restored in the only form a modern democracy can accept: an author, on the record, who can be asked what they were optimizing.
+**The structural half** belongs to the institutions that hold compulsory process. Chapter 5 found that every successful conversion it could find of an anonymous arrangement into a decision with an author was achieved by discovery, compelled audit, statutory researcher access, or a person taking a personal risk. Awareness never achieved it. Renewal at this level means making authority speak again, supplying the agent that conspiracism fabricates and the critique only names. It is Jaynes's voice restored in the only form a modern democracy can accept: an author, on the record, who can be asked what they were optimizing.
 
 **The personal half** belongs to anyone, and it lies in arrangements rather than in attention. It means bounding the set, keeping one obligation with people who will notice an absence, practicing the interval where failing costs nothing, and modeling a few norms in the places where strangers talk. Attention is still the faculty at stake. But it is trained by arrangement, not commanded by resolve.
 
@@ -1378,7 +1388,7 @@ Citizens of wealthy democracies are now expected to hold a defensible position o
 
 Drawing on phenomenology (Merleau-Ponty, Heidegger) and on experimental work on confabulation, apparent mental causation and choice blindness, the book argues that first-person report cannot detect the shaping of attention by incorporated, breakdown-resistant instruments, because the sense of authorship is assembled after the fact from cues an arrangement can supply. It then analyzes two counterfeit responses. One is conspiracism, which supplies a fabricated agent and, on the evidence, fails to satisfy the epistemic, existential and social motives that drive it. The other is the near-universally accepted critique of the attention economy. That critique is accurate and behaviorally inert, and the book proposes that assent itself discharges the pressure that would have produced action. The two differ enormously in truth and not at all in structure.
 
-The constructive argument identifies a single capacity behind construction: tolerating an undischarged impulse, which is the same capacity as tolerating being bad at something. Because a resolution not to react is itself a reaction, remedies must operate on arrangements rather than on states. At civic scale that means norms, which are cheap, legible, enforced by mildness and built by modeling rather than advocacy. The book proposes twelve norms for online discourse, a medium it treats as a norm vacuum in its first decades. It locates the citizen's real leverage in civil conflict, the one civilization-scale threat made up of ordinary conduct. And it redraws a four-stage arc from Jaynes to Wallace so that it ends not in a transformation of consciousness but in a movement from refusal to authorship. Nineteen numbered propositions carry the argument, each stated with the observation that would refute it.
+The constructive argument identifies a family of capacities behind construction, centered on tolerating an undischarged impulse, which belongs to the same family as tolerating being bad at something. Because a resolution not to react is itself a reaction, remedies must operate on arrangements rather than on states. At civic scale that means norms, which are cheap, legible, enforced by mildness and built by modeling rather than advocacy. The book proposes twelve norms for online discourse, a medium it treats as a norm vacuum in its first decades. It locates the citizen's real leverage in civil conflict, the one civilization-scale threat made up of ordinary conduct. And it redraws a four-stage arc from Jaynes to Wallace so that it ends not in a transformation of consciousness but in a movement from refusal to authorship. Nineteen numbered propositions carry the argument, each stated with the observation that would refute it.
 
 ## Keywords by field
 
@@ -1394,7 +1404,7 @@ The constructive argument identifies a single capacity behind construction: tole
 
 # Glossary {.unnumbered}
 
-This glossary works as a translation table. Each entry gives the term's home field in brackets, a definition as the book uses it, and, where they exist, the nearest equivalents in other fields (marked **≈**). Equivalence is approximate by design. Chapter 1 shows that two literatures sometimes study one structure under different names, and the glossary records the overlaps without claiming the terms are identical. Numbers in parentheses refer to chapters.
+This glossary works as a translation table. Each entry gives the term's home field in brackets, a definition as the book uses it, and, where they exist, the nearest equivalents in other fields (marked **≈**). Equivalence is approximate by design. Chapters 1 and 2 show that several literatures sometimes study one structure under different names, and the glossary records the overlaps without claiming the terms are identical. Numbers in parentheses refer to chapters.
 
 Active and passive nihilism
 :   [Philosophy, Nietzsche] Two responses to the collapse of values. Active nihilism attacks exhausted values from strength. Passive nihilism lowers the question until it stops hurting. ≈ *engagement* and *disengagement* (political science). (3)
@@ -1404,6 +1414,9 @@ Agent-shaped hole
 
 Alienation
 :   [Philosophy, Marx; psychology, Fromm] The condition in which a person's own product or capacity confronts them as an external power. In this book, the capacity is attention and critical judgment. ≈ *externalization* (sociology); *depersonalization* (clinical psychology, in a narrower sense). (5, 7)
+
+Amor fati
+:   [Philosophy, Nietzsche] "Love of fate": the test of whether a person could will their life unchanged, in every detail, endlessly. Offered as a criterion of whether a life is one's own, not as a cosmology. ≈ *radical acceptance* (clinical psychology, loosely). (3)
 
 Amour propre
 :   [Philosophy, Rousseau] Self-regard whose object is a position relative to others, not a good, and which therefore cannot be satisfied in principle. ≈ *social comparison* (social psychology); *positional goods* (economics). (8)
@@ -1435,6 +1448,9 @@ Body schema
 Breakdown
 :   [Phenomenology, Heidegger] The failure of equipment, as conspicuousness, obtrusiveness or obstinacy, through which a tool and its whole context of use become visible. ≈ *error salience* (human factors); *seamful design* (interaction design). (5)
 
+Causal and role responsibility
+:   [Moral philosophy] Two of the three senses of responsibility separated in Chapter 1. Causal responsibility means being among the causes of an outcome. Role responsibility means holding a position that assigns a bounded task with a completion condition. The citizen's condition is answerability without either. ≈ *backward-looking and forward-looking responsibility* (ethics); *accountability* (organizational theory). (1)
+
 Choice blindness
 :   [Psychology, Johansson and Hall] The failure to notice that one has been given an option one did not choose, followed by fluent justification of the substituted choice. (5)
 
@@ -1448,7 +1464,7 @@ Disappointment
 :   [This book] An object that fails the presenting criterion, so that the failure is legible and corrects itself. The opposite of a counterfeit. (6)
 
 Double bind
-:   [Communication theory, Bateson] A demand whose fulfillment is ruled out by the form of the demand, as in "do not react." (9)
+:   [Communication theory, Bateson] A demand whose fulfillment is ruled out by the form of the demand, as in "do not react." ≈ *paradoxical injunction* (family therapy); *catch-22* (everyday speech). (9)
 
 Efficacy, internal and external
 :   [Political science] Internal efficacy is the belief that one can understand and take part in politics. External efficacy is the belief that the system responds. The combination of high internal and low external efficacy is the profile of the informed, exhausted citizen. ≈ *self-efficacy* (Bandura, for the internal component); *alienation* (political sociology). (1)
@@ -1466,13 +1482,16 @@ Having mode
 :   [Psychology, Fromm] Relating to beliefs, skills and selves as possessions rather than activities. ≈ *fixed mindset* (educational psychology, in part); *identity-protective cognition*. (1, 8)
 
 Hexis
-:   [Philosophy, Aristotle] A settled disposition built by repeated action, in which the repetitions constitute the disposition rather than providing evidence of it. ≈ *habit formation* (psychology); *skill acquisition*. (8)
+:   [Philosophy, Aristotle] A settled disposition built by repeated action, in which the repetitions constitute the disposition rather than providing evidence of it. ≈ *habit formation* and *skill acquisition* (psychology), though these lose the point that the repetitions *constitute* the disposition; *disposition* (virtue ethics). (8)
 
 Idolatry
-:   [Psychology, Fromm] Investing a human power in something outside oneself and then obeying it, so that the idol strengthens as the person weakens. (5, 7)
+:   [Psychology, Fromm] Investing a human power in something outside oneself and then obeying it, so that the idol strengthens as the person weakens. (5, 6, 7)
 
 Incorporation
 :   [Phenomenology] The process by which a tool stops being an object of experience and becomes a medium of experience (Proposition 14). ≈ *embodiment* (cognitive science); *tool extension* (neuroscience). (5)
+
+Individuation
+:   [Psychology, Jung] The lifelong process of becoming the particular individual one is, by integrating what has not yet been integrated. It cannot be shortened and passes through phases of not yet being what one is becoming. ≈ *self-actualization* (humanistic psychology, loosely); *identity formation* (developmental psychology). (8)
 
 Interval
 :   [This book, after Nietzsche] The gap between a stimulus arriving and a response leaving. The faculty that verification, deliberation, learning and refusal all presuppose. ≈ *response inhibition* (cognitive psychology); *executive control*; *equanimity* (contemplative traditions, though the interval is not calm). (4, 9)
@@ -1490,7 +1509,7 @@ Lion, camel, child
 :   [Philosophy, Nietzsche] The three metamorphoses of the spirit: bearing given values, winning freedom by refusing them, and creating. In this book the lion stands for negative freedom and a culture fluent only in refusal (Proposition 3). (2, 3, 8)
 
 Moral distress
-:   [Nursing ethics, Jameton] Distress that arises from knowing the right action while being constrained from taking it. The book's condition of *responsibility without efficacy* is substantially this construct, applied to citizens. ≈ *responsibility without efficacy* (this book); *learned helplessness* (in its older sense). (1)
+:   [Nursing ethics, Jameton] Distress that arises from knowing the right action while being constrained from taking it. The book's condition of *responsibility without efficacy* is substantially this construct, applied to citizens. ≈ *responsibility without efficacy* (this book); *low external efficacy* (political science, for the citizen's side of it). (1)
 
 Moral residue and the crescendo effect
 :   [Nursing ethics, Epstein and Hamric] The lasting weight of unresolved episodes of moral distress, which raises the baseline for the next episode and can end in withdrawal or numbing. (1)
@@ -1499,7 +1518,7 @@ Norm
 :   [Sociology; political science] A standard of conduct enforced by ambient expectation and mild social cost rather than by an authority. It is anonymous in origin but revisable by everyone it binds. ≈ *descriptive and injunctive norms* (social psychology); *custom*; *etiquette*. (9, Conclusion)
 
 Norm entrepreneur
-:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalized. (9)
+:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalized. ≈ *policy entrepreneur* (political science); *moral entrepreneur* (sociology). (9)
 
 Overt authority
 :   [Psychology, Fromm] Authority exercised by an identifiable agent issuing an identifiable command, and therefore open to disobedience. (2, 6)
@@ -1525,8 +1544,11 @@ Shrug
 Subtraction without provision
 :   [This book] Removing a constraint without supplying the capacity or function it supported. Delivered to someone short of freedom-to, it widens the gap it was meant to close (Proposition 2). (1, 2, 4)
 
+Übermensch
+:   [Philosophy, Nietzsche] Often rendered "overman" or "overhuman." Not a biological type, not a superior individual and not a state one attains, but an orientation of the self toward creating values and overcoming what one currently is. The Last Man's counterpart in the fork the guarantee's loss opens (Chapter 3). (3)
+
 Wu wei
-:   [Philosophy, Daoist] Usually rendered "non-action." Better rendered "action that does not force": action along the grain of a situation, taken on the arrangement rather than the contents. (9)
+:   [Philosophy, Daoist] Usually rendered "non-action." Better rendered "action that does not force": action along the grain of a situation, taken on the arrangement rather than the contents. ≈ *effortless action* (Daoist scholarship); *flow* (psychology, loosely, though flow is a state and wu wei is a way of acting). (9)
 
 # Works Cited {.unnumbered}
 
@@ -1545,6 +1567,8 @@ Center for Near-Earth Object Studies. (2026). *Sentry: Earth impact monitoring* 
 Corley, M. C., Elswick, R. K., Gorman, M., & Clor, T. (2001). Development and evaluation of a moral distress scale. *Journal of Advanced Nursing, 33*(2), 250–256. <https://doi.org/10.1046/j.1365-2648.2001.01658.x>
 
 Craig, S. C., Niemi, R. G., & Silver, G. E. (1990). Political efficacy and trust: A report on the NES pilot study items. *Political Behavior, 12*(3), 289–314. <https://doi.org/10.1007/BF00992337>
+
+Darabi, A., Arrington, T. L., & Sayilir, E. (2018). Learning from failure: A meta-analysis of the empirical studies. *Educational Technology Research and Development, 66*(5), 1101–1118. <https://doi.org/10.1007/s11423-018-9579-9>
 
 Douglas, K. M., Sutton, R. M., & Cichocka, A. (2017). The psychology of conspiracy theories. *Current Directions in Psychological Science, 26*(6), 538–542. <https://doi.org/10.1177/0963721417718261>
 
@@ -1574,6 +1598,8 @@ Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: 
 
 Heidegger, M. (1962). *Being and time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original work published 1927)
 
+Hsu, T., Thomas, E. B. K., Welch, E. K., O'Hara, M. W., & McCabe, J. E. (2023). Examining the structure of distress tolerance: Are behavioral and self-report indicators assessing the same construct? *Journal of Contextual Behavioral Science, 27*, 143–151. <https://doi.org/10.1016/j.jcbs.2023.02.001>
+
 Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129–146. <https://doi.org/10.1146/annurev-polisci-051117-073034>
 
 Jameton, A. (1984). *Nursing practice: The ethical issues*. Prentice-Hall.
@@ -1589,6 +1615,8 @@ Jung, C. G. (1968a). On the psychology of the trickster-figure. In *The archetyp
 Jung, C. G. (1968b). *Psychology and alchemy* (R. F. C. Hull, Trans.; 2nd ed., Collected Works Vol. 12). Princeton University Press. (Original work published 1944)
 
 Jung, C. G. (1971). *Psychological types* (H. G. Baynes, Trans., rev. R. F. C. Hull; Collected Works Vol. 6). Princeton University Press. (Original work published 1921)
+
+Kapur, M. (2015). Learning from productive failure. *Learning: Research and Practice, 1*(1), 51–65. <https://doi.org/10.1080/23735082.2015.1002195>
 
 Karger, E., Rosenberg, J., Jacobs, Z., Hickman, M., Hadshar, R., Gamin, K., Smith, T., Williams, B., McCaslin, T., Thomas, S., & Tetlock, P. E. (2023). *Forecasting existential risks: Evidence from a long-run forecasting tournament* (Forecasting Research Institute report, revised August 8, 2023). <https://forecastingresearch.org/research/existential-risk-persuasion-tournament>
 
@@ -1650,6 +1678,8 @@ Weber, E. U. (2006). Experience-based and description-based perceptions of long-
 
 Wegner, D. M. (2002). *The illusion of conscious will*. MIT Press.
 
+Wesner, E., Pavuluri, A., Norwood, E., Schmidt, B., & Bernat, E. (2023). Evaluating competing models of distress tolerance via structural equation modeling. *Journal of Psychiatric Research, 162*, 95–102. <https://doi.org/10.1016/j.jpsychires.2023.03.040>
+
 Wilson, T. D., Reinhard, D. A., Westgate, E. C., Gilbert, D. T., Ellerbeck, N., Hahn, C., Brown, C. L., & Shaked, A. (2014). Just think: The challenges of the disengaged mind. *Science, 345*(6192), 75–77. <https://doi.org/10.1126/science.1250830>
 
 :::
@@ -1670,7 +1700,7 @@ This book is the first trade edition of an argument that has existed in two earl
 
 *The fourth stage of the arc.* *The Path to Renewal* ended in Wallace's discipline of attention and in renewal as a bottom-up transformation of consciousness. The book's own findings, especially Chapters 5, 7 and 9, contradict that ending. The Conclusion redraws it.
 
-*Sources from the earlier editions not carried forward.* Several references in the modular edition's apparatus are not cited in this edition's text and have been dropped from the Works Cited: the conformity studies of Asch, of Sherif and of Deutsch and Gerard; Leary's sociometer studies; Johnson and Goldstein on defaults; the paired nudging meta-analyses of Mertens and colleagues and of Maier and colleagues; Orwell's *Animal Farm*; and the OECD Survey of Adult Skills. The reference apparatus of *The Path to Renewal* consisted largely of social-media posts, video pages and secondary web sources, and none of it has been carried forward. Its four thinkers are cited here from their own works.
+*Sources from the earlier editions not carried forward.* Several references in the modular edition's apparatus are not cited in this edition's text and have been dropped from the Works Cited: the conformity studies of Asch, of Sherif and of Deutsch and Gerard; Leary's sociometer studies; Johnson and Goldstein on defaults; the paired nudging meta-analyses of Mertens and colleagues and of Maier and colleagues (a different Maier from the Maier and Seligman paper of 2016, which is still cited); Orwell's *Animal Farm*; and the OECD Survey of Adult Skills. The reference apparatus of *The Path to Renewal* consisted largely of social-media posts, video pages and secondary web sources, and none of it has been carried forward. Its four thinkers are cited here from their own works.
 
 **Corrections made in this edition.**
 
@@ -1696,7 +1726,7 @@ The propositions keep the numbers they had in the modular edition so that each c
 | 7 | Filling every interval by default is a choice about the unfilled interval. | S | 4 |
 | 8 | Declining verification and rising cynicism form a loop coupled by the reactive discharge. | H | 4 |
 | 9 | An undischarged impulse is a deposit, not a cost. | S | 8 |
-| 10 | Tolerating an undischarged impulse and tolerating incompetence are one capacity. | S | 8 |
+| 10 | Tolerating an undischarged impulse and tolerating incompetence share one ingredient and belong to one family of capacities. | S | 8 |
 | 11 | Development requires a deliberately entered phase of visible incompetence. | S | 8 |
 | 12 | Remedies must operate on arrangements rather than on states. | S | 9 |
 | 13 | A practice is useful in proportion to how little attention it requires. | S | 9 |
@@ -1709,7 +1739,7 @@ The propositions keep the numbers they had in the modular edition so that each c
 
 # Appendix C: How Sure Is the Book? Evidence Grades {.unnumbered #app-c}
 
-Grades: **Established**: replicated, adequately powered and consistent. **Supported**: direct evidence, with limits named. **Preliminary**: a single study or indirect evidence. **Contested**: credible evidence on both sides. **Speculative**: plausible but undemonstrated.
+Grades: **Established**: replicated, adequately powered and consistent. **Supported**: direct evidence, with limits named. **Preliminary**: a single study or indirect evidence. **Contested**: credible evidence on both sides. **Speculative**: plausible but undemonstrated. The propositions are not graded as wholes. Each rests on the claims below, Appendix B gives its register (structural, interpretive, empirical or hypothesis), and Appendix D gives the observation that would refute it.
 
 | Claim | Grade | Note | Ch. |
 |:------------------------------------|:-----------------|:---------------------------------------|:--:|
@@ -1717,7 +1747,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Finite pool of worry | Contested | Recent tests favor attention, not worry | 1 |
 | Identified-victim asymmetry | Supported | Strong "numbing" version used only in weak form | 1 |
 | NEO catalog and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
-| Dispersion of expert estimates on unprecedented risks | Supported | Karger et al. (2023): extinction by 2100, 6% (experts) vs 1% (superforecasters); estimates differ in definitions and horizons | 1 |
+| Dispersion of expert estimates on unprecedented risks | Supported | Karger et al. (2023): extinction by 2100 from all causes, 6% (domain experts) vs 1% (superforecasters); from AI, 3% vs 0.38%; published AI estimates differ in definitions and horizons | 1 |
 | Moral distress as a construct | Supported | Boundaries debated; instruments have limits | 1 |
 | Moral residue and crescendo effect | Preliminary | Accumulation dynamics less tested | 1 |
 | Internal/external efficacy distinction | Established | Behavioral predictions more contested | 1 |
@@ -1741,6 +1771,8 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Cynical genius illusion and calibration | Supported | Large multinational data | 9 |
 | Treatments reduce partisan animosity and antidemocratic attitudes | Supported | Voelkel et al. (2024), a 32,059-person experiment; attitudes, not long-run conduct; persistence not assessed here | 9 |
 | Affective polarization as the form civil conflict takes | Supported | Iyengar et al. (2019), review; the identification with the book's "civil conflict" is interpretive | 9 |
+| Distress tolerance as a higher-order construct with frustration tolerance as a dimension | Contested | Wesner et al. (2023); structure debated; behavioral and self-report indicators did not form one dimension (Hsu et al., 2023) | 8 |
+| Struggle before instruction aids understanding and transfer | Supported | Kapur (2015); Darabi et al. (2018): moderately positive, from twelve experimental studies; effect depends on a consolidation phase | 8 |
 | Ego depletion | Contested | Multilab replication failed; book builds on neither side | 8 |
 
 # Appendix D: Limits of the Argument, and the Tests That Would Show It Wrong {.unnumbered #app-d}
@@ -1749,13 +1781,13 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **The book has the form of what it diagnoses.** It describes a hidden order behind the visible one, an adversary, a disclosure and a reader who comes to see. Chapter 6 says this form does not sort by respectability, and the book falls under that judgment. Falsifiers and grades are a partial governor, not an exemption.
 
-**The empirical support is selected.** The grades are honest, but the citations have not been audited symmetrically for disconfirming work. A hostile reader would find gaps.
+**The empirical support is selected.** The grades follow the stated scale, but the citations have not been audited symmetrically for disconfirming work. A hostile reader would find gaps.
 
 **The national frame may be decorative.** Chapters 2 and 3 read the United States through a civic grammar of prohibitions. If a polity with a strong positive-freedom tradition shows the same paralysis under the same conditions, the frame is rhetorical and the argument should be restated structurally without it.
 
 **Two chapters come close to refuting the enterprise.** Chapter 5 concludes that attribution comes from compulsory process, never from awareness. Chapter 7 concludes that critique is a counterfeit whose consumption discharges the pressure it creates. Chapter 7 states the narrow use that survives.
 
-**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
+**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. Proposition 10 claims a shared ingredient and a common family of capacities; the research on distress tolerance supports the family and leaves open whether practice transfers between its members. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
 
 ## Tests, by proposition
 
@@ -1764,6 +1796,8 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 **Proposition 2.** If a well-designed study finds that reducing consumption durably reduces the specific sense of unmet obligation, Proposition 2 is wrong in this domain.
 
 **Proposition 3.** A defensible reading in which Nietzsche treats the lion as terminal, or as coordinate with the camel and the child rather than sequential, would refute it.
+
+**Proposition 4.** If organized refusal of a diffuse arrangement (a market convention, a ranking practice, a standard of what is done) routinely succeeds in cases where no agent was identified first, the claim that anonymous authority cannot be disobeyed fails.
 
 **Chapters 2 and 3 (the lion diagnosis).** *Coalition test:* if negative-goal coalitions persist after success at the same rate as positive-goal coalitions, the diagnosis loses its main empirical support. *Comparative test:* identical paralysis in a positive-freedom polity refutes the national frame. *Reversal test:* a durable recovery in confidence-in-institutions series, or a positively framed coalition succeeding durably at scale, counts against the assessment.
 
@@ -1775,7 +1809,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Proposition 8.** Longitudinal measurement of verification capacity and cynicism in the same individuals, with an arm that raises capacity, would test it. Independent movement of the two, or no fall in cynicism when capacity rises, would refute the coupling.
 
-**Propositions 9–11.** *Dissociation test:* populations high in one tolerance and low in the other refute the identity claim of Proposition 10. *Depletion test:* robust evidence that the tolerance is depleting rather than trainable refutes Proposition 9. *Bypass test:* a demonstrated route to competence without a phase of visible incompetence refutes Proposition 11. *Visibility test:* attempts should be initiated more often in private than in permanently recorded public settings, controlling for the skill.
+**Propositions 9–11.** *Dissociation and transfer tests:* populations high in one tolerance and low in the other, or training in one that does not transfer to the other, would reduce Proposition 10 to a correlation between separate capacities. *Depletion test:* robust evidence that the tolerance is depleting rather than trainable refutes Proposition 9. *Bypass test:* a demonstrated route to competence without a phase of visible incompetence refutes Proposition 11. *Visibility test:* attempts should be initiated more often in private than in permanently recorded public settings, controlling for the skill.
 
 **Propositions 12–13.** *Latency test:* do arrangement-based interventions outperform prohibition-based ones at equal reported effort? *Willpower test:* if practices that demand high attention persist better in the field than low-attention ones, Proposition 13 is backwards. *Norm-seeding test:* if deliberate seeding of norms fails, the practical half reduces to description. *Aggression test:* norms enforced aggressively should fail more often.
 
@@ -1797,7 +1831,8 @@ In the master text of this book, a dagger (†) marks a quotation or figure that
 
 1. **Wallace on being "alone with images on a screen"** (Chapter 4). This is attributed to the 1996 conversations with David Lipsky, published in Lipsky's 2010 book. The wording circulates in several slightly different forms. *Needed:* page number and exact wording from the printed book.
 2. **Jung, *Collected Works* 9i, ¶472** (Chapter 8). The passage on the trickster as "a forerunner of the saviour" is quoted from secondary sources and has not been checked against the printed volume. *Needed:* verification against CW 9i.
-3. **"Skin-encapsulated ego"** (Conclusion). The phrase is widely attributed to Watts and associated with *The Book*. *Needed:* page location.
+3. **"Skin-encapsulated ego"** (Introduction and Conclusion). The phrase is widely attributed to Watts and associated with *The Book*. *Needed:* page location.
+4. **The 1998 NASA survey goal and its completion** (Chapter 1). The goal of finding 90 percent of the kilometer-class near-Earth objects is reported as set in 1998 and met. The text says "set for NASA" because the source of the mandate (Congress or NASA's own commitment) and the date of completion have not been confirmed. *Needed:* a NASA or Congressional primary document.
 
 ## Paraphrases awaiting verbatim wording (‡)
 
@@ -1818,5 +1853,4 @@ The line "The fool is the precursor to the savior," attributed to Jung, could no
 
 - Page-level citations for Fromm on the authoritarian (sado-masochistic) character and on group narcissism.
 - An edition and page for Heidegger's terms (Macquarrie and Robinson or Stambaugh) and for Merleau-Ponty's examples (Landes).
-- Confirmation of the 1998 congressional goal and its completion (Chapter 1).
 - Confirmation of the original publication year (1909) of Common's *Zarathustra* in the Levy edition.

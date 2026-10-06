@@ -4,7 +4,7 @@
 
 # Conclusion: The Path to Renewal, Redrawn {.unnumbered}
 
-The Introduction offered a provisional map, a four-stage arc through four thinkers who never cited one another. Jaynes supplied an origin, Nietzsche a crisis, Watts a reorientation and Wallace a practice. The map had a pleasing shape. It ran from fragmentation to renewal, from a mind that obeyed voices to a mind that chooses where to look. It also concluded, as such maps usually do, that renewal is a bottom-up transformation of consciousness, a choice made again and again to pay attention and to care.
+The Introduction offered a provisional map, a four-stage arc through four thinkers who never cited one another. Jaynes supplied an origin, Nietzsche a crisis, Watts a reorientation and Wallace a practice. The map had a pleasing shape. It ran from a mind that obeyed voices to a mind that chooses where to look. It also concluded, as such maps usually do, that renewal is a bottom-up transformation of consciousness, a choice made again and again to pay attention and to care.
 
 After nine chapters, the first three stages hold. The fourth needs to be redrawn.
 
@@ -24,7 +24,7 @@ The address's own fate makes the point more sharply than any argument could. *Th
 
 So the fourth stage is not a transformation of consciousness. It has two halves, and neither works alone.
 
-**The structural half** belongs to the institutions that hold compulsory process. Chapter 5 found that every successful conversion of an anonymous arrangement into a decision with an author was achieved by discovery, compelled audit, statutory researcher access, or a person taking a personal risk. Awareness never achieved it. Renewal at this level means making authority speak again, supplying the agent that conspiracism fabricates and the critique only names. It is Jaynes's voice restored in the only form a modern democracy can accept: an author, on the record, who can be asked what they were optimizing.
+**The structural half** belongs to the institutions that hold compulsory process. Chapter 5 found that every successful conversion it could find of an anonymous arrangement into a decision with an author was achieved by discovery, compelled audit, statutory researcher access, or a person taking a personal risk. Awareness never achieved it. Renewal at this level means making authority speak again, supplying the agent that conspiracism fabricates and the critique only names. It is Jaynes's voice restored in the only form a modern democracy can accept: an author, on the record, who can be asked what they were optimizing.
 
 **The personal half** belongs to anyone, and it lies in arrangements rather than in attention. It means bounding the set, keeping one obligation with people who will notice an absence, practicing the interval where failing costs nothing, and modeling a few norms in the places where strangers talk. Attention is still the faculty at stake. But it is trained by arrangement, not commanded by resolve.
 

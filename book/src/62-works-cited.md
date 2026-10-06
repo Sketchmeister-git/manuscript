@@ -16,6 +16,8 @@ Corley, M. C., Elswick, R. K., Gorman, M., & Clor, T. (2001). Development and ev
 
 Craig, S. C., Niemi, R. G., & Silver, G. E. (1990). Political efficacy and trust: A report on the NES pilot study items. *Political Behavior, 12*(3), 289–314. <https://doi.org/10.1007/BF00992337>
 
+Darabi, A., Arrington, T. L., & Sayilir, E. (2018). Learning from failure: A meta-analysis of the empirical studies. *Educational Technology Research and Development, 66*(5), 1101–1118. <https://doi.org/10.1007/s11423-018-9579-9>
+
 Douglas, K. M., Sutton, R. M., & Cichocka, A. (2017). The psychology of conspiracy theories. *Current Directions in Psychological Science, 26*(6), 538–542. <https://doi.org/10.1177/0963721417718261>
 
 Epstein, E. G., & Hamric, A. B. (2009). Moral distress, moral residue, and the crescendo effect. *The Journal of Clinical Ethics, 20*(4), 330–342. <https://doi.org/10.1086/jce200920406>
@@ -44,6 +46,8 @@ Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: 
 
 Heidegger, M. (1962). *Being and time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original work published 1927)
 
+Hsu, T., Thomas, E. B. K., Welch, E. K., O'Hara, M. W., & McCabe, J. E. (2023). Examining the structure of distress tolerance: Are behavioral and self-report indicators assessing the same construct? *Journal of Contextual Behavioral Science, 27*, 143–151. <https://doi.org/10.1016/j.jcbs.2023.02.001>
+
 Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129–146. <https://doi.org/10.1146/annurev-polisci-051117-073034>
 
 Jameton, A. (1984). *Nursing practice: The ethical issues*. Prentice-Hall.
@@ -59,6 +63,8 @@ Jung, C. G. (1968a). On the psychology of the trickster-figure. In *The archetyp
 Jung, C. G. (1968b). *Psychology and alchemy* (R. F. C. Hull, Trans.; 2nd ed., Collected Works Vol. 12). Princeton University Press. (Original work published 1944)
 
 Jung, C. G. (1971). *Psychological types* (H. G. Baynes, Trans., rev. R. F. C. Hull; Collected Works Vol. 6). Princeton University Press. (Original work published 1921)
+
+Kapur, M. (2015). Learning from productive failure. *Learning: Research and Practice, 1*(1), 51–65. <https://doi.org/10.1080/23735082.2015.1002195>
 
 Karger, E., Rosenberg, J., Jacobs, Z., Hickman, M., Hadshar, R., Gamin, K., Smith, T., Williams, B., McCaslin, T., Thomas, S., & Tetlock, P. E. (2023). *Forecasting existential risks: Evidence from a long-run forecasting tournament* (Forecasting Research Institute report, revised August 8, 2023). <https://forecastingresearch.org/research/existential-risk-persuasion-tournament>
 
@@ -119,6 +125,8 @@ Watts, A. (1966). *The book: On the taboo against knowing who you are*. Pantheon
 Weber, E. U. (2006). Experience-based and description-based perceptions of long-term risk: Why global warming does not scare us (yet). *Climatic Change, 77*(1–2), 103–120. <https://doi.org/10.1007/s10584-006-9060-3>
 
 Wegner, D. M. (2002). *The illusion of conscious will*. MIT Press.
+
+Wesner, E., Pavuluri, A., Norwood, E., Schmidt, B., & Bernat, E. (2023). Evaluating competing models of distress tolerance via structural equation modeling. *Journal of Psychiatric Research, 162*, 95–102. <https://doi.org/10.1016/j.jpsychires.2023.03.040>
 
 Wilson, T. D., Reinhard, D. A., Westgate, E. C., Gilbert, D. T., Ellerbeck, N., Hahn, C., Brown, C. L., & Shaked, A. (2014). Just think: The challenges of the disengaged mind. *Science, 345*(6192), 75–77. <https://doi.org/10.1126/science.1250830>
 

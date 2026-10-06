@@ -14,7 +14,7 @@ This book is the first trade edition of an argument that has existed in two earl
 
 *The fourth stage of the arc.* *The Path to Renewal* ended in Wallace's discipline of attention and in renewal as a bottom-up transformation of consciousness. The book's own findings, especially Chapters 5, 7 and 9, contradict that ending. The Conclusion redraws it.
 
-*Sources from the earlier editions not carried forward.* Several references in the modular edition's apparatus are not cited in this edition's text and have been dropped from the Works Cited: the conformity studies of Asch, of Sherif and of Deutsch and Gerard; Leary's sociometer studies; Johnson and Goldstein on defaults; the paired nudging meta-analyses of Mertens and colleagues and of Maier and colleagues; Orwell's *Animal Farm*; and the OECD Survey of Adult Skills. The reference apparatus of *The Path to Renewal* consisted largely of social-media posts, video pages and secondary web sources, and none of it has been carried forward. Its four thinkers are cited here from their own works.
+*Sources from the earlier editions not carried forward.* Several references in the modular edition's apparatus are not cited in this edition's text and have been dropped from the Works Cited: the conformity studies of Asch, of Sherif and of Deutsch and Gerard; Leary's sociometer studies; Johnson and Goldstein on defaults; the paired nudging meta-analyses of Mertens and colleagues and of Maier and colleagues (a different Maier from the Maier and Seligman paper of 2016, which is still cited); Orwell's *Animal Farm*; and the OECD Survey of Adult Skills. The reference apparatus of *The Path to Renewal* consisted largely of social-media posts, video pages and secondary web sources, and none of it has been carried forward. Its four thinkers are cited here from their own works.
 
 **Corrections made in this edition.**
 
@@ -40,7 +40,7 @@ The propositions keep the numbers they had in the modular edition so that each c
 | 7 | Filling every interval by default is a choice about the unfilled interval. | S | 4 |
 | 8 | Declining verification and rising cynicism form a loop coupled by the reactive discharge. | H | 4 |
 | 9 | An undischarged impulse is a deposit, not a cost. | S | 8 |
-| 10 | Tolerating an undischarged impulse and tolerating incompetence are one capacity. | S | 8 |
+| 10 | Tolerating an undischarged impulse and tolerating incompetence share one ingredient and belong to one family of capacities. | S | 8 |
 | 11 | Development requires a deliberately entered phase of visible incompetence. | S | 8 |
 | 12 | Remedies must operate on arrangements rather than on states. | S | 9 |
 | 13 | A practice is useful in proportion to how little attention it requires. | S | 9 |
@@ -53,7 +53,7 @@ The propositions keep the numbers they had in the modular edition so that each c
 
 # Appendix C: How Sure Is the Book? Evidence Grades {.unnumbered #app-c}
 
-Grades: **Established**: replicated, adequately powered and consistent. **Supported**: direct evidence, with limits named. **Preliminary**: a single study or indirect evidence. **Contested**: credible evidence on both sides. **Speculative**: plausible but undemonstrated.
+Grades: **Established**: replicated, adequately powered and consistent. **Supported**: direct evidence, with limits named. **Preliminary**: a single study or indirect evidence. **Contested**: credible evidence on both sides. **Speculative**: plausible but undemonstrated. The propositions are not graded as wholes. Each rests on the claims below, Appendix B gives its register (structural, interpretive, empirical or hypothesis), and Appendix D gives the observation that would refute it.
 
 | Claim | Grade | Note | Ch. |
 |:------------------------------------|:-----------------|:---------------------------------------|:--:|
@@ -61,7 +61,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Finite pool of worry | Contested | Recent tests favor attention, not worry | 1 |
 | Identified-victim asymmetry | Supported | Strong "numbing" version used only in weak form | 1 |
 | NEO catalog and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
-| Dispersion of expert estimates on unprecedented risks | Supported | Karger et al. (2023): extinction by 2100, 6% (experts) vs 1% (superforecasters); estimates differ in definitions and horizons | 1 |
+| Dispersion of expert estimates on unprecedented risks | Supported | Karger et al. (2023): extinction by 2100 from all causes, 6% (domain experts) vs 1% (superforecasters); from AI, 3% vs 0.38%; published AI estimates differ in definitions and horizons | 1 |
 | Moral distress as a construct | Supported | Boundaries debated; instruments have limits | 1 |
 | Moral residue and crescendo effect | Preliminary | Accumulation dynamics less tested | 1 |
 | Internal/external efficacy distinction | Established | Behavioral predictions more contested | 1 |
@@ -85,6 +85,8 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Cynical genius illusion and calibration | Supported | Large multinational data | 9 |
 | Treatments reduce partisan animosity and antidemocratic attitudes | Supported | Voelkel et al. (2024), a 32,059-person experiment; attitudes, not long-run conduct; persistence not assessed here | 9 |
 | Affective polarization as the form civil conflict takes | Supported | Iyengar et al. (2019), review; the identification with the book's "civil conflict" is interpretive | 9 |
+| Distress tolerance as a higher-order construct with frustration tolerance as a dimension | Contested | Wesner et al. (2023); structure debated; behavioral and self-report indicators did not form one dimension (Hsu et al., 2023) | 8 |
+| Struggle before instruction aids understanding and transfer | Supported | Kapur (2015); Darabi et al. (2018): moderately positive, from twelve experimental studies; effect depends on a consolidation phase | 8 |
 | Ego depletion | Contested | Multilab replication failed; book builds on neither side | 8 |
 
 # Appendix D: Limits of the Argument, and the Tests That Would Show It Wrong {.unnumbered #app-d}
@@ -93,13 +95,13 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **The book has the form of what it diagnoses.** It describes a hidden order behind the visible one, an adversary, a disclosure and a reader who comes to see. Chapter 6 says this form does not sort by respectability, and the book falls under that judgment. Falsifiers and grades are a partial governor, not an exemption.
 
-**The empirical support is selected.** The grades are honest, but the citations have not been audited symmetrically for disconfirming work. A hostile reader would find gaps.
+**The empirical support is selected.** The grades follow the stated scale, but the citations have not been audited symmetrically for disconfirming work. A hostile reader would find gaps.
 
 **The national frame may be decorative.** Chapters 2 and 3 read the United States through a civic grammar of prohibitions. If a polity with a strong positive-freedom tradition shows the same paralysis under the same conditions, the frame is rhetorical and the argument should be restated structurally without it.
 
 **Two chapters come close to refuting the enterprise.** Chapter 5 concludes that attribution comes from compulsory process, never from awareness. Chapter 7 concludes that critique is a counterfeit whose consumption discharges the pressure it creates. Chapter 7 states the narrow use that survives.
 
-**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
+**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. Proposition 10 claims a shared ingredient and a common family of capacities; the research on distress tolerance supports the family and leaves open whether practice transfers between its members. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
 
 ## Tests, by proposition
 
@@ -108,6 +110,8 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 **Proposition 2.** If a well-designed study finds that reducing consumption durably reduces the specific sense of unmet obligation, Proposition 2 is wrong in this domain.
 
 **Proposition 3.** A defensible reading in which Nietzsche treats the lion as terminal, or as coordinate with the camel and the child rather than sequential, would refute it.
+
+**Proposition 4.** If organized refusal of a diffuse arrangement (a market convention, a ranking practice, a standard of what is done) routinely succeeds in cases where no agent was identified first, the claim that anonymous authority cannot be disobeyed fails.
 
 **Chapters 2 and 3 (the lion diagnosis).** *Coalition test:* if negative-goal coalitions persist after success at the same rate as positive-goal coalitions, the diagnosis loses its main empirical support. *Comparative test:* identical paralysis in a positive-freedom polity refutes the national frame. *Reversal test:* a durable recovery in confidence-in-institutions series, or a positively framed coalition succeeding durably at scale, counts against the assessment.
 
@@ -119,7 +123,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Proposition 8.** Longitudinal measurement of verification capacity and cynicism in the same individuals, with an arm that raises capacity, would test it. Independent movement of the two, or no fall in cynicism when capacity rises, would refute the coupling.
 
-**Propositions 9–11.** *Dissociation test:* populations high in one tolerance and low in the other refute the identity claim of Proposition 10. *Depletion test:* robust evidence that the tolerance is depleting rather than trainable refutes Proposition 9. *Bypass test:* a demonstrated route to competence without a phase of visible incompetence refutes Proposition 11. *Visibility test:* attempts should be initiated more often in private than in permanently recorded public settings, controlling for the skill.
+**Propositions 9–11.** *Dissociation and transfer tests:* populations high in one tolerance and low in the other, or training in one that does not transfer to the other, would reduce Proposition 10 to a correlation between separate capacities. *Depletion test:* robust evidence that the tolerance is depleting rather than trainable refutes Proposition 9. *Bypass test:* a demonstrated route to competence without a phase of visible incompetence refutes Proposition 11. *Visibility test:* attempts should be initiated more often in private than in permanently recorded public settings, controlling for the skill.
 
 **Propositions 12–13.** *Latency test:* do arrangement-based interventions outperform prohibition-based ones at equal reported effort? *Willpower test:* if practices that demand high attention persist better in the field than low-attention ones, Proposition 13 is backwards. *Norm-seeding test:* if deliberate seeding of norms fails, the practical half reduces to description. *Aggression test:* norms enforced aggressively should fail more often.
 
@@ -141,7 +145,8 @@ In the master text of this book, a dagger (†) marks a quotation or figure that
 
 1. **Wallace on being "alone with images on a screen"** (Chapter 4). This is attributed to the 1996 conversations with David Lipsky, published in Lipsky's 2010 book. The wording circulates in several slightly different forms. *Needed:* page number and exact wording from the printed book.
 2. **Jung, *Collected Works* 9i, ¶472** (Chapter 8). The passage on the trickster as "a forerunner of the saviour" is quoted from secondary sources and has not been checked against the printed volume. *Needed:* verification against CW 9i.
-3. **"Skin-encapsulated ego"** (Conclusion). The phrase is widely attributed to Watts and associated with *The Book*. *Needed:* page location.
+3. **"Skin-encapsulated ego"** (Introduction and Conclusion). The phrase is widely attributed to Watts and associated with *The Book*. *Needed:* page location.
+4. **The 1998 NASA survey goal and its completion** (Chapter 1). The goal of finding 90 percent of the kilometer-class near-Earth objects is reported as set in 1998 and met. The text says "set for NASA" because the source of the mandate (Congress or NASA's own commitment) and the date of completion have not been confirmed. *Needed:* a NASA or Congressional primary document.
 
 ## Paraphrases awaiting verbatim wording (‡)
 
@@ -162,5 +167,4 @@ The line "The fool is the precursor to the savior," attributed to Jung, could no
 
 - Page-level citations for Fromm on the authoritarian (sado-masochistic) character and on group narcissism.
 - An edition and page for Heidegger's terms (Macquarrie and Robinson or Stambaugh) and for Merleau-Ponty's examples (Landes).
-- Confirmation of the 1998 congressional goal and its completion (Chapter 1).
 - Confirmation of the original publication year (1909) of Common's *Zarathustra* in the Levy edition.

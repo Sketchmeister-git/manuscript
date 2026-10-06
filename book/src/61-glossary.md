@@ -1,6 +1,6 @@
 # Glossary {.unnumbered}
 
-This glossary works as a translation table. Each entry gives the term's home field in brackets, a definition as the book uses it, and, where they exist, the nearest equivalents in other fields (marked **≈**). Equivalence is approximate by design. Chapter 1 shows that two literatures sometimes study one structure under different names, and the glossary records the overlaps without claiming the terms are identical. Numbers in parentheses refer to chapters.
+This glossary works as a translation table. Each entry gives the term's home field in brackets, a definition as the book uses it, and, where they exist, the nearest equivalents in other fields (marked **≈**). Equivalence is approximate by design. Chapters 1 and 2 show that several literatures sometimes study one structure under different names, and the glossary records the overlaps without claiming the terms are identical. Numbers in parentheses refer to chapters.
 
 Active and passive nihilism
 :   [Philosophy, Nietzsche] Two responses to the collapse of values. Active nihilism attacks exhausted values from strength. Passive nihilism lowers the question until it stops hurting. ≈ *engagement* and *disengagement* (political science). (3)
@@ -10,6 +10,9 @@ Agent-shaped hole
 
 Alienation
 :   [Philosophy, Marx; psychology, Fromm] The condition in which a person's own product or capacity confronts them as an external power. In this book, the capacity is attention and critical judgment. ≈ *externalization* (sociology); *depersonalization* (clinical psychology, in a narrower sense). (5, 7)
+
+Amor fati
+:   [Philosophy, Nietzsche] "Love of fate": the test of whether a person could will their life unchanged, in every detail, endlessly. Offered as a criterion of whether a life is one's own, not as a cosmology. ≈ *radical acceptance* (clinical psychology, loosely). (3)
 
 Amour propre
 :   [Philosophy, Rousseau] Self-regard whose object is a position relative to others, not a good, and which therefore cannot be satisfied in principle. ≈ *social comparison* (social psychology); *positional goods* (economics). (8)
@@ -41,6 +44,9 @@ Body schema
 Breakdown
 :   [Phenomenology, Heidegger] The failure of equipment, as conspicuousness, obtrusiveness or obstinacy, through which a tool and its whole context of use become visible. ≈ *error salience* (human factors); *seamful design* (interaction design). (5)
 
+Causal and role responsibility
+:   [Moral philosophy] Two of the three senses of responsibility separated in Chapter 1. Causal responsibility means being among the causes of an outcome. Role responsibility means holding a position that assigns a bounded task with a completion condition. The citizen's condition is answerability without either. ≈ *backward-looking and forward-looking responsibility* (ethics); *accountability* (organizational theory). (1)
+
 Choice blindness
 :   [Psychology, Johansson and Hall] The failure to notice that one has been given an option one did not choose, followed by fluent justification of the substituted choice. (5)
 
@@ -54,7 +60,7 @@ Disappointment
 :   [This book] An object that fails the presenting criterion, so that the failure is legible and corrects itself. The opposite of a counterfeit. (6)
 
 Double bind
-:   [Communication theory, Bateson] A demand whose fulfillment is ruled out by the form of the demand, as in "do not react." (9)
+:   [Communication theory, Bateson] A demand whose fulfillment is ruled out by the form of the demand, as in "do not react." ≈ *paradoxical injunction* (family therapy); *catch-22* (everyday speech). (9)
 
 Efficacy, internal and external
 :   [Political science] Internal efficacy is the belief that one can understand and take part in politics. External efficacy is the belief that the system responds. The combination of high internal and low external efficacy is the profile of the informed, exhausted citizen. ≈ *self-efficacy* (Bandura, for the internal component); *alienation* (political sociology). (1)
@@ -72,13 +78,16 @@ Having mode
 :   [Psychology, Fromm] Relating to beliefs, skills and selves as possessions rather than activities. ≈ *fixed mindset* (educational psychology, in part); *identity-protective cognition*. (1, 8)
 
 Hexis
-:   [Philosophy, Aristotle] A settled disposition built by repeated action, in which the repetitions constitute the disposition rather than providing evidence of it. ≈ *habit formation* (psychology); *skill acquisition*. (8)
+:   [Philosophy, Aristotle] A settled disposition built by repeated action, in which the repetitions constitute the disposition rather than providing evidence of it. ≈ *habit formation* and *skill acquisition* (psychology), though these lose the point that the repetitions *constitute* the disposition; *disposition* (virtue ethics). (8)
 
 Idolatry
-:   [Psychology, Fromm] Investing a human power in something outside oneself and then obeying it, so that the idol strengthens as the person weakens. (5, 7)
+:   [Psychology, Fromm] Investing a human power in something outside oneself and then obeying it, so that the idol strengthens as the person weakens. (5, 6, 7)
 
 Incorporation
 :   [Phenomenology] The process by which a tool stops being an object of experience and becomes a medium of experience (Proposition 14). ≈ *embodiment* (cognitive science); *tool extension* (neuroscience). (5)
+
+Individuation
+:   [Psychology, Jung] The lifelong process of becoming the particular individual one is, by integrating what has not yet been integrated. It cannot be shortened and passes through phases of not yet being what one is becoming. ≈ *self-actualization* (humanistic psychology, loosely); *identity formation* (developmental psychology). (8)
 
 Interval
 :   [This book, after Nietzsche] The gap between a stimulus arriving and a response leaving. The faculty that verification, deliberation, learning and refusal all presuppose. ≈ *response inhibition* (cognitive psychology); *executive control*; *equanimity* (contemplative traditions, though the interval is not calm). (4, 9)
@@ -96,7 +105,7 @@ Lion, camel, child
 :   [Philosophy, Nietzsche] The three metamorphoses of the spirit: bearing given values, winning freedom by refusing them, and creating. In this book the lion stands for negative freedom and a culture fluent only in refusal (Proposition 3). (2, 3, 8)
 
 Moral distress
-:   [Nursing ethics, Jameton] Distress that arises from knowing the right action while being constrained from taking it. The book's condition of *responsibility without efficacy* is substantially this construct, applied to citizens. ≈ *responsibility without efficacy* (this book); *learned helplessness* (in its older sense). (1)
+:   [Nursing ethics, Jameton] Distress that arises from knowing the right action while being constrained from taking it. The book's condition of *responsibility without efficacy* is substantially this construct, applied to citizens. ≈ *responsibility without efficacy* (this book); *low external efficacy* (political science, for the citizen's side of it). (1)
 
 Moral residue and the crescendo effect
 :   [Nursing ethics, Epstein and Hamric] The lasting weight of unresolved episodes of moral distress, which raises the baseline for the next episode and can end in withdrawal or numbing. (1)
@@ -105,7 +114,7 @@ Norm
 :   [Sociology; political science] A standard of conduct enforced by ambient expectation and mild social cost rather than by an authority. It is anonymous in origin but revisable by everyone it binds. ≈ *descriptive and injunctive norms* (social psychology); *custom*; *etiquette*. (9, Conclusion)
 
 Norm entrepreneur
-:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalized. (9)
+:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalized. ≈ *policy entrepreneur* (political science); *moral entrepreneur* (sociology). (9)
 
 Overt authority
 :   [Psychology, Fromm] Authority exercised by an identifiable agent issuing an identifiable command, and therefore open to disobedience. (2, 6)
@@ -131,5 +140,8 @@ Shrug
 Subtraction without provision
 :   [This book] Removing a constraint without supplying the capacity or function it supported. Delivered to someone short of freedom-to, it widens the gap it was meant to close (Proposition 2). (1, 2, 4)
 
+Übermensch
+:   [Philosophy, Nietzsche] Often rendered "overman" or "overhuman." Not a biological type, not a superior individual and not a state one attains, but an orientation of the self toward creating values and overcoming what one currently is. The Last Man's counterpart in the fork the guarantee's loss opens (Chapter 3). (3)
+
 Wu wei
-:   [Philosophy, Daoist] Usually rendered "non-action." Better rendered "action that does not force": action along the grain of a situation, taken on the arrangement rather than the contents. (9)
+:   [Philosophy, Daoist] Usually rendered "non-action." Better rendered "action that does not force": action along the grain of a situation, taken on the arrangement rather than the contents. ≈ *effortless action* (Daoist scholarship); *flow* (psychology, loosely, though flow is a state and wu wei is a way of acting). (9)

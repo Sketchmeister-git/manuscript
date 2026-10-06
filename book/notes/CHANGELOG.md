@@ -52,3 +52,11 @@ Derived from the modular edition (Modules A–I) and *The Path to Renewal*. Stru
 | 21 | Ch. 9; Appendix C, D | The claim that civil conflict is the threat within a citizen's reach had no citation either way. | Added Iyengar et al. (2019) and Voelkel et al. (2024) with an explicit statement of what they do and do not show (attitudes in an experiment; treatments, not norms). Logged as a weak joint in Appendix D. |
 | 22 | Works Cited | Four sources added (Brenan; Iyengar et al.; Karger et al.; Voelkel et al.). | 60 entries; the citation sweep matches 60/60 in both directions. |
 | 23 | Retraction check | No retraction or editorial-notice check had been run. | All 25 DOIs in the Works Cited, and the two new ones, return no `updated-by` notices from Crossref (which includes the Retraction Watch records). Not a substitute for each publisher's own page. |
+
+## Proposition 10 audit and reader test, 2026-10-06
+
+| # | Where | Change |
+|---|---|---|
+| 24 | Ch. 8, Proposition 10, Appendices B–D | The audit of "same capacity" found a family of related tolerances, not one faculty (Wesner et al., 2023; Hsu et al., 2023: behavioral and self-report indicators did not form one dimension). Proposition 10 now claims a shared ingredient and one family of capacities, and a new section, "One capacity, or a family of them?", gives the evidence. Kapur (2015) and Darabi et al. (2018) added for the incompetence phase. Four Works Cited entries (64 total). Appendix D now lists a transfer test. |
+| 25 | Whole book | Reader-test fixes: see `READER-TEST_2026-10-06.md` for the full table (about 30 changes). |
+| 26 | Ch. 1; Appendix E | The 1998 NASA survey goal is reworded and marked † because its source and completion were not confirmed. |
