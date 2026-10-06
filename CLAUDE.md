@@ -37,7 +37,7 @@ A PostToolUse hook runs the first two after every edit to `book/src/`, `index_te
 | Reader stress test on the final proof | `document-reader-stress-test` |
 | Retraction and editorial-notice check on every DOI | `citation-verification` (Scite `editorialNotices`) |
 | Construct-overlap audit, Proposition 10 | `construct-overlap-audit` |
-| Find missing sources (trust series, polarisation, elicitation dispersion) | `literature-access`, `literature-review` |
+| Find further sources (the three gaps from the first pass are closed; see `notes/PASS-REPORT_2026-10-06.md`) | `literature-access`, `literature-review` |
 | Attack the recorded weaknesses | `adversarial-pass` |
 | Check verbatim quotations | `quotation-integrity` |
 | Another KDP build or a new version | `self-published-book-pass` |

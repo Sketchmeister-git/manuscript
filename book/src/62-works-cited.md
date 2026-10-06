@@ -8,6 +8,8 @@ Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). Toward a theory o
 
 Botvinick, M., & Cohen, J. (1998). Rubber hands "feel" touch that eyes see. *Nature, 391*(6669), 756. <https://doi.org/10.1038/35784>
 
+Brenan, M. (2025, July 17). *Democrats' confidence in U.S. institutions sinks to new low*. Gallup. <https://news.gallup.com/poll/692633/democrats-confidence-institutions-sinks-new-low.aspx>
+
 Center for Near-Earth Object Studies. (2026). *Sentry: Earth impact monitoring* and *Small-Body Database query*. NASA Jet Propulsion Laboratory. Retrieved October 3, 2026, from <https://cneos.jpl.nasa.gov/sentry/>
 
 Corley, M. C., Elswick, R. K., Gorman, M., & Clor, T. (2001). Development and evaluation of a moral distress scale. *Journal of Advanced Nursing, 33*(2), 250–256. <https://doi.org/10.1046/j.1365-2648.2001.01658.x>
@@ -42,6 +44,8 @@ Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: 
 
 Heidegger, M. (1962). *Being and time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original work published 1927)
 
+Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129–146. <https://doi.org/10.1146/annurev-polisci-051117-073034>
+
 Jameton, A. (1984). *Nursing practice: The ethical issues*. Prentice-Hall.
 
 Jaynes, J. (1976). *The origin of consciousness in the breakdown of the bicameral mind*. Houghton Mifflin.
@@ -55,6 +59,8 @@ Jung, C. G. (1968a). On the psychology of the trickster-figure. In *The archetyp
 Jung, C. G. (1968b). *Psychology and alchemy* (R. F. C. Hull, Trans.; 2nd ed., Collected Works Vol. 12). Princeton University Press. (Original work published 1944)
 
 Jung, C. G. (1971). *Psychological types* (H. G. Baynes, Trans., rev. R. F. C. Hull; Collected Works Vol. 6). Princeton University Press. (Original work published 1921)
+
+Karger, E., Rosenberg, J., Jacobs, Z., Hickman, M., Hadshar, R., Gamin, K., Smith, T., Williams, B., McCaslin, T., Thomas, S., & Tetlock, P. E. (2023). *Forecasting existential risks: Evidence from a long-run forecasting tournament* (Forecasting Research Institute report, revised August 8, 2023). <https://forecastingresearch.org/research/existential-risk-persuasion-tournament>
 
 Kaufmann, W. (1974). *Nietzsche: Philosopher, psychologist, antichrist* (4th ed.). Princeton University Press.
 
@@ -97,6 +103,8 @@ Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and
 Stavrova, O., & Ehlebracht, D. (2019). The cynical genius illusion: Exploring and debunking lay beliefs about cynicism and competence. *Personality and Social Psychology Bulletin, 45*(2), 254–269. <https://doi.org/10.1177/0146167218783195>
 
 Tocqueville, A. de. (2006). *Democracy in America* (Vol. 2; H. Reeve, Trans.). Project Gutenberg. <https://www.gutenberg.org/ebooks/816> (Original work published 1840)
+
+Voelkel, J. G., Stagnaro, M. N., Chu, J. Y., Pink, S. L., Mernyk, J. S., Redekopp, C., Ghezae, I., Cashman, M., Adjodah, D., Allen, L. G., Allis, L. V., Baleria, G., Ballantyne, N., Van Bavel, J. J., Blunden, H., Braley, A., Bryan, C. J., Celniker, J. B., Cikara, M., . . . Willer, R. (2024). Megastudy testing 25 treatments to reduce antidemocratic attitudes and partisan animosity. *Science, 386*(6719), Article eadh4764. <https://doi.org/10.1126/science.adh4764>
 
 Wallace, D. F. (1993). E unibus pluram: Television and U.S. fiction. *Review of Contemporary Fiction, 13*(2), 151–194.
 

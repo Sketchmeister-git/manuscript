@@ -61,14 +61,14 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Finite pool of worry | Contested | Recent tests favor attention, not worry | 1 |
 | Identified-victim asymmetry | Supported | Strong "numbing" version used only in weak form | 1 |
 | NEO catalog and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
-| Dispersion of expert estimates on unprecedented risks | Supported | Fact about the estimates; source to be added (see Appendix E) | 1 |
+| Dispersion of expert estimates on unprecedented risks | Supported | Karger et al. (2023): extinction by 2100, 6% (experts) vs 1% (superforecasters); estimates differ in definitions and horizons | 1 |
 | Moral distress as a construct | Supported | Boundaries debated; instruments have limits | 1 |
 | Moral residue and crescendo effect | Preliminary | Accumulation dynamics less tested | 1 |
 | Internal/external efficacy distinction | Established | Behavioral predictions more contested | 1 |
 | Learned control (revised helplessness) | Supported | Mapping to civic behavior is an extrapolation | 1 |
 | Consumption reduction leaves the sense of obligation intact | Preliminary | Literature weak, self-report heavy; nothing built on it | 1, 4 |
 | Negative-goal coalitions dissolve on success | Speculative | Untested; needs a coded dataset | 2 |
-| Declining confidence in institutions | Supported | Long-running survey series; source to be added | 3 |
+| Low confidence in institutions | Supported | Brenan (2025): 28% average, near the 46-year low; partisan gap is the series maximum. "Declines in nearly every category" is no longer claimed | 3 |
 | Passive nihilism widespread | Contested | Disengagement and intense engagement coexist | 3 |
 | Unfilled interval rated unpleasant | Supported | Self-shock condition contested, illustrative only | 4 |
 | Mind-wandering and lower happiness | Supported | Causal direction is the standard caveat | 4 |
@@ -83,6 +83,8 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Conspiracy motives not satisfied by belief | Supported | Direction well supported; effect sizes uncertain | 6 |
 | Form-constancy across contents | Supported by observation | Copying not excluded; selection argument untested | 6 |
 | Cynical genius illusion and calibration | Supported | Large multinational data | 9 |
+| Treatments reduce partisan animosity and antidemocratic attitudes | Supported | Voelkel et al. (2024), a 32,059-person experiment; attitudes, not long-run conduct; persistence not assessed here | 9 |
+| Affective polarization as the form civil conflict takes | Supported | Iyengar et al. (2019), review; the identification with the book's "civil conflict" is interpretive | 9 |
 | Ego depletion | Contested | Multilab replication failed; book builds on neither side | 8 |
 
 # Appendix D: Limits of the Argument, and the Tests That Would Show It Wrong {.unnumbered #app-d}
@@ -97,7 +99,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Two chapters come close to refuting the enterprise.** Chapter 5 concludes that attribution comes from compulsory process, never from awareness. Chapter 7 concludes that critique is a counterfeit whose consumption discharges the pressure it creates. Chapter 7 states the narrow use that survives.
 
-**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome.
+**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
 
 ## Tests, by proposition
 
@@ -160,7 +162,5 @@ The line "The fool is the precursor to the savior," attributed to Jung, could no
 
 - Page-level citations for Fromm on the authoritarian (sado-masochistic) character and on group narcissism.
 - An edition and page for Heidegger's terms (Macquarrie and Robinson or Stambaugh) and for Merleau-Ponty's examples (Landes).
-- A source for the dispersion of expert estimates on unprecedented catastrophic risks (Chapter 1).
-- A source for long-run declines in confidence in institutions (Chapter 3), such as the Gallup or General Social Survey series.
 - Confirmation of the 1998 congressional goal and its completion (Chapter 1).
 - Confirmation of the original publication year (1909) of Common's *Zarathustra* in the Levy edition.

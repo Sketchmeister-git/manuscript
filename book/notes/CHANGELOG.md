@@ -42,3 +42,13 @@ Derived from the modular edition (Modules A–I) and *The Path to Renewal*. Stru
 | 16 | New formats | `build/build_formats.py` builds the EPUB 3 and Word editions from the master. Parts and chapter numbers are written into the headings, the front matter is generated from `book_config.py`, and the † ‡ marks appear only in Appendix E. |
 | 17 | Paper stock | Kept cream; the wrap cover, spine (0.3825 in at 153 pp.) and interior are built from the same page count, so they agree. |
 | 18 | Kept as placeholders (author's choice) | The personal paragraph and city in *A Message from the Author*, and the back-cover bio. |
+
+## Source pass, 2026-10-06 (continuing the next-pass queue)
+
+| # | Where | Gap or error | Resolution |
+|---|---|---|---|
+| 19 | Ch. 1; Appendix C | Expert dispersion on unprecedented risks was asserted with no source. | Added Karger et al. (2023): median extinction by 2100 of 6% (domain experts) vs 1% (superforecasters); AI-caused extinction 3% vs 0.38%; the report's table of published AI-extinction estimates spans 25% to 0.38% (about sixtyfold, with differing definitions and horizons). Figures read from the report's Tables 1 and 6. |
+| 20 | Ch. 3; Appendix C | "Long-running survey series … show declines across nearly every category they track" was unsupported as stated. | Replaced with what the source shows: Brenan (2025), Gallup's nine institutions average 28%, near the 46-year low, under 30% four years running; the party gap (37% vs 26%) is the series maximum and moves with control of the presidency. The category-by-category claim is no longer made. |
+| 21 | Ch. 9; Appendix C, D | The claim that civil conflict is the threat within a citizen's reach had no citation either way. | Added Iyengar et al. (2019) and Voelkel et al. (2024) with an explicit statement of what they do and do not show (attitudes in an experiment; treatments, not norms). Logged as a weak joint in Appendix D. |
+| 22 | Works Cited | Four sources added (Brenan; Iyengar et al.; Karger et al.; Voelkel et al.). | 60 entries; the citation sweep matches 60/60 in both directions. |
+| 23 | Retraction check | No retraction or editorial-notice check had been run. | All 25 DOIs in the Works Cited, and the two new ones, return no `updated-by` notices from Crossref (which includes the Retraction Watch records). Not a substitute for each publisher's own page. |

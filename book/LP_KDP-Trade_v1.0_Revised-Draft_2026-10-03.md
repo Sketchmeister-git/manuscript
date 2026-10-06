@@ -150,7 +150,7 @@ An argument that insists on measurement cannot then wave vaguely at "existential
 
 Nobody feels that. The gap between what the evidence licenses and what a person feels on reading an asteroid headline is the cleanest available case of vividness overriding probability where the probability is actually known. It is also the reason the asteroid belongs on the list at all. It shows that the weight is not coming from the threats.
 
-**The threats we cannot count.** Nuclear war, engineered pandemics, catastrophic AI outcomes, grid collapse and civil conflict have no base rate, because they are not repeated trials. What exists instead is expert judgment, and on unprecedented events that judgment is widely dispersed. A dispersed estimate is not evidence for its high end. Quoting the highest credible figure as what "experts say" is the standard distortion of catastrophe writing. It is an instance of what Kuran and Sunstein (1999) called an *availability cascade*, a self-reinforcing process in which a claim gains plausibility through repetition, and the repetition is driven by how arresting the claim is rather than by its support.
+**The threats we cannot count.** Nuclear war, engineered pandemics, catastrophic AI outcomes, grid collapse and civil conflict have no base rate, because they are not repeated trials. What exists instead is expert judgment, and on unprecedented events that judgment is widely dispersed. The Existential Risk Persuasion Tournament put the same questions to 80 domain experts and 89 superforecasters and shows how far apart two kinds of credible judgment can sit. The median probability of human extinction by 2100 was 6 percent for the experts and 1 percent for the superforecasters. For extinction caused by artificial intelligence it was 3 percent and 0.38 percent (Karger et al., 2023). The report's own table of published estimates for AI-caused extinction runs from 25 percent down to 0.38 percent, a spread of about sixtyfold, although the studies differ in definitions and time horizons. A dispersed estimate is not evidence for its high end. Quoting the highest credible figure as what "experts say" is the standard distortion of catastrophe writing. It is an instance of what Kuran and Sunstein (1999) called an *availability cascade*, a self-reinforcing process in which a claim gains plausibility through repetition, and the repetition is driven by how arresting the claim is rather than by its support.
 
 **Climate is the distinctive case.** It is settled in direction and magnitude, long in timescale, diffuse in agent and negligible in individual leverage. It therefore produces maximal responsibility with minimal efficacy, on a horizon no single life can close. If the central proposition of this chapter holds, climate should produce more distress per unit of expected harm than anything else on the list. That is a prediction worth testing.
 
@@ -524,7 +524,7 @@ This genre usually goes wrong at this point by predicting. The better course is 
 
 **The guarantee has gone.** This is not an atheist claim, since a majority still report belief. It is a claim about the background of public argument. The assumption that values are underwritten by something outside human decision is no longer the default, even among believers, who now argue for their values in the same currency as everyone else.
 
-**The shadows have been found out.** Nation, party, progress, market and expert authority have each undergone serial and largely justified disillusionment within living memory. Long-running survey series on confidence in institutions show declines across nearly every category they track.
+**The shadows have been found out.** Nation, party, progress, market and expert authority have each undergone serial and largely justified disillusionment within living memory. Gallup's nine institutions, tracked consistently since 1979, now average 28 percent confidence ("a great deal" or "quite a lot"). That is near the lowest reading in forty-six years of measurement, and the average has stayed under 30 percent for four years running (Brenan, 2025). The same report adds a qualification. The average is stable only in aggregate. Republicans' and Democrats' confidence swings with which party holds the presidency, and the 11-point gap between them is the largest in the series. Confidence is low overall, and for partisans it follows control of the White House.
 
 **Passive nihilism is widespread.** This is the claim most often asserted and least often shown. Some evidence points toward it: declining participation, declining trust, and a rising expectation that public claims are made in bad faith. But it sits alongside strong evidence of intense, sustained and costly engagement by very large numbers of people. An account that reports only the disengagement is selecting its data, and much writing in this area does exactly that.
 
@@ -1314,6 +1314,8 @@ That is four things. None of them requires you to have a position on any civiliz
 
 Notice also where the leverage actually is. Chapter 1's inventory showed that of all the civilization-scale threats a citizen is expected to have a view on, only two have nonzero individual leverage, and both are local. One is community-scale pandemic response. The other is civil conflict, the only threat on the list constituted by the aggregate ordinary conduct of ordinary people rather than by a government, a laboratory or a rock. So the conduct norms above are not a consolation prize awarded to a citizen who cannot reach the real threats. They are direct action on one of the two threats the citizen can actually reach. That is the load-bearing conclusion of this chapter, and the constructive half of the book stands or falls with it.
 
+The evidence for that conclusion is partial, and it is worth stating at its actual strength. The conduct that feeds civil conflict is, in the research literature, largely *affective polarization*: the growing dislike and distrust that ordinary Americans feel toward members of the other party (Iyengar et al., 2019). A megastudy of 32,059 Americans tested 25 treatments designed to reduce partisan animosity and antidemocratic attitudes. Many reduced animosity, most strongly those that showed participants relatable, sympathetic individuals on the other side or emphasized identities that rival partisans share. Several reduced support for undemocratic practices, most strongly by correcting misperceptions of the other side's views (Voelkel et al., 2024). Those treatments resemble norms 1 and 7. The study measured attitudes in an experiment, and it tested treatments rather than norms. It supports the narrower claim that the attitudes behind civil conflict can be moved by the kind of act the norms ask for. It does not show that modeling a norm moves the aggregate.
+
 ### Why now
 
 The loop described in Chapter 4 does not stop on its own. Falling capacity to verify produces cynicism, cynicism removes the motive to rebuild that capacity, and each turn makes the next more likely. Loops of that kind are broken at the level of the individual or not at all, because no institution can install in a person the willingness to examine something. Every structural remedy worth endorsing produces a document that someone has to be willing to read.
@@ -1536,6 +1538,8 @@ Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). Toward a theory o
 
 Botvinick, M., & Cohen, J. (1998). Rubber hands "feel" touch that eyes see. *Nature, 391*(6669), 756. <https://doi.org/10.1038/35784>
 
+Brenan, M. (2025, July 17). *Democrats' confidence in U.S. institutions sinks to new low*. Gallup. <https://news.gallup.com/poll/692633/democrats-confidence-institutions-sinks-new-low.aspx>
+
 Center for Near-Earth Object Studies. (2026). *Sentry: Earth impact monitoring* and *Small-Body Database query*. NASA Jet Propulsion Laboratory. Retrieved October 3, 2026, from <https://cneos.jpl.nasa.gov/sentry/>
 
 Corley, M. C., Elswick, R. K., Gorman, M., & Clor, T. (2001). Development and evaluation of a moral distress scale. *Journal of Advanced Nursing, 33*(2), 250–256. <https://doi.org/10.1046/j.1365-2648.2001.01658.x>
@@ -1570,6 +1574,8 @@ Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: 
 
 Heidegger, M. (1962). *Being and time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original work published 1927)
 
+Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129–146. <https://doi.org/10.1146/annurev-polisci-051117-073034>
+
 Jameton, A. (1984). *Nursing practice: The ethical issues*. Prentice-Hall.
 
 Jaynes, J. (1976). *The origin of consciousness in the breakdown of the bicameral mind*. Houghton Mifflin.
@@ -1583,6 +1589,8 @@ Jung, C. G. (1968a). On the psychology of the trickster-figure. In *The archetyp
 Jung, C. G. (1968b). *Psychology and alchemy* (R. F. C. Hull, Trans.; 2nd ed., Collected Works Vol. 12). Princeton University Press. (Original work published 1944)
 
 Jung, C. G. (1971). *Psychological types* (H. G. Baynes, Trans., rev. R. F. C. Hull; Collected Works Vol. 6). Princeton University Press. (Original work published 1921)
+
+Karger, E., Rosenberg, J., Jacobs, Z., Hickman, M., Hadshar, R., Gamin, K., Smith, T., Williams, B., McCaslin, T., Thomas, S., & Tetlock, P. E. (2023). *Forecasting existential risks: Evidence from a long-run forecasting tournament* (Forecasting Research Institute report, revised August 8, 2023). <https://forecastingresearch.org/research/existential-risk-persuasion-tournament>
 
 Kaufmann, W. (1974). *Nietzsche: Philosopher, psychologist, antichrist* (4th ed.). Princeton University Press.
 
@@ -1625,6 +1633,8 @@ Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and
 Stavrova, O., & Ehlebracht, D. (2019). The cynical genius illusion: Exploring and debunking lay beliefs about cynicism and competence. *Personality and Social Psychology Bulletin, 45*(2), 254–269. <https://doi.org/10.1177/0146167218783195>
 
 Tocqueville, A. de. (2006). *Democracy in America* (Vol. 2; H. Reeve, Trans.). Project Gutenberg. <https://www.gutenberg.org/ebooks/816> (Original work published 1840)
+
+Voelkel, J. G., Stagnaro, M. N., Chu, J. Y., Pink, S. L., Mernyk, J. S., Redekopp, C., Ghezae, I., Cashman, M., Adjodah, D., Allen, L. G., Allis, L. V., Baleria, G., Ballantyne, N., Van Bavel, J. J., Blunden, H., Braley, A., Bryan, C. J., Celniker, J. B., Cikara, M., . . . Willer, R. (2024). Megastudy testing 25 treatments to reduce antidemocratic attitudes and partisan animosity. *Science, 386*(6719), Article eadh4764. <https://doi.org/10.1126/science.adh4764>
 
 Wallace, D. F. (1993). E unibus pluram: Television and U.S. fiction. *Review of Contemporary Fiction, 13*(2), 151–194.
 
@@ -1707,14 +1717,14 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Finite pool of worry | Contested | Recent tests favor attention, not worry | 1 |
 | Identified-victim asymmetry | Supported | Strong "numbing" version used only in weak form | 1 |
 | NEO catalog and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
-| Dispersion of expert estimates on unprecedented risks | Supported | Fact about the estimates; source to be added (see Appendix E) | 1 |
+| Dispersion of expert estimates on unprecedented risks | Supported | Karger et al. (2023): extinction by 2100, 6% (experts) vs 1% (superforecasters); estimates differ in definitions and horizons | 1 |
 | Moral distress as a construct | Supported | Boundaries debated; instruments have limits | 1 |
 | Moral residue and crescendo effect | Preliminary | Accumulation dynamics less tested | 1 |
 | Internal/external efficacy distinction | Established | Behavioral predictions more contested | 1 |
 | Learned control (revised helplessness) | Supported | Mapping to civic behavior is an extrapolation | 1 |
 | Consumption reduction leaves the sense of obligation intact | Preliminary | Literature weak, self-report heavy; nothing built on it | 1, 4 |
 | Negative-goal coalitions dissolve on success | Speculative | Untested; needs a coded dataset | 2 |
-| Declining confidence in institutions | Supported | Long-running survey series; source to be added | 3 |
+| Low confidence in institutions | Supported | Brenan (2025): 28% average, near the 46-year low; partisan gap is the series maximum. "Declines in nearly every category" is no longer claimed | 3 |
 | Passive nihilism widespread | Contested | Disengagement and intense engagement coexist | 3 |
 | Unfilled interval rated unpleasant | Supported | Self-shock condition contested, illustrative only | 4 |
 | Mind-wandering and lower happiness | Supported | Causal direction is the standard caveat | 4 |
@@ -1729,6 +1739,8 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Conspiracy motives not satisfied by belief | Supported | Direction well supported; effect sizes uncertain | 6 |
 | Form-constancy across contents | Supported by observation | Copying not excluded; selection argument untested | 6 |
 | Cynical genius illusion and calibration | Supported | Large multinational data | 9 |
+| Treatments reduce partisan animosity and antidemocratic attitudes | Supported | Voelkel et al. (2024), a 32,059-person experiment; attitudes, not long-run conduct; persistence not assessed here | 9 |
+| Affective polarization as the form civil conflict takes | Supported | Iyengar et al. (2019), review; the identification with the book's "civil conflict" is interpretive | 9 |
 | Ego depletion | Contested | Multilab replication failed; book builds on neither side | 8 |
 
 # Appendix D: Limits of the Argument, and the Tests That Would Show It Wrong {.unnumbered #app-d}
@@ -1743,7 +1755,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Two chapters come close to refuting the enterprise.** Chapter 5 concludes that attribution comes from compulsory process, never from awareness. Chapter 7 concludes that critique is a counterfeit whose consumption discharges the pressure it creates. Chapter 7 states the narrow use that survives.
 
-**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome.
+**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
 
 ## Tests, by proposition
 
@@ -1806,7 +1818,5 @@ The line "The fool is the precursor to the savior," attributed to Jung, could no
 
 - Page-level citations for Fromm on the authoritarian (sado-masochistic) character and on group narcissism.
 - An edition and page for Heidegger's terms (Macquarrie and Robinson or Stambaugh) and for Merleau-Ponty's examples (Landes).
-- A source for the dispersion of expert estimates on unprecedented catastrophic risks (Chapter 1).
-- A source for long-run declines in confidence in institutions (Chapter 3), such as the Gallup or General Social Survey series.
 - Confirmation of the 1998 congressional goal and its completion (Chapter 1).
 - Confirmation of the original publication year (1909) of Common's *Zarathustra* in the Levy edition.
