@@ -5,11 +5,11 @@
 
 # Introduction: Authority Without a Voice {.unnumbered}
 
-## The weight that organises nothing
+## The weight that organizes nothing
 
 An ordinary American adult can, in a single day and without looking for any of it, meet credible reporting on nuclear escalation doctrine, a pathogen with pandemic potential, measured climate change, artificial intelligence systems whose own developers discuss existential risk, the fragility of the electrical grid and of the financial system, political violence, a contested transfer of power, rising antibiotic resistance, a falling water table, a fault line and, in a slow news week, an asteroid.
 
-Each of these is real, and each has serious people working on it. Any one of them, presented alone, could organise a life. Presented together, they organise nothing.
+Each of these is real, and each has serious people working on it. Any one of them, presented alone, could organize a life. Presented together, they organize nothing.
 
 This book is an attempt to say precisely what that "nothing" is, why it is so heavy, and what can be built in the space it occupies. Its answer runs through four of the oldest questions in philosophy and psychology. What is authority? What happens when it loses its face? What does a person do with a freedom they lack the strength to use? And how does anyone learn to make something new?
 
@@ -31,7 +31,7 @@ The provisional map ran from voice to silence to reorientation to attention. Thi
 
 **Part One: The Condition.** Chapter 1 argues that the strain of holding many catastrophes in view is routinely misnamed as cognitive dissonance. It is better described as a disproportion between assigned *responsibility* and available *efficacy*. Clinical ethics has studied this structure for forty years under the name *moral distress*. Chapter 2 asks why the culture's only remedy for that strain is subtraction, and finds the answer in a civic vocabulary almost entirely built from prohibitions. Nietzsche's parable of the camel, the lion and the child describes exactly this: the lion can win freedom by refusing, but it cannot create. Chapter 3 shows that Nietzsche's two famous figures, the Last Man and the Übermensch, are two responses to one situation. They differ by a single capacity, the capacity to make something, and the present looks less like the Last Man than like a nation of lions.
 
-**Part Two: The Mechanism.** Chapter 4 identifies the mechanism the other pathologies depend on: the collapse of the interval between a stimulus arriving and a response leaving. Filling that interval is rational, because the interval is where an undischargeable obligation becomes present. Chapter 5 explains why nobody catches the collapse happening. An incorporated instrument does not appear in experience as an instrument. An instrument optimised against breakdown never becomes visible. And the sense of having chosen is assembled after the fact, from cues that an arrangement can supply.
+**Part Two: The Mechanism.** Chapter 4 identifies the mechanism the other pathologies depend on: the collapse of the interval between a stimulus arriving and a response leaving. Filling that interval is rational, because the interval is where an undischargeable obligation becomes present. Chapter 5 explains why nobody catches the collapse happening. An incorporated instrument does not appear in experience as an instrument. An instrument optimized against breakdown never becomes visible. And the sense of having chosen is assembled after the fact, from cues that an arrangement can supply.
 
 **Part Three: Two Counterfeits.** Chapter 6 proposes that conspiracism is an attempt to convert anonymous authority into overt authority by supplying the missing agent, because an agent can be refused and a system cannot. The best evidence shows that the motives driving the belief are not satisfied by it, and the chapter explains why that failure deepens the belief instead of ending it. Chapter 7 turns the same analysis on the respectable critique of the attention economy. That critique is nearly universally accepted and almost entirely inert, and the chapter argues that this is a stable equilibrium rather than a stage on the way to change.
 
@@ -52,7 +52,7 @@ The book makes three kinds of claim, and it helps to know which is which.
 Five rules govern the argument. They are stated here because the chapters rely on them.
 
 1. **Every proposition can be wrong in a stated way.** For each one, Appendix D names the observation that would refute it. A claim that nothing could refute would not be an argument, and the book does not make claims of that kind.
-2. **No agentless motives.** A sentence that gives wants to something that cannot want ("the market wants," "the algorithm wants") explains nothing. Chapter 6 argues that such sentences substitute for an explanation. Where this book describes a system, it describes what the system is optimised on, by whom, and with what effect.
+2. **No agentless motives.** A sentence that gives wants to something that cannot want ("the market wants," "the algorithm wants") explains nothing. Chapter 6 argues that such sentences substitute for an explanation. Where this book describes a system, it describes what the system is optimized on, by whom, and with what effect.
 3. **Convergence is not corroboration.** When two thinkers working independently reach the same structure, the agreement is worth noting. It is not evidence that the structure is real, and the book never counts it as evidence.
 4. **Quotations are verified or marked.** Every direct quotation in this book has been checked against a printed or authoritative source, or it is identified as unverified in Appendix E. Paraphrase is never dressed as quotation.
 5. **The book is inside its own diagnosis.** An argument about hidden orders, disclosure and the reader who finally sees has the shape of what it diagnoses. Chapter 6 says that this shape does not sort by respectability. Falsifiers and evidence grades are the governor this book accepts in place of an exemption.

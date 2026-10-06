@@ -16,6 +16,7 @@ python3 book/build/build_kdp.py --master   # reassemble the master from src/ (fa
 python3 book/build/audit_book.py           # citation sweep + quotation audit; exits 1 on failure
 python3 book/build/build_kdp.py            # full interior PDF + layout checks (needs TeX; see below)
 python3 book/build/build_cover.py          # covers (needs PyMuPDF and the interior PDF's page count)
+python3 book/build/build_formats.py        # EPUB and Word (.docx) from the master (needs pandoc; run --master first)
 ```
 
 A PostToolUse hook runs the first two after every edit to `book/src/`, `index_terms.py` or `audit_book.py`. A SessionStart hook installs XeLaTeX, makeindex, the fonts and PyMuPDF in cloud sessions. Locally you need pandoc, XeLaTeX (TeX Live), makeindex, TeX Gyre Pagella, DejaVu Serif and PyMuPDF.
@@ -39,11 +40,11 @@ A PostToolUse hook runs the first two after every edit to `book/src/`, `index_te
 | Find missing sources (trust series, polarisation, elicitation dispersion) | `literature-access`, `literature-review` |
 | Attack the recorded weaknesses | `adversarial-pass` |
 | Check verbatim quotations | `quotation-integrity` |
-| EPUB or another KDP build | `self-published-book-pass` |
+| Another KDP build or a new version | `self-published-book-pass` |
 | Pre-upload gate | `publication-release-gate` |
 
 ## Open items
 
 - `TODO(author)`: the 26 Sep 2026 "standing rulings" are cited in `notes/` (KDP rules checked as of that date; "weaknesses in notes, claims stated plainly in the book") but their text is not in this repo. Add it here so it is not re-derived each pass.
-- `TODO(author)`: British or American spelling (pass report, author decision 4). The text is currently British-leaning, while `header.tex` sets American hyphenation.
-- Before upload: replace the placeholders for author name, ISBN, author bio and the personal paragraph (`notes/KDP-UPLOAD-CHECKLIST.md`).
+- **Spelling is American** (author ruling, 6 Oct 2026). Write new text in American spelling and punctuation. Verbatim quotations keep their source spelling (for example Jung's "saviour", Common's translation).
+- Before upload: replace the placeholders for the real ISBN (`ISBN_PAPERBACK`, currently `xxx-xxx-xxxxx`), the author bio (`build_cover.py`), the personal paragraph and city in `src/01-message.md`, and re-check the KDP rules (`notes/KDP-UPLOAD-CHECKLIST.md`).

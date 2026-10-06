@@ -9,7 +9,7 @@ Agent-shaped hole
 :   [This book] The experience of a good-faith inquiry into "who decided this?" that ends in an absence rather than a lie, because the decision was distributed across committees, models and processes with no named author. ≈ *diffusion of responsibility* (social psychology); *the problem of many hands* (ethics of technology). (6)
 
 Alienation
-:   [Philosophy, Marx; psychology, Fromm] The condition in which a person's own product or capacity confronts them as an external power. In this book, the capacity is attention and critical judgment. ≈ *externalisation* (sociology); *depersonalisation* (clinical psychology, in a narrower sense). (5, 7)
+:   [Philosophy, Marx; psychology, Fromm] The condition in which a person's own product or capacity confronts them as an external power. In this book, the capacity is attention and critical judgment. ≈ *externalization* (sociology); *depersonalization* (clinical psychology, in a narrower sense). (5, 7)
 
 Amour propre
 :   [Philosophy, Rousseau] Self-regard whose object is a position relative to others, not a good, and which therefore cannot be satisfied in principle. ≈ *social comparison* (social psychology); *positional goods* (economics). (8)
@@ -24,7 +24,7 @@ Apparent mental causation
 :   [Psychology, Wegner] The theory that people attribute an action to their own will when a thought about it came first, was consistent with it, and had no rival cause. The experience of will is constructed rather than read off. ≈ *sense of agency* (cognitive neuroscience). (5)
 
 Arrangement
-:   [This book] A feature of a person's situation, such as where a device is kept, a recurring obligation, or a norm, as opposed to a state of mind. Remedies that work act on arrangements (Proposition 12). ≈ *choice architecture* (behavioural economics); *environmental design* (behaviour analysis). (9)
+:   [This book] A feature of a person's situation, such as where a device is kept, a recurring obligation, or a norm, as opposed to a state of mind. Remedies that work act on arrangements (Proposition 12). ≈ *choice architecture* (behavioral economics); *environmental design* (behavior analysis). (9)
 
 Authoritarian character
 :   [Psychology, Fromm] A character structure combining a longing to submit to something larger with a longing to dominate something smaller, both serving to dissolve the isolated self. ≈ *right-wing authoritarianism* (political psychology, as measured). (4)
@@ -45,7 +45,7 @@ Choice blindness
 :   [Psychology, Johansson and Hall] The failure to notice that one has been given an option one did not choose, followed by fluent justification of the substituted choice. (5)
 
 Confabulation
-:   [Psychology, Nisbett and Wilson] Fluent, confident explanation of one's own behaviour that does not reflect its actual causes. ≈ *rationalisation* (psychoanalysis); *post hoc narrative* (cognitive science). (5)
+:   [Psychology, Nisbett and Wilson] Fluent, confident explanation of one's own behavior that does not reflect its actual causes. ≈ *rationalization* (psychoanalysis); *post hoc narrative* (cognitive science). (5)
 
 Counterfeit
 :   [This book] An object that meets the presenting criterion of a need without meeting the need itself, so that consumption rises rather than falls with use (Proposition 6). ≈ *supernormal stimulus* (ethology); *superficial satisfaction* (Fromm). (6, 7)
@@ -54,13 +54,13 @@ Disappointment
 :   [This book] An object that fails the presenting criterion, so that the failure is legible and corrects itself. The opposite of a counterfeit. (6)
 
 Double bind
-:   [Communication theory, Bateson] A demand whose fulfilment is ruled out by the form of the demand, as in "do not react." (9)
+:   [Communication theory, Bateson] A demand whose fulfillment is ruled out by the form of the demand, as in "do not react." (9)
 
 Efficacy, internal and external
 :   [Political science] Internal efficacy is the belief that one can understand and take part in politics. External efficacy is the belief that the system responds. The combination of high internal and low external efficacy is the profile of the informed, exhausted citizen. ≈ *self-efficacy* (Bandura, for the internal component); *alienation* (political sociology). (1)
 
 Freedom from and freedom to
-:   [Psychology, Fromm; philosophy, Berlin] Negative freedom is the removal of constraint. Positive freedom is the capacity to act from one's own centre. ≈ *negative and positive liberty* (political philosophy); *autonomy* (self-determination theory, for the positive pole). (2)
+:   [Psychology, Fromm; philosophy, Berlin] Negative freedom is the removal of constraint. Positive freedom is the capacity to act from one's own center. ≈ *negative and positive liberty* (political philosophy); *autonomy* (self-determination theory, for the positive pole). (2)
 
 Group narcissism
 :   [Psychology, Fromm] Worth drawn from the greatness of a group one belongs to and did not choose. It requires nothing of the member and is cheapest to supply by denigrating an out-group. ≈ *collective narcissism* (social psychology); *in-group bias*. (4)
@@ -105,7 +105,7 @@ Norm
 :   [Sociology; political science] A standard of conduct enforced by ambient expectation and mild social cost rather than by an authority. It is anonymous in origin but revisable by everyone it binds. ≈ *descriptive and injunctive norms* (social psychology); *custom*; *etiquette*. (9, Conclusion)
 
 Norm entrepreneur
-:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalised. (9)
+:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalized. (9)
 
 Overt authority
 :   [Psychology, Fromm] Authority exercised by an identifiable agent issuing an identifiable command, and therefore open to disobedience. (2, 6)
@@ -114,7 +114,7 @@ Prolongation
 :   [This book] The likeliest outcome of a culture stuck at the lion's stage: an arrangement that does not resolve, break or improve, sustained because refusal blocks every construction, including bad ones. (3, 9)
 
 Pseudo-thinking
-:   [Psychology, Fromm] Thought adopted wholesale from the surrounding culture and experienced as one's own. Part of *automaton conformity*. ≈ *internalisation* (social influence research); *preference falsification* (Kuran, in a related sense). (5, 7)
+:   [Psychology, Fromm] Thought adopted wholesale from the surrounding culture and experienced as one's own. Part of *automaton conformity*. ≈ *internalization* (social influence research); *preference falsification* (Kuran, in a related sense). (5, 7)
 
 Reactive discharge
 :   [This book, after Nietzsche] The collapse of the interval, in which a stimulus is converted directly into a response. The mechanism the book's other pathologies depend on. ≈ *impulsivity* (clinical psychology); *stimulus-driven attention* (cognitive psychology). (4)

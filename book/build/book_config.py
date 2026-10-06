@@ -5,12 +5,12 @@ page, running heads, cover) reads it from here, so a change is made once.
 """
 
 BOOK_TITLE = "The Lion's Problem"
-BOOK_SUBTITLE = "Refusal, Anonymous Authority, and the Capacity to Build"
-AUTHOR_NAME = "[Author Name]"          # AUTHOR: replace before upload
+BOOK_SUBTITLE = "From Refusal to Authorship"
+AUTHOR_NAME = "Brian Danzyger"
 EDITION_LABEL = "First edition"
 VERSION_LABEL = "v1.0 revised draft"
 PUBLICATION_YEAR = "2026"
-ISBN_PAPERBACK = "[ISBN, or leave blank to use a free KDP ISBN]"
+ISBN_PAPERBACK = "xxx-xxx-xxxxx"   # placeholder; replace with the real ISBN-13 (or a free KDP ISBN) before upload
 
 # KDP paperback geometry (checked against KDP rules 26 Sep 2026; re-check before upload).
 TRIM_WIDTH_IN = 6.0

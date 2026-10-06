@@ -14,5 +14,5 @@ I ask one thing of you as a reader, and it comes from the argument itself. Chapt
 
 \vspace{1em}
 
-*[Author Name]*
+*Brian Danzyger*\
 *[City], 2026*

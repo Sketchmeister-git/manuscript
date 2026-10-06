@@ -31,3 +31,14 @@ Derived from the modular edition (Modules A–I) and *The Path to Renewal*. Stru
 | 10 | Apparatus | Project Gutenberg's catalogue credits *The Joyful Wisdom* to Paul V. Cohn. | The title page gives Thomas Common as translator (Cohn and Petre did the poems). The Works Cited follows the title page. |
 | 11 | Module I | A "note on the Buber material" referred to Buber passages that the module body does not contain. | Note removed. Buber is not cited in this edition (the edition decision is preserved in the modular edition). |
 | 12 | Module C | "Mine mostly fail it, and I have written two books using the term." This is an unverifiable personal claim. | Generalised to "including the uses of people who write about it for a living." **Author: restore the personal version if it is accurate.** |
+
+## Author rulings applied, 2026-10-06
+
+| # | Change | Detail |
+|---|---|---|
+| 13 | Author and ISBN | Author: Brian Danzyger (title page, copyright page, running heads, cover, Message sign-off). ISBN set to the placeholder `xxx-xxx-xxxxx`. |
+| 14 | Subtitle | *From Refusal to Authorship* (was *Refusal, Anonymous Authority, and the Capacity to Build*). |
+| 15 | American spelling | 160 replacements across `book/src/` from an explicit word list (behavior, optimized, civilization, defense, modeling, organize, armor, sidewalk, program and others), plus: *petrol pump* to *gas pump*, *lift* to *elevator*, *queue* to *checkout line*, and the date "3 October 2026" to "October 3, 2026". Not changed: verbatim quotations (Jung's "saviour" in Chapter 8 and Appendix E) and the Works Cited. The audit confirms all 14 verified quotations and all 56 references are unaffected. |
+| 16 | New formats | `build/build_formats.py` builds the EPUB 3 and Word editions from the master. Parts and chapter numbers are written into the headings, the front matter is generated from `book_config.py`, and the † ‡ marks appear only in Appendix E. |
+| 17 | Paper stock | Kept cream; the wrap cover, spine (0.3825 in at 153 pp.) and interior are built from the same page count, so they agree. |
+| 18 | Kept as placeholders (author's choice) | The personal paragraph and city in *A Message from the Author*, and the back-cover bio. |

@@ -14,20 +14,20 @@ I ask one thing of you as a reader, and it comes from the argument itself. Chapt
 
 \vspace{1em}
 
-*[Author Name]*
+*Brian Danzyger*\
 *[City], 2026*
 
 # Preface {.unnumbered}
 
-This is a book about a mismatch. An ordinary citizen of a wealthy democracy is now asked to hold a defensible view on more civilisation-scale threats than any population before, and has the power to act on almost none of them. The book argues that this mismatch, more than any single threat, explains a cluster of things that are usually treated separately. Those things are the exhausted shrug of the well-informed, the pull of conspiracy theories, the reflexive speed of online life, and the strange inertness of a critique that nearly everyone accepts.
+This is a book about a mismatch. An ordinary citizen of a wealthy democracy is now asked to hold a defensible view on more civilization-scale threats than any population before, and has the power to act on almost none of them. The book argues that this mismatch, more than any single threat, explains a cluster of things that are usually treated separately. Those things are the exhausted shrug of the well-informed, the pull of conspiracy theories, the reflexive speed of online life, and the strange inertness of a critique that nearly everyone accepts.
 
-The thesis can be stated in a few sentences. Our civic vocabulary is fluent in refusal and nearly mute about construction. The authority that now shapes ordinary life is anonymous, so there is nothing for that refusal to push against. Under those conditions people reach for a refusable object. Some find it in a fabricated villain and some in an agentless noun such as "the algorithm." Neither meets the need it was reached for. The capacity that would let a person move from refusing to building is the capacity to hold an impulse without discharging it and to stay bad at something long enough to get good. That capacity has become the specific target of the most sophisticated optimisation process ever pointed at a human being. The remedy that remains within an individual's reach does not lie in better beliefs or stronger resolve. It lies in better *arrangements*, and at the scale of a society, arrangements means *norms*.
+The thesis can be stated in a few sentences. Our civic vocabulary is fluent in refusal and nearly mute about construction. The authority that now shapes ordinary life is anonymous, so there is nothing for that refusal to push against. Under those conditions people reach for a refusable object. Some find it in a fabricated villain and some in an agentless noun such as "the algorithm." Neither meets the need it was reached for. The capacity that would let a person move from refusing to building is the capacity to hold an impulse without discharging it and to stay bad at something long enough to get good. That capacity has become the specific target of the most sophisticated optimization process ever pointed at a human being. The remedy that remains within an individual's reach does not lie in better beliefs or stronger resolve. It lies in better *arrangements*, and at the scale of a society, arrangements means *norms*.
 
 ## Who this book is for
 
 The argument draws on clinical ethics, social and cognitive psychology, phenomenology, political theory, the history of philosophy and literary criticism. Each of these fields has studied a piece of the problem, and each has named its piece in terms the others do not use. Nursing ethics calls it *moral distress*, political science calls it *low external efficacy*, and Nietzsche calls it *the lion*. One of the book's claims is that these are often the same structure seen from different windows. Its method is to translate between the windows without pretending they are one room.
 
-That makes the book useful in several directions. A psychologist will find philosophical structures that predict findings in their own literature. A philosopher will find empirical anchors for claims usually defended by exegesis alone. Sociologists and anthropologists will find a functional account of conspiracy belief and a theory of how norms get built in a new medium. A general reader needs no background in any of these fields. Every technical term is defined when it first appears, and all of them are collected in the Glossary, which notes the discipline each term comes from and the nearest equivalents in neighbouring fields.
+That makes the book useful in several directions. A psychologist will find philosophical structures that predict findings in their own literature. A philosopher will find empirical anchors for claims usually defended by exegesis alone. Sociologists and anthropologists will find a functional account of conspiracy belief and a theory of how norms get built in a new medium. A general reader needs no background in any of these fields. Every technical term is defined when it first appears, and all of them are collected in the Glossary, which notes the discipline each term comes from and the nearest equivalents in neighboring fields.
 
 ## How the book is built
 
@@ -44,11 +44,11 @@ The evidence for every empirical claim is graded. The grades are collected in Ap
 
 # Introduction: Authority Without a Voice {.unnumbered}
 
-## The weight that organises nothing
+## The weight that organizes nothing
 
 An ordinary American adult can, in a single day and without looking for any of it, meet credible reporting on nuclear escalation doctrine, a pathogen with pandemic potential, measured climate change, artificial intelligence systems whose own developers discuss existential risk, the fragility of the electrical grid and of the financial system, political violence, a contested transfer of power, rising antibiotic resistance, a falling water table, a fault line and, in a slow news week, an asteroid.
 
-Each of these is real, and each has serious people working on it. Any one of them, presented alone, could organise a life. Presented together, they organise nothing.
+Each of these is real, and each has serious people working on it. Any one of them, presented alone, could organize a life. Presented together, they organize nothing.
 
 This book is an attempt to say precisely what that "nothing" is, why it is so heavy, and what can be built in the space it occupies. Its answer runs through four of the oldest questions in philosophy and psychology. What is authority? What happens when it loses its face? What does a person do with a freedom they lack the strength to use? And how does anyone learn to make something new?
 
@@ -70,7 +70,7 @@ The provisional map ran from voice to silence to reorientation to attention. Thi
 
 **Part One: The Condition.** Chapter 1 argues that the strain of holding many catastrophes in view is routinely misnamed as cognitive dissonance. It is better described as a disproportion between assigned *responsibility* and available *efficacy*. Clinical ethics has studied this structure for forty years under the name *moral distress*. Chapter 2 asks why the culture's only remedy for that strain is subtraction, and finds the answer in a civic vocabulary almost entirely built from prohibitions. Nietzsche's parable of the camel, the lion and the child describes exactly this: the lion can win freedom by refusing, but it cannot create. Chapter 3 shows that Nietzsche's two famous figures, the Last Man and the Übermensch, are two responses to one situation. They differ by a single capacity, the capacity to make something, and the present looks less like the Last Man than like a nation of lions.
 
-**Part Two: The Mechanism.** Chapter 4 identifies the mechanism the other pathologies depend on: the collapse of the interval between a stimulus arriving and a response leaving. Filling that interval is rational, because the interval is where an undischargeable obligation becomes present. Chapter 5 explains why nobody catches the collapse happening. An incorporated instrument does not appear in experience as an instrument. An instrument optimised against breakdown never becomes visible. And the sense of having chosen is assembled after the fact, from cues that an arrangement can supply.
+**Part Two: The Mechanism.** Chapter 4 identifies the mechanism the other pathologies depend on: the collapse of the interval between a stimulus arriving and a response leaving. Filling that interval is rational, because the interval is where an undischargeable obligation becomes present. Chapter 5 explains why nobody catches the collapse happening. An incorporated instrument does not appear in experience as an instrument. An instrument optimized against breakdown never becomes visible. And the sense of having chosen is assembled after the fact, from cues that an arrangement can supply.
 
 **Part Three: Two Counterfeits.** Chapter 6 proposes that conspiracism is an attempt to convert anonymous authority into overt authority by supplying the missing agent, because an agent can be refused and a system cannot. The best evidence shows that the motives driving the belief are not satisfied by it, and the chapter explains why that failure deepens the belief instead of ending it. Chapter 7 turns the same analysis on the respectable critique of the attention economy. That critique is nearly universally accepted and almost entirely inert, and the chapter argues that this is a stable equilibrium rather than a stage on the way to change.
 
@@ -91,7 +91,7 @@ The book makes three kinds of claim, and it helps to know which is which.
 Five rules govern the argument. They are stated here because the chapters rely on them.
 
 1. **Every proposition can be wrong in a stated way.** For each one, Appendix D names the observation that would refute it. A claim that nothing could refute would not be an argument, and the book does not make claims of that kind.
-2. **No agentless motives.** A sentence that gives wants to something that cannot want ("the market wants," "the algorithm wants") explains nothing. Chapter 6 argues that such sentences substitute for an explanation. Where this book describes a system, it describes what the system is optimised on, by whom, and with what effect.
+2. **No agentless motives.** A sentence that gives wants to something that cannot want ("the market wants," "the algorithm wants") explains nothing. Chapter 6 argues that such sentences substitute for an explanation. Where this book describes a system, it describes what the system is optimized on, by whom, and with what effect.
 3. **Convergence is not corroboration.** When two thinkers working independently reach the same structure, the agreement is worth noting. It is not evidence that the structure is real, and the book never counts it as evidence.
 4. **Quotations are verified or marked.** Every direct quotation in this book has been checked against a printed or authoritative source, or it is identified as unverified in Appendix E. Paraphrase is never dressed as quotation.
 5. **The book is inside its own diagnosis.** An argument about hidden orders, disclosure and the reader who finally sees has the shape of what it diagnoses. Chapter 6 says that this shape does not sort by respectability. Falsifiers and evidence grades are the governor this book accepts in place of an exemption.
@@ -104,17 +104,17 @@ Five rules govern the argument. They are stated here because the chapters rely o
 
 *Why the weight of many catastrophes is not cognitive dissonance, and what it is instead*
 
-The strain of holding many civilisation-scale threats in view is routinely called *cognitive dissonance*. The label is wrong in a way that matters, because it sends the analysis to a literature whose remedies do not apply. This chapter argues that the strain is a disproportion between assigned *responsibility* and available *efficacy*. It is an obligation to hold a defensible position on an unbounded set of matters, combined with the capacity to affect almost none of them. The chapter separates three senses of *responsibility* to show which one has been detached and generalised. It shows that this structure already has a name and a measurement literature, in a field few people would think to consult. It corrects two adjacent constructs that most discussions reach for. And it derives the shrug as the correct output of a correct procedure, not as a failure of character.
+The strain of holding many civilization-scale threats in view is routinely called *cognitive dissonance*. The label is wrong in a way that matters, because it sends the analysis to a literature whose remedies do not apply. This chapter argues that the strain is a disproportion between assigned *responsibility* and available *efficacy*. It is an obligation to hold a defensible position on an unbounded set of matters, combined with the capacity to affect almost none of them. The chapter separates three senses of *responsibility* to show which one has been detached and generalized. It shows that this structure already has a name and a measurement literature, in a field few people would think to consult. It corrects two adjacent constructs that most discussions reach for. And it derives the shrug as the correct output of a correct procedure, not as a failure of character.
 
 ## Why "cognitive dissonance" is the wrong construct
 
-Festinger's (1957) theory concerns the discomfort of holding two inconsistent cognitions, or of acting against one's own attitude. The engine of the theory is inconsistency, and every resolution it predicts restores consistency. A person under dissonance changes the belief, changes the behaviour, adds a consonant cognition, or downgrades the importance of one element.
+Festinger's (1957) theory concerns the discomfort of holding two inconsistent cognitions, or of acting against one's own attitude. The engine of the theory is inconsistency, and every resolution it predicts restores consistency. A person under dissonance changes the belief, changes the behavior, adds a consonant cognition, or downgrades the importance of one element.
 
 Now apply it. What is inconsistent about believing that nuclear war is possible, *and* that a pandemic is possible, *and* that the grid is fragile? Nothing. The beliefs are consistent with one another and all of them are defensible. A person who holds every one of them has made no logical error and is under no pressure toward consistency.
 
 There is a second, sharper failure. Dissonance predicts that people will revise a belief, dropping or downgrading one of the inconsistent items. That is not what people do. They keep every belief and stop acting. Dissonance theory does not predict that, so it cannot be what explains it.
 
-The mislabelling is not cosmetic. It licenses a remedy: get your beliefs in order, correct the distortion, put things in perspective. That remedy is addressed to a relation between cognitions. The actual relation is between a cognition and a capacity.
+The mislabeling is not cosmetic. It licenses a remedy: get your beliefs in order, correct the distortion, put things in perspective. That remedy is addressed to a relation between cognitions. The actual relation is between a cognition and a capacity.
 
 ## Four candidate explanations
 
@@ -124,7 +124,7 @@ A single explanation, held alone, is closer to an attachment than to a hypothesi
 
 **H2: Probability neglect and scope insensitivity.** People respond to the vividness of a catastrophic outcome more than to its probability, and they are insensitive to the size of the numbers describing it. Slovic's (2007) work on the identified victim and on psychic numbing is the strongest version. The asymmetry between a single named victim and a statistical one replicates well. The stronger claim, that feeling *declines* as numbers rise, is better evidenced for charitable giving than for threat response, and only the weaker version is used here.
 
-**H3: Media supply.** On this view there is no psychological condition at all. What changed is the delivery system, not the citizen. An attention market selects for the most arousing available item, catastrophes are the most arousing items available, and the apparent multiplication of threats is an artefact of what gets surfaced. This explanation is substantially correct, and any account that ignores it is reasoning toward a conclusion it has already chosen. Much of what a person feels here is manufactured by supply. The only reason not to stop at H3 is a single prediction it gets wrong, which this chapter isolates below.
+**H3: Media supply.** On this view there is no psychological condition at all. What changed is the delivery system, not the citizen. An attention market selects for the most arousing available item, catastrophes are the most arousing items available, and the apparent multiplication of threats is an artifact of what gets surfaced. This explanation is substantially correct, and any account that ignores it is reasoning toward a conclusion it has already chosen. Much of what a person feels here is manufactured by supply. The only reason not to stop at H3 is a single prediction it gets wrong, which this chapter isolates below.
 
 **H4: Responsibility without efficacy.** The citizen has been made *answerable* for holding a position on an unbounded set of threats, by a political culture in which having a view is the unit of participation. The same citizen has the capacity to *act* on almost none of them.
 
@@ -146,7 +146,7 @@ The third row does the decisive work, and it is where H4 would die if it were wr
 
 An argument that insists on measurement cannot then wave vaguely at "existential risk," and the finding below only becomes visible when the threats are set out in one table.
 
-**Start with the threat we can count.** NASA's Jet Propulsion Laboratory lists more than 42,000 known near-Earth objects in its Small-Body Database. Its Sentry system continuously evaluates every catalogued object's chance of impact over the next century, and none currently rates above zero on the scale used to communicate impact hazard to the public (Center for Near-Earth Object Studies, 2026). The goal Congress set in 1998, finding nine in ten of the kilometre-class objects capable of global catastrophe, has been met. Here is a civilisation-ending threat with a known base rate, a dedicated agency, a budget and a published answer. The correct response for a citizen is that this is handled, the people handling it have said so, and attention belongs elsewhere.
+**Start with the threat we can count.** NASA's Jet Propulsion Laboratory lists more than 42,000 known near-Earth objects in its Small-Body Database. Its Sentry system continuously evaluates every cataloged object's chance of impact over the next century, and none currently rates above zero on the scale used to communicate impact hazard to the public (Center for Near-Earth Object Studies, 2026). The goal Congress set in 1998, finding nine in ten of the kilometer-class objects capable of global catastrophe, has been met. Here is a civilization-ending threat with a known base rate, a dedicated agency, a budget and a published answer. The correct response for a citizen is that this is handled, the people handling it have said so, and attention belongs elsewhere.
 
 Nobody feels that. The gap between what the evidence licenses and what a person feels on reading an asteroid headline is the cleanest available case of vividness overriding probability where the probability is actually known. It is also the reason the asteroid belongs on the list at all. It shows that the weight is not coming from the threats.
 
@@ -156,7 +156,7 @@ Nobody feels that. The gap between what the evidence licenses and what a person 
 
 | Threat | Timescale | Base rate known | Responsible agent | Individual leverage |
 |:------------------|:---------------|:-------------|:------------------------|:----------------------|
-| Asteroid | 10^5^–10^8^ yr | Yes | Planetary defence | None, and none needed |
+| Asteroid | 10^5^–10^8^ yr | Yes | Planetary defense | None, and none needed |
 | Nuclear war | Hours, once begun | No | About nine governments | Effectively none |
 | Pandemic | Months | Partly | Public health, global | Small, real, local |
 | Climate | Centuries | In direction | Everyone and no one | Negligible alone |
@@ -172,7 +172,7 @@ First, the timescales differ by six orders of magnitude. A response calibrated t
 
 Second, the responsible agent differs in every row, and in most rows it is not you. This is a fact about causal structure, not a moral observation. A civic culture that assigns every citizen a position on every row has made most people responsible for things outside any causal path they occupy.
 
-Third, exactly two rows carry nonzero individual leverage, and both are local. One is community-scale pandemic response. The other is civil conflict, which is the only civilisation-scale threat on the list constituted by the aggregate ordinary conduct of ordinary people rather than by a government, a laboratory or a rock. The constructive half of this book is built on that row.
+Third, exactly two rows carry nonzero individual leverage, and both are local. One is community-scale pandemic response. The other is civil conflict, which is the only civilization-scale threat on the list constituted by the aggregate ordinary conduct of ordinary people rather than by a government, a laboratory or a rock. The constructive half of this book is built on that row.
 
 ## The mechanism: three kinds of responsibility
 
@@ -186,13 +186,13 @@ In ordinary use the word *responsibility* carries three different things, and th
 
 Ordinarily the three travel together, and that ordinary case is bearable because the other two bound the third. A person with role responsibility is answerable *for the role*, which is finite. A person with causal responsibility is answerable *for their contribution*, which can be specified. The answering has an end because the thing being answered for has edges.
 
-For the modern citizen, answerability has been detached from both of the others and generalised. The citizen is answerable for a position on nuclear escalation without being among its causes or holding any office in relation to it. The same goes for a pathogen, a grid, a model, a court, a war and a famine. None of them is the citizen's doing and none is the citizen's office. The obligation to give an account has been extended across the whole inventory, and the two things that would have bounded it have been left behind.
+For the modern citizen, answerability has been detached from both of the others and generalized. The citizen is answerable for a position on nuclear escalation without being among its causes or holding any office in relation to it. The same goes for a pathogen, a grid, a model, a court, a war and a famine. None of them is the citizen's doing and none is the citizen's office. The obligation to give an account has been extended across the whole inventory, and the two things that would have bounded it have been left behind.
 
 > **Proposition 1** *(structural).* The distress produced by a catastrophic threat inventory is a function not of the threats' severity or of their inconsistency, but of the disproportion between the responsibility a citizen is assigned and the efficacy they possess.
 
 This is the argument about pressure from Fromm's *Escape from Freedom* (1941), with one term substituted. Fromm's gap runs between the freedom a person has and the *self-strength* to use it. He held that this gap was the standing condition of modern life and that every "escape" he described was shaped to fit it. Here the gap runs between the responsibility a person has been given and the capacity to discharge it. The formal structure is the same, and so are the consequences. The pressure cannot be relieved by argument, because a belief did not produce it. Adding input can increase the pressure instead of relieving it. And the gap can be closed from either side, but the two sides are not equivalent.
 
-This also gives the precise reason the dissonance label fails. Dissonance is a relation between two cognitions. This is a relation between a cognition and a capacity. There is no pair of beliefs to bring into line, so every dissonance-style resolution is unavailable. You cannot change the belief, because it is true. You cannot change the behaviour, because no behaviour is available. You cannot add a consonant belief, because no belief supplies a missing capacity. And you cannot shrink the item's importance, because the item is a war. Dissonance comes with a resolution procedure. This condition comes with none, which makes it a different object rather than a stronger version of the same discomfort.
+This also gives the precise reason the dissonance label fails. Dissonance is a relation between two cognitions. This is a relation between a cognition and a capacity. There is no pair of beliefs to bring into line, so every dissonance-style resolution is unavailable. You cannot change the belief, because it is true. You cannot change the behavior, because no behavior is available. You cannot add a consonant belief, because no belief supplies a missing capacity. And you cannot shrink the item's importance, because the item is a war. Dissonance comes with a resolution procedure. This condition comes with none, which makes it a different object rather than a stronger version of the same discomfort.
 
 ### An obligation that can be neither discharged nor resigned
 
@@ -216,13 +216,13 @@ Two things follow, and they point in opposite directions. The first concerns ori
 
 ### Moral residue
 
-The extension that matters most describes what happens across many episodes. Epstein and Hamric (2009) proposed that each unresolved episode leaves *moral residue*, the accumulated weight of having known the right thing and not done it. Residue does not clear between episodes, so each new episode begins from a higher baseline. Over a career this produces what they call a *crescendo effect*: distress rises with each cycle and ends either in withdrawal from the role or in a kind of numbing. The accumulation dynamics are less well tested than the base construct, but the fit to the citizen's case is uncomfortably close. Each item in the inventory arrives, is recognised as mattering, offers no available action, and is left behind. That leaves residue, and the next item lands on top of it.
+The extension that matters most describes what happens across many episodes. Epstein and Hamric (2009) proposed that each unresolved episode leaves *moral residue*, the accumulated weight of having known the right thing and not done it. Residue does not clear between episodes, so each new episode begins from a higher baseline. Over a career this produces what they call a *crescendo effect*: distress rises with each cycle and ends either in withdrawal from the role or in a kind of numbing. The accumulation dynamics are less well tested than the base construct, but the fit to the citizen's case is uncomfortably close. Each item in the inventory arrives, is recognized as mattering, offers no available action, and is left behind. That leaves residue, and the next item lands on top of it.
 
 The crucial difference from the clinical case is that the citizen's episodes have no shift boundary. There is no end of rotation, no closed case and no discharged patient. The supply is continuous and the residue never clears.
 
 That predicts the two endpoints anyone can observe. One is *withdrawal*, which this chapter calls the shrug and declines to call apathy. The other is *numbing*, in which every belief is kept and the feeling is stripped out, leaving a portfolio of concerns held without commitment. Neither is a defect of character. Both are what the moral-distress literature predicts for a person in a role with unbounded demands and no discharge, and that literature was built by studying people whose competence and conscientiousness were never in question.
 
-## Two corrections from neighbouring fields
+## Two corrections from neighboring fields
 
 ### Political efficacy, and the cell that matters
 
@@ -234,9 +234,9 @@ Proposition 1 is a claim about that profile specifically. This distress is not p
 
 ### Helplessness is not learned; control is
 
-The original theory of learned helplessness held that organisms exposed to uncontrollable aversive events *learn* that they are helpless, and that the learned passivity generalises. It became one of the most cited ideas in psychology, and it is what most people mean when they gesture at civic passivity.
+The original theory of learned helplessness held that organisms exposed to uncontrollable aversive events *learn* that they are helpless, and that the learned passivity generalizes. It became one of the most cited ideas in psychology, and it is what most people mean when they gesture at civic passivity.
 
-Maier and Seligman's (2016) reconsideration, informed by fifty years of neuroscience, inverts it. Passivity in the face of prolonged aversive events is not learned at all. It is the default response, mediated by brainstem circuits. What is learned is *control*: the detection that one's own responses affect outcomes, registered by circuits in the medial prefrontal cortex that then inhibit the default. Carrying a neural-circuit account over to human civic behaviour is an extrapolation, and it is offered here as one. Even so, it changes the whole shape of the remedy.
+Maier and Seligman's (2016) reconsideration, informed by fifty years of neuroscience, inverts it. Passivity in the face of prolonged aversive events is not learned at all. It is the default response, mediated by brainstem circuits. What is learned is *control*: the detection that one's own responses affect outcomes, registered by circuits in the medial prefrontal cortex that then inhibit the default. Carrying a neural-circuit account over to human civic behavior is an extrapolation, and it is offered here as one. Even so, it changes the whole shape of the remedy.
 
 If helplessness is learned, the task is to unlearn it. That means correcting a false belief, an argumentative and educational job, and it is what every exhortation assumes. If *control* is what is learned, passivity is not a pathology to be argued away but a baseline that has never been overridden. The only thing that overrides it is the actual experience of one's responses mattering. The belief that they matter does not do it. The experience does.
 
@@ -246,7 +246,7 @@ That is why no argument fixes the condition and no quantity of information fixes
 
 The condition does not present itself as what it is, and that is where the misnaming starts.
 
-It presents as guilt with no specifiable offence. The person feels they have failed at something and cannot name what. An undischargeable answerability would produce exactly that feeling, and it explains why the feeling survives every attempt to reason it away. With no offence to be acquitted of, acquittal is impossible.
+It presents as guilt with no specifiable offense. The person feels they have failed at something and cannot name what. An undischargeable answerability would produce exactly that feeling, and it explains why the feeling survives every attempt to reason it away. With no offense to be acquitted of, acquittal is impossible.
 
 It presents as urgency with no object, a standing sense that something should be happening *now*. Because that urgency attaches to no particular action, no action relieves it.
 
@@ -260,7 +260,7 @@ Most misleadingly, it presents as being *about* the threats. That is why people 
 
 This is the one place where H3, the strongest rival, makes a wrong prediction. H3 predicts that reducing exposure resolves the condition: cut the supply and the distress goes with it. People who substantially reduce their consumption do report real improvements in mood and sleep. The evidence here is weak and relies heavily on self-report. What it suggests is a much smaller improvement in the specific thing at issue, the sense of being answerable for a world one cannot affect.
 
-Proposition 1 gives the reason. Removing the information does not remove the responsibility. A person who has stopped reading about a war is still a citizen of a country prosecuting one. The obligation was never carried by the news; the news only delivered the occasions. Remove the occasions and what remains is an unmet obligation with no content. That is worse, not better, and it accounts for the distinctly guilty flavour of a news fast.
+Proposition 1 gives the reason. Removing the information does not remove the responsibility. A person who has stopped reading about a war is still a citizen of a country prosecuting one. The obligation was never carried by the news; the news only delivered the occasions. Remove the occasions and what remains is an unmet obligation with no content. That is worse, not better, and it accounts for the distinctly guilty flavor of a news fast.
 
 ## The shrug, derived rather than deplored
 
@@ -274,11 +274,11 @@ That has a consequence for any constructive proposal. A call to action addressed
 
 ### What happens to the beliefs themselves
 
-Take one threat. A belief about it generates a programme: prepare, support the relevant institutions, learn the skills, organise locally. Take two threats with different agents and timescales, and the programme does not double. It degrades, because the actions compete for one budget with no exchange rate between them. Take twelve, and the set of beliefs generates no programme at all, and the citizen's relationship to their own convictions changes character.
+Take one threat. A belief about it generates a program: prepare, support the relevant institutions, learn the skills, organize locally. Take two threats with different agents and timescales, and the program does not double. It degrades, because the actions compete for one budget with no exchange rate between them. Take twelve, and the set of beliefs generates no program at all, and the citizen's relationship to their own convictions changes character.
 
 The beliefs no longer guide action. They are *held*: items in a mental inventory, maintained for display, revisable in argument and causally inert with respect to conduct. This is Fromm's *having mode* arriving from an unexpected direction (Fromm, 1976), a portfolio of concerns in place of a set of commitments.
 
-That explains something otherwise puzzling. The intensity of a person's expressed concern is uncorrelated with any change in their behaviour, and this is not hypocrisy. The person is not failing to act on a belief. The belief never reached the position from which it could generate action, because the structure of the set prevented it.
+That explains something otherwise puzzling. The intensity of a person's expressed concern is uncorrelated with any change in their behavior, and this is not hypocrisy. The person is not failing to act on a belief. The belief never reached the position from which it could generate action, because the structure of the set prevented it.
 
 Attention within the set is therefore allocated by something other than expected harm. It goes by feeling, vividness, narrative shape and identifiability, so attention to threats sorts by *story quality*. The asteroid, the one measurably handled item, has the best story: a single object, a date, a countdown, a rescue. Antibiotic resistance is a serious and genuinely tractable threat with real institutional and individual points of leverage, and it has no story at all. It has no villain, no date and no image, only a slow curve. Nobody stockpiles against the antibiotic curve. That is not a failure of intelligence. It is the predictable output of an attention system working on a set it cannot rank.
 
@@ -312,7 +312,7 @@ Fromm's distinction between two kinds of freedom is the most useful thing in his
 
 Fromm's central historical claim is that modernity delivered enormous quantities of the first kind and almost none of the second. It dissolved the structures that told people who they were and put nothing in their place except the market, which is a structure of exchange, not of meaning.
 
-His mechanism runs like this. Individuation cuts primary ties one at a time, and each cut delivers two things at once: an increment of independence and an increment of aloneness. Meanwhile *self-strength*, the actual capacity to act from one's own centre, develops slowly. The gap between the freedom a person has and the strength to use it is the standing condition of modern life, and every escape Fromm describes is shaped to fit that gap.
+His mechanism runs like this. Individuation cuts primary ties one at a time, and each cut delivers two things at once: an increment of independence and an increment of aloneness. Meanwhile *self-strength*, the actual capacity to act from one's own center, develops slowly. The gap between the freedom a person has and the strength to use it is the standing condition of modern life, and every escape Fromm describes is shaped to fit that gap.
 
 Three consequences follow. Increasing freedom can increase the pressure to escape instead of relieving it. Argument cannot relieve the pressure, because a belief did not produce it. And the gap can be closed from either side, but the two sides are not equivalent. You can reduce the freedom, which every institution of submission has offered and which works, at the cost of the very thing that made the person a person. Or you can increase the strength.
 
@@ -344,7 +344,7 @@ Every move on the list is an increment of *freedom from*, and each is defensible
 
 The claim has a limit, stated so that it is not read as more than it is. Removing a bad constraint is not bad. Some constraints should go, and removing them is an unambiguous good. The claim is that a culture whose only well-developed political move is removal will apply removal when it faces a problem that requires construction, and will then experience the resulting decline as evidence that it did not remove enough. That is a loop.
 
-The historical instances share a structure, and naming the structure is more useful than judging the cases, which would take another book and make this one partisan. A constraint was removed for good reasons. The function it had been performing was not provided for. The vacancy was then filled by something less accountable than what was removed. The pattern recurs in deregulation and deinstitutionalisation, in the hollowing of local newspapers and civic gatekeeping, in the removal of editorial control and of professional licensure, and in the weakening of party discipline and the mainline church. Each removal had a real case behind it, each left a function unprovided, and in each something moved into the space that is harder to hold to account than what left.
+The historical instances share a structure, and naming the structure is more useful than judging the cases, which would take another book and make this one partisan. A constraint was removed for good reasons. The function it had been performing was not provided for. The vacancy was then filled by something less accountable than what was removed. The pattern recurs in deregulation and deinstitutionalization, in the hollowing of local newspapers and civic gatekeeping, in the removal of editorial control and of professional licensure, and in the weakening of party discipline and the mainline church. Each removal had a real case behind it, each left a function unprovided, and in each something moved into the space that is harder to hold to account than what left.
 
 ## The three metamorphoses
 
@@ -382,7 +382,7 @@ Every term is doing work. Readers who know Walter Kaufmann's translation will re
 
 *A game* is activity undertaken for its own sake. Aristotle's *energeia*, activity complete in its own exercise, and Fromm's spontaneous activity arrive at the same place from opposite directions.
 
-*A self-rolling wheel* is a motion whose source is internal. It is positive freedom stated as an image: acting from one's own centre, not in reaction to something.
+*A self-rolling wheel* is a motion whose source is internal. It is positive freedom stated as an image: acting from one's own center, not in reaction to something.
 
 *A holy Yea* is the affirmation that constitutes something, not agreement with what is given. In the same passage the spirit now wills its own will and wins its own world.
 
@@ -414,7 +414,7 @@ Fairness requires one more point, and the argument is weaker without it. There a
 
 These are not incomplete acts waiting for a constructive phase. They are finished acts, and they are the highest thing a person can do at the moment they are required. On Fromm's reading of Genesis, the founding human act is disobedience. The capacity to say no is the faculty that makes a person separate enough to have any other virtue at all (Fromm, 1966).
 
-The claim is narrower. A life or a polity organised around refusal as its *standing* mode cannot construct, and the situations now facing the United States are overwhelmingly problems of construction.
+The claim is narrower. A life or a polity organized around refusal as its *standing* mode cannot construct, and the situations now facing the United States are overwhelmingly problems of construction.
 
 ### A test anyone can run
 
@@ -422,7 +422,7 @@ Ask an American what they are against and you will get twenty minutes. Ask what 
 
 Try it on any contested issue. Pressed for a positive account, the answers on both sides resolve into *not that*: not that regulation, not that curriculum, not that immigration regime, not that platform, not that party, not that elite. The positive content is thin. That is not because people are thoughtless. It is because the vocabulary they inherited has thirty words for removing constraints and about four for building, and all four are contested.
 
-The diagnosis predicts something else that can be checked. A coalition organised around a No should dissolve once the No succeeds, because it has no second act. A polity with a strong positive-freedom tradition, facing the same threats and the same information environment, should show materially less of the paralysis. Appendix D sets out both tests.
+The diagnosis predicts something else that can be checked. A coalition organized around a No should dissolve once the No succeeds, because it has no second act. A polity with a strong positive-freedom tradition, facing the same threats and the same information environment, should show materially less of the paralysis. Appendix D sets out both tests.
 
 ## A lion with no dragon
 
@@ -430,7 +430,7 @@ One more step turns this from a diagnosis into the engine of the rest of the boo
 
 The lion's refusal needs a dragon. *Thou shalt* is a command, and a command has an author. Nietzsche's lion is equipped for exactly that kind of authority, the kind Jaynes's bicameral hearer met as a voice and that a child meets in a parent or a worker in a boss. It is overt authority: an identifiable agent issuing an identifiable command, recognisable *as* authority and therefore open to resentment, argument, resistance and disobedience.
 
-Fromm saw that modern authority had changed shape, and he described the change across *Escape from Freedom* (1941) and, most sharply, *The Sane Society* (1955). Beside overt authority there is now *anonymous authority*. It has no agent. It works as common sense, as science, as public opinion, as what one does, as what is normal, as the market, as necessity. Fromm's point is that this is not a weaker form of authority but a stronger one. The boss is replaced by the impersonal requirements of the organisation and the father's command by the expectations of one's peers. The person subject to it does not experience themselves as obeying, because there is nobody visible to obey.
+Fromm saw that modern authority had changed shape, and he described the change across *Escape from Freedom* (1941) and, most sharply, *The Sane Society* (1955). Beside overt authority there is now *anonymous authority*. It has no agent. It works as common sense, as science, as public opinion, as what one does, as what is normal, as the market, as necessity. Fromm's point is that this is not a weaker form of authority but a stronger one. The boss is replaced by the impersonal requirements of the organization and the father's command by the expectations of one's peers. The person subject to it does not experience themselves as obeying, because there is nobody visible to obey.
 
 > **Proposition 4** *(structural).* Anonymous authority cannot be disobeyed, because it never commanded anything. There is no face to defy, no order to refuse and no relationship within which refusal would make sense. It does not tell you what to do; it tells you what *is done*.
 
@@ -460,7 +460,7 @@ Nietzsche also identifies who did it. Across §357 of *The Gay Science* and the 
 
 What died, then, was not belief. It was the *guarantee*, the assurance that values are found rather than made and are underwritten by something outside human decision.
 
-That distinction does most of the work in what follows, and it is why the usual debate about secularisation misses the point. A population can keep its beliefs and still have lost the guarantee, and that is the present situation. Most people still report belief, and almost nobody argues for a value in any currency other than the one everyone else is using.
+That distinction does most of the work in what follows, and it is why the usual debate about secularization misses the point. A population can keep its beliefs and still have lost the guarantee, and that is the present situation. Most people still report belief, and almost nobody argues for a value in any currency other than the one everyone else is using.
 
 ### The shadows
 
@@ -510,7 +510,7 @@ Three properties remain, and each has a text behind it.
 
 Here is the claim this chapter exists to make. The Last Man and the Übermensch are two responses to the same situation. Both arise after the guarantee has gone, both presuppose that values are made rather than found, and the difference lies entirely in what is done with that.
 
-The Last Man draws one conclusion: *if nothing is underwritten, nothing is worth the cost, so minimise the cost.* That is a coherent inference. It is why he cannot be argued out of it, and why every exhortation addressed to him fails. His position is not an error.
+The Last Man draws one conclusion: *if nothing is underwritten, nothing is worth the cost, so minimize the cost.* That is a coherent inference. It is why he cannot be argued out of it, and why every exhortation addressed to him fails. His position is not an error.
 
 The Übermensch draws the other: *if nothing is underwritten, creation is both possible and necessary, and I am the only available author.*
 
@@ -556,13 +556,13 @@ Nearly every pathology of contemporary attention needs one mechanism in order to
 
 > To learn to see—to accustom the eye to calmness, to patience, and to allow things to come up to it; to defer judgment … One must not respond immediately to a stimulus … All lack of intellectuality, all vulgarity, arises out of the inability to resist a stimulus:—one must respond or react, every impulse is indulged. (Nietzsche, 1889/1911, "Things the Germans Lack," §6)
 
-This chapter calls the failure Nietzsche describes the *reactive discharge*, and argues that it is the right target. It sits upstream of the other mechanisms, it is exactly what an engagement-optimised apparatus selects for, it happens at a scale an individual can reach, and every constructive act presupposes its opposite. The chapter also separates this claim from one it resembles: this is not an argument for calm. And it makes the argument that most changes what a remedy can be. The filled interval is not idle amusement. It is an effective and rationally chosen anaesthetic, which is why every proposal simply to consume less tends to make things worse.
+This chapter calls the failure Nietzsche describes the *reactive discharge*, and argues that it is the right target. It sits upstream of the other mechanisms, it is exactly what an engagement-optimized apparatus selects for, it happens at a scale an individual can reach, and every constructive act presupposes its opposite. The chapter also separates this claim from one it resembles: this is not an argument for calm. And it makes the argument that most changes what a remedy can be. The filled interval is not idle amusement. It is an effective and rationally chosen anesthetic, which is why every proposal simply to consume less tends to make things worse.
 
 ## Four reasons the interval is the target
 
-**It is upstream of the others.** A person facing a situation they cannot refuse refuses the nearest refusable thing, and that is a discharge. The authoritarian character's need for an enemy is a discharge. Reflexive defence of one's group is a discharge. Ungoverned myth-making requires a stimulus to be *interpreted* before it can be *examined*, which is a discharge dressed up as insight. And holding a dozen incommensurable threats in mind without collapsing them into one story is exactly what the discharge prevents. Interrupt the discharge and every one of these loses its supply.
+**It is upstream of the others.** A person facing a situation they cannot refuse refuses the nearest refusable thing, and that is a discharge. The authoritarian character's need for an enemy is a discharge. Reflexive defense of one's group is a discharge. Ungoverned myth-making requires a stimulus to be *interpreted* before it can be *examined*, which is a discharge dressed up as insight. And holding a dozen incommensurable threats in mind without collapsing them into one story is exactly what the discharge prevents. Interrupt the discharge and every one of these loses its supply.
 
-**It is what the apparatus is actually optimised to produce.** A system that selects for engagement is, by definition, selecting for stimuli that get *reacted to*. It iterates against a model of one particular person until it finds the configurations that reliably produce a discharge. Its main product is not distraction. Distraction is what a person notices afterwards. The product is the shortened interval, and distraction is the by-product. No intent is needed for this. A function optimised on a measurable target, over a very large number of iterations, against a good model of one person, will find whatever most efficiently converts attention into the metric. The finding is made by search, not by decision.
+**It is what the apparatus is actually optimized to produce.** A system that selects for engagement is, by definition, selecting for stimuli that get *reacted to*. It iterates against a model of one particular person until it finds the configurations that reliably produce a discharge. Its main product is not distraction. Distraction is what a person notices afterwards. The product is the shortened interval, and distraction is the by-product. No intent is needed for this. A function optimized on a measurable target, over a very large number of iterations, against a good model of one person, will find whatever most efficiently converts attention into the metric. The finding is made by search, not by decision.
 
 **It happens at a scale an individual can reach.** Nobody confronts an anonymous, agentless system on a Thursday afternoon. The discharge, by contrast, happens dozens or hundreds of times a day, in units of a second or two, in circumstances entirely inside one person's situation. Of all the mechanisms named in this book it is the only one that is both upstream and local.
 
@@ -572,7 +572,7 @@ This chapter calls the failure Nietzsche describes the *reactive discharge*, and
 
 This is not an argument for calm, equanimity or a lower emotional temperature. The distinction matters, because the wellness reading of this material is both common and wrong.
 
-The interval is not tranquillity. A person can be furious and not discharge the fury. That is what a considered response to something genuinely outrageous consists of, and it demands more than serenity does, not less. What matters is the *gap*, not the temperature. A culture in which the gap has closed will produce both more rage and less anger that anyone acts on well. Those are not in tension; they are the same fact.
+The interval is not tranquility. A person can be furious and not discharge the fury. That is what a considered response to something genuinely outrageous consists of, and it demands more than serenity does, not less. What matters is the *gap*, not the temperature. A culture in which the gap has closed will produce both more rage and less anger that anyone acts on well. Those are not in tension; they are the same fact.
 
 ## Wallace, used three ways
 
@@ -590,7 +590,7 @@ The central device of *Infinite Jest* is a film so entertaining that anyone who 
 
 ### The essay can be argued with
 
-"E Unibus Pluram" is a different kind of document, written to be argued with (Wallace, 1993). Its thesis is that television absorbed the irony first used against it. Irony began as a critical instrument, a way of exposing the gap between what is presented and what is the case. It was then adopted by the presenting apparatus itself, which now performs self-awareness in advance. An advertisement that mocks advertising cannot be criticised for being an advertisement.
+"E Unibus Pluram" is a different kind of document, written to be argued with (Wallace, 1993). Its thesis is that television absorbed the irony first used against it. Irony began as a critical instrument, a way of exposing the gap between what is presented and what is the case. It was then adopted by the presenting apparatus itself, which now performs self-awareness in advance. An advertisement that mocks advertising cannot be criticized for being an advertisement.
 
 Wallace's conclusion is the one that matters here: irony is excellent at unmasking and useless at building. It can strip away a pretension and cannot supply anything in its place. Its critical power is entirely negative.
 
@@ -608,7 +608,7 @@ Note the structure of the warning. It is not about coercion. It is about conveni
 
 Take the observation seriously on its own terms. Where in ordinary life is an interval allowed to stay unfilled?
 
-The lift has music. The waiting room has a screen. The petrol pump has a screen. The supermarket aisle has music, and so does the restaurant. The gym has both. The airport gate has a screen. The pause between a query and its answer is filled with a loading animation designed to make the pause feel shorter. The intervals the built environment has not colonised, such as the queue, the walk and the minutes before sleep, are filled by the phone, by default, without anyone deciding to fill them.
+The elevator has music. The waiting room has a screen. The gas pump has a screen. The supermarket aisle has music, and so does the restaurant. The gym has both. The airport gate has a screen. The pause between a query and its answer is filled with a loading animation designed to make the pause feel shorter. The intervals the built environment has not colonized, such as the checkout line, the walk and the minutes before sleep, are filled by the phone, by default, without anyone deciding to fill them.
 
 > **Proposition 7** *(structural).* A culture that fills every interval by default has not made a choice about entertainment. It has made a choice about the unfilled interval: that it is a defect to be remedied rather than a condition to be occupied.
 
@@ -626,9 +626,9 @@ Together these support a modest and sufficient conclusion: the unfilled interval
 
 What actually arrives in an unfilled interval, for a person carrying an unbounded set of obligations they cannot discharge? Not information, which is old by then. What arrives is the unresolved obligation, which has no available discharge. The interval is where the disproportion described in Chapter 1, between what one is answerable for and what one can do, stops being abstract.
 
-So the interval is not merely boring. It is where the condition becomes present, and the fill is not idle amusement but an effective, rationally chosen anaesthetic.
+So the interval is not merely boring. It is where the condition becomes present, and the fill is not idle amusement but an effective, rationally chosen anesthetic.
 
-That is why proposals simply to consume less so often fail, and why they fail in a particular way. They remove the anaesthetic without treating the condition. Proposition 2 applies directly: subtraction without provision widens the gap it was meant to close. A person who deletes the apps and does nothing else has arranged to spend more time in direct contact with an obligation that cannot be resolved, and will report, accurately, that it made things worse. That report is usually read as a sign of addiction or of weak commitment. It is neither. It is an accurate observation about what the intervention did.
+That is why proposals simply to consume less so often fail, and why they fail in a particular way. They remove the anesthetic without treating the condition. Proposition 2 applies directly: subtraction without provision widens the gap it was meant to close. A person who deletes the apps and does nothing else has arranged to spend more time in direct contact with an obligation that cannot be resolved, and will report, accurately, that it made things worse. That report is usually read as a sign of addiction or of weak commitment. It is neither. It is an accurate observation about what the intervention did.
 
 None of this makes reducing consumption worthless. It improves real things, including mood and sleep. It does not touch the specific condition, and presenting it as though it does sets people up to experience an accurate result as a personal failure.
 
@@ -640,7 +640,7 @@ The discharge does not work alone. Its interaction with two of Fromm's mechanism
 
 **Group narcissism** is how this reaches ordinary people who would be horrified to be called authoritarian (Fromm, 1964). A person of no particular standing draws a sense of worth from the greatness of a group they belong to and did not choose. Its properties are the ones that matter online. It requires nothing of the member, neither achievement nor contribution, because membership is enough. It is available in unlimited quantity. It is defended with intensity out of proportion to any injury, because an attack on the group is an attack on the member's only supply of worth. And it is cheapest to supply by denigrating an out-group, because relative standing is easier to move than absolute standing.
 
-**Irony supplies the armour.** Irony advances no positive claim, so nothing its holder does can contradict it. There is no afternoon on which it can be caught out, and it costs nothing to say or to hold. Its protective function is exact: you have already said the worst thing about yourself before anyone else could. For a person disappointed often enough, this is not a pose. It is armour, and armour is worn for reasons.
+**Irony supplies the armor.** Irony advances no positive claim, so nothing its holder does can contradict it. There is no afternoon on which it can be caught out, and it costs nothing to say or to hold. Its protective function is exact: you have already said the worst thing about yourself before anyone else could. For a person disappointed often enough, this is not a pose. It is armor, and armor is worn for reasons.
 
 Put them together:
 
@@ -650,13 +650,13 @@ Put them together:
 4. Group membership supplies both a source of worth and a target, at no cost.
 5. The apparatus selects whatever produces the fastest discharge, and that is the refusal.
 6. Irony makes the whole arrangement unfalsifiable and therefore impossible to embarrass.
-7. Each turn of the cycle reduces the capacity to verify anything, because verification requires an undischarged interval. Reduced verification makes generalised suspicion the locally rational default.
-8. Generalised suspicion removes the motive to build the capacity to verify, having concluded in advance that checking would not help.
+7. Each turn of the cycle reduces the capacity to verify anything, because verification requires an undischarged interval. Reduced verification makes generalized suspicion the locally rational default.
+8. Generalized suspicion removes the motive to build the capacity to verify, having concluded in advance that checking would not help.
 9. Return to step 1, with less capacity than before.
 
-> **Proposition 8** *(hypothesis).* Declining capacity to verify and rising cynicism are not independent trends but a self-reinforcing loop, and the reactive discharge is the mechanism that couples them. Verification requires an interval, the apparatus is optimised to remove the interval, and cynicism is the position that makes the removal costless by declaring verification pointless.
+> **Proposition 8** *(hypothesis).* Declining capacity to verify and rising cynicism are not independent trends but a self-reinforcing loop, and the reactive discharge is the mechanism that couples them. Verification requires an interval, the apparatus is optimized to remove the interval, and cynicism is the position that makes the removal costless by declaring verification pointless.
 
-Each component of the loop has separate evidence behind it. The coupling between them is inferred, which is why Proposition 8 is labelled a hypothesis, and Appendix D describes the longitudinal study that would test it as a loop.
+Each component of the loop has separate evidence behind it. The coupling between them is inferred, which is why Proposition 8 is labeled a hypothesis, and Appendix D describes the longitudinal study that would test it as a loop.
 
 The loop, and the two chapters that follow, rest on one question that has to be answered first. If the interval is collapsing dozens of times a day, why does nobody catch it happening? Chapter 5 argues that the answer lies not in inattention but in the nature of an incorporated instrument, and that the answer changes what any remedy can hope to do.
 
@@ -668,19 +668,19 @@ Any account of attentional capture has to answer an objection that almost none o
 
 The usual answers do not work. It is not inattention, because attentive people fail too. It is not subliminal in any technical sense, because nothing here operates below the threshold of perception. And nobody is lying.
 
-The answer assembles three literatures that have not been put together for this purpose before. An incorporated instrument does not appear in experience as an instrument. An instrument optimised against its own breakdown never becomes visible at all, because breakdown is how a person discovers they were inside a structure. And the sense of having chosen is manufactured after the fact, from cues an arrangement can supply. Together these establish something narrower and more important than a causal claim. First-person report is not a competent instrument for detecting this kind of shaping, so the absence of a felt compulsion is worth nothing as evidence. The result is defensive. It removes a defence rather than proving a charge, but the defence it removes is the one doing nearly all the work in ordinary arguments about this subject. The chapter then uses the result to answer a question people ask constantly and answer badly: has the anonymous authority of the present actually been revealed, or is it still behind the curtain?
+The answer assembles three literatures that have not been put together for this purpose before. An incorporated instrument does not appear in experience as an instrument. An instrument optimized against its own breakdown never becomes visible at all, because breakdown is how a person discovers they were inside a structure. And the sense of having chosen is manufactured after the fact, from cues an arrangement can supply. Together these establish something narrower and more important than a causal claim. First-person report is not a competent instrument for detecting this kind of shaping, so the absence of a felt compulsion is worth nothing as evidence. The result is defensive. It removes a defense rather than proving a charge, but the defense it removes is the one doing nearly all the work in ordinary arguments about this subject. The chapter then uses the result to answer a question people ask constantly and answer badly: has the anonymous authority of the present actually been revealed, or is it still behind the curtain?
 
 ## Part one: the incorporated instrument
 
 Maurice Merleau-Ponty's *Phenomenology of Perception* (1945/2012) makes a claim about the body that most later discussion of technology has never absorbed.
 
-He describes a form of directedness toward the world that is neither propositional nor representational, which he calls *motor intentionality*. The hand goes to the doorknob without any judgment about doorknobs. The foot finds the stair without a calculation about the stair. This is not habit in the behaviourist sense, because it responds finely to the particular situation. The hand adjusts to *this* doorknob, which is stiff, and nothing that could be called a decision appears in consciousness while it does so. The bearer of this directedness is the *body schema*. It is not a mental picture of the body. It is a practical, pre-reflective grip on the world, through which things show up *already* as reachable, graspable, climbable or too far away.
+He describes a form of directedness toward the world that is neither propositional nor representational, which he calls *motor intentionality*. The hand goes to the doorknob without any judgment about doorknobs. The foot finds the stair without a calculation about the stair. This is not habit in the behaviorist sense, because it responds finely to the particular situation. The hand adjusts to *this* doorknob, which is stiff, and nothing that could be called a decision appears in consciousness while it does so. The bearer of this directedness is the *body schema*. It is not a mental picture of the body. It is a practical, pre-reflective grip on the world, through which things show up *already* as reachable, graspable, climbable or too far away.
 
-His most famous example is the blind man's cane. For a novice the cane is an object, something held, whose weight is felt in the hand and whose relation to the world must be worked out. For an experienced user it is nothing of the kind. The cane has stopped being perceived and has become the means of perceiving. The point of sensation is no longer the palm but the tip, and the pavement is felt *at the tip of the cane*.
+His most famous example is the blind man's cane. For a novice the cane is an object, something held, whose weight is felt in the hand and whose relation to the world must be worked out. For an experienced user it is nothing of the kind. The cane has stopped being perceived and has become the means of perceiving. The point of sensation is no longer the palm but the tip, and the sidewalk is felt *at the tip of the cane*.
 
 His other examples make the same point from other angles. A woman wearing a feathered hat passes through doorways without calculating the clearance of the feather. A typist knows the keyboard in their hands but cannot say where the letters sit on a diagram. An organist given an unfamiliar instrument needs an hour of rehearsal, not a fresh course of study, because what gets adjusted is a grip rather than a set of facts. In every case the structure is the same. What has been incorporated stops being an object of experience and becomes a medium of experience.
 
-Experimental work arrives at the same place by a method with entirely different biases. Studies of tool use find that the brain's representation of the space around the body *extends to include a tool during use*. This appears in parietal neurons in macaques and in behavioural and neuropsychological studies of humans, emerging with practice and receding without it (Maravita & Iriki, 2004). Identifying that effect with Merleau-Ponty's body schema is a theoretical interpretation, not a finding, and it is used here as one. The rubber-hand illusion supplies the complement. The sense of what belongs to one's body is built from matching signals across the senses, and it can be induced to include something that is not part of the body at all (Botvinick & Cohen, 1998).
+Experimental work arrives at the same place by a method with entirely different biases. Studies of tool use find that the brain's representation of the space around the body *extends to include a tool during use*. This appears in parietal neurons in macaques and in behavioral and neuropsychological studies of humans, emerging with practice and receding without it (Maravita & Iriki, 2004). Identifying that effect with Merleau-Ponty's body schema is a theoretical interpretation, not a finding, and it is used here as one. The rubber-hand illusion supplies the complement. The sense of what belongs to one's body is built from matching signals across the senses, and it can be induced to include something that is not part of the body at all (Botvinick & Cohen, 1998).
 
 ### The application
 
@@ -690,11 +690,11 @@ You cannot catch yourself picking it up, because nothing in the pickup shows up 
 
 ### The asymmetry
 
-Merleau-Ponty's examples are all benign, and the analogy would be reassuring if it stopped there. It does not stop there. The cane discloses the world. The phone discloses a world that has been arranged by a party with an objective. Incorporation is neutral, and what is incorporated is not. When the cane is taken up, what arrives at its tip is pavement, and pavement is not optimising anything. When the phone is taken up, what arrives is a ranked selection, produced by a process fitted to this particular person and selected for its ability to hold them.
+Merleau-Ponty's examples are all benign, and the analogy would be reassuring if it stopped there. It does not stop there. The cane discloses the world. The phone discloses a world that has been arranged by a party with an objective. Incorporation is neutral, and what is incorporated is not. When the cane is taken up, what arrives at its tip is sidewalk, and sidewalk is not optimizing anything. When the phone is taken up, what arrives is a ranked selection, produced by a process fitted to this particular person and selected for its ability to hold them.
 
 So the structure is this. The medium through which the world is grasped has been supplied by an interested party, and by its nature the medium is invisible to the person using it.
 
-That is *alienation* in the strict sense Marx gave the word and Fromm generalised (Fromm, 1961). Marx's worker meets his own labour as an alien power ruling over him. Here what has been externalised is not labour but the grip itself: the pre-reflective capacity by which a world shows up as mattering in some ways and not others. It is also *idolatry* in Fromm's exact definition. An idol is a human power separated from the person, invested in something outside, and then relied on, and the more powerful the idol becomes, the weaker the person who made it (Fromm, 1966). The power at stake here is the power to decide what is worth attending to, which sits upstream of almost everything else a mind does.
+That is *alienation* in the strict sense Marx gave the word and Fromm generalized (Fromm, 1961). Marx's worker meets his own labor as an alien power ruling over him. Here what has been externalized is not labor but the grip itself: the pre-reflective capacity by which a world shows up as mattering in some ways and not others. It is also *idolatry* in Fromm's exact definition. An idol is a human power separated from the person, invested in something outside, and then relied on, and the more powerful the idol becomes, the weaker the person who made it (Fromm, 1966). The power at stake here is the power to decide what is worth attending to, which sits upstream of almost everything else a mind does.
 
 > **Proposition 14** *(structural).* An instrument that has been incorporated into the body schema is not available to first-person inspection as an instrument, and its transparency is constitutive rather than accidental. When what is incorporated is a medium arranged by an interested party, the arrangement inherits the transparency.
 
@@ -702,7 +702,7 @@ That is *alienation* in the strict sense Marx gave the word and Fromm generalise
 
 Heidegger reaches the same structure by another route and adds something Merleau-Ponty does not: an account of *when* the instrument becomes visible. That turns out to be the key.
 
-In the analysis of equipment in *Being and Time*, our primary relation to things is use, not observation (Heidegger, 1927/1962, §§15–16). A hammer in the middle of hammering is not met as an object with properties such as weight, colour and mass. It is *ready-to-hand*: transparent, absorbed into the activity, and what shows up is the work rather than the tool. For a tool to be properly ready-to-hand, it has to withdraw. Transparency is not a defect of attention. It is the way equipment is properly equipment. The more available a tool is, the less it appears.
+In the analysis of equipment in *Being and Time*, our primary relation to things is use, not observation (Heidegger, 1927/1962, §§15–16). A hammer in the middle of hammering is not met as an object with properties such as weight, color and mass. It is *ready-to-hand*: transparent, absorbed into the activity, and what shows up is the work rather than the tool. For a tool to be properly ready-to-hand, it has to withdraw. Transparency is not a defect of attention. It is the way equipment is properly equipment. The more available a tool is, the less it appears.
 
 *Present-at-hand* is the other mode, the thing as an object with properties, looked at rather than used. It is the mode of theory and inspection. It is not primary, and we do not arrive at it by choosing to.
 
@@ -710,18 +710,18 @@ We arrive at it through *breakdown*, and Heidegger names three forms. In *conspi
 
 The decisive point is what happens in these modes. Breakdown discloses. When equipment fails, it does not merely become an object. The entire context of reference it belonged to lights up: the task, the purpose, the arrangement of things that had been working silently, and the fact that any of it was an arrangement at all. Breakdown is how a person finds out they were inside a structure, and it is very nearly the only way.
 
-> **Proposition 15** *(structural).* An instrument optimised against its own breakdown is thereby optimised against its own disclosure. Reliability is not neutral with respect to visibility. A tool that never fails is a tool that never shows up, and the context of reference it belongs to never lights up.
+> **Proposition 15** *(structural).* An instrument optimized against its own breakdown is thereby optimized against its own disclosure. Reliability is not neutral with respect to visibility. A tool that never fails is a tool that never shows up, and the context of reference it belongs to never lights up.
 
 Consider what the discipline of consumer software engineering consists of, described phenomenologically rather than commercially. Uptime is measured in nines. Latency is pushed below the threshold of noticing. Errors are caught, handled and presented as something other than failure. Loading states are designed so that a wait is not experienced as a wait. Onboarding is designed so that no moment of incompetence ever occurs. Interfaces are revised until nothing is in the way.
 
-Every one of these eliminates a condition under which the instrument could have become present-at-hand. And none of it requires bad intent. Reliability is good. Lower latency is good. Graceful error handling is good. Everyone involved is doing something defensible and mostly admirable. The suppression of disclosure is a by-product of optimising for something nobody disputes. That is why no one can be found responsible for it, and why it is the hardest kind of problem to address.
+Every one of these eliminates a condition under which the instrument could have become present-at-hand. And none of it requires bad intent. Reliability is good. Lower latency is good. Graceful error handling is good. Everyone involved is doing something defensible and mostly admirable. The suppression of disclosure is a by-product of optimizing for something nobody disputes. That is why no one can be found responsible for it, and why it is the hardest kind of problem to address.
 
 ### Does this prove too much?
 
-A well-made hammer, a reliable car and indoor plumbing are all optimised against breakdown, and none of them has produced a crisis. This is the strongest objection to the argument, and answering it sharpens the claim. One condition is not enough. The claim needs three.
+A well-made hammer, a reliable car and indoor plumbing are all optimized against breakdown, and none of them has produced a crisis. This is the strongest objection to the argument, and answering it sharpens the claim. One condition is not enough. The claim needs three.
 
 1. **Transparency.** The hammer has it. On its own it is not sufficient.
-2. **An interested arranger.** The hammer lacks one. The pavement at the tip of the cane is not optimising anything. What arrives through the phone is a ranked selection fitted to this person and selected for its capacity to hold them.
+2. **An interested arranger.** The hammer lacks one. The sidewalk at the tip of the cane is not optimizing anything. What arrives through the phone is a ranked selection fitted to this person and selected for its capacity to hold them.
 3. **Friction removed for each individual.** No earlier instrument had this, and it is the new condition. Heidegger's three breakdown modes are all forms of *friction*: the tool fails, is missing or gets in the way. A system that learns, continuously and individually, what a *particular* person finds frictional, and then removes it, is eliminating its own breakdown modes user by user. Even the residue of a person's irritation, the very moment at which the thing could have become conspicuous, is absorbed into the model and removed.
 
 Every earlier idol was static. It said the same thing to everyone, its demands were fixed, and it could eventually be found intolerable, which is to say that it could break. An arrangement that removes its own points of friction in response to your friction with it cannot become conspicuous in that way, and that is genuinely new. Plumbing meets the first condition and neither of the others.
@@ -734,9 +734,9 @@ The question is whether disclosure accumulates, and it appears not to. The outag
 
 ## Part three: manufactured authorship
 
-The last line of defence is the strongest available: *I know I chose to open it, because I was there.*
+The last line of defense is the strongest available: *I know I chose to open it, because I was there.*
 
-**Introspective access to the causes of one's own behaviour is unreliable.** Nisbett and Wilson's (1977) review established that people asked why they did something give fluent, confident explanations that often have nothing to do with what actually influenced them. They report plausible theories about themselves, not an observed process. Several of the individual demonstrations were small and have been criticised. The general finding has held.
+**Introspective access to the causes of one's own behavior is unreliable.** Nisbett and Wilson's (1977) review established that people asked why they did something give fluent, confident explanations that often have nothing to do with what actually influenced them. They report plausible theories about themselves, not an observed process. Several of the individual demonstrations were small and have been criticized. The general finding has held.
 
 **The sense of authorship is inferred, not read off.** Wegner's (2002) account of apparent mental causation holds that we attribute an action to ourselves when a thought about it came *before* the action, was *consistent* with it, and was *exclusive*, with no other plausible cause present. When these cues are supplied artificially, people report authorship of actions they did not produce. When the cues are absent, people fail to claim actions they did produce. The strong slogan that "conscious will is an illusion" is contested. Wegner's own claim is the narrower one: the *experience* of will is constructed.
 
@@ -744,7 +744,7 @@ The last line of defence is the strongest available: *I know I chose to open it,
 
 **Intentional binding** is the compression of perceived time between a voluntary action and its effect, and it is widely used as an implicit measure of the sense of agency (Haggard et al., 2002). As a pure measure of agency it is contested, since expectations about cause and timing are plausible confounds. It corroborates the picture without carrying it.
 
-Any reader who knows this literature will expect the finding of Libet et al. (1983) that a readiness potential in the brain precedes the reported moment of conscious intention. For decades it was read as evidence that decisions are made unconsciously before we know about them. Schurger et al. (2012) proposed instead that the readiness potential may largely be an artefact of averaging ongoing spontaneous neural fluctuation, time-locked to the moment it crosses a threshold. On that reading it is not the signature of a prior unconscious decision. The popular reading of Libet has been superseded, and this book rests nothing on it.
+Any reader who knows this literature will expect the finding of Libet et al. (1983) that a readiness potential in the brain precedes the reported moment of conscious intention. For decades it was read as evidence that decisions are made unconsciously before we know about them. Schurger et al. (2012) proposed instead that the readiness potential may largely be an artifact of averaging ongoing spontaneous neural fluctuation, time-locked to the moment it crosses a threshold. On that reading it is not the signature of a prior unconscious decision. The popular reading of Libet has been superseded, and this book rests nothing on it.
 
 > **Proposition 16** *(empirical).* The sense of having authored an action is a retrospective attribution constructed from cues of priority, consistency and exclusivity, rather than a readout of the process that produced the action. An arrangement that reliably supplies those cues will therefore produce the experience of authorship over actions it shaped, and the absence of a felt external compulsion is consequently not evidence that no external shaping occurred.
 
@@ -754,9 +754,9 @@ All three cues are supplied at full strength. The experience of having freely ch
 
 ### What this establishes
 
-Precision matters here, because this is where arguments of this kind usually overreach. The result does not establish that the feed causes your behaviour. Nothing in the confabulation literature says that. These studies concern the reliability of a detector, not what the detector failed to detect.
+Precision matters here, because this is where arguments of this kind usually overreach. The result does not establish that the feed causes your behavior. Nothing in the confabulation literature says that. These studies concern the reliability of a detector, not what the detector failed to detect.
 
-What the result establishes is that the detector is not competent for this task. But the defence it removes is the one carrying all the weight. *Nobody made me do it; I chose to* is the sentence on which the whole self-regulation account rests. Proposition 16 says that sentence would be produced with equal confidence in a world where the shaping was total and in a world where there was none. A report that cannot tell two states apart is not evidence about which state holds.
+What the result establishes is that the detector is not competent for this task. But the defense it removes is the one carrying all the weight. *Nobody made me do it; I chose to* is the sentence on which the whole self-regulation account rests. Proposition 16 says that sentence would be produced with equal confidence in a world where the shaping was total and in a world where there was none. A report that cannot tell two states apart is not evidence about which state holds.
 
 ### Fromm's most dismissed claim, demonstrated
 
@@ -768,7 +768,7 @@ Choice blindness is that claim demonstrated in a laboratory. A person is handed 
 
 People ask this constantly and answer it badly, because three different things get run together. Separated, they give an unambiguous answer.
 
-**Level one: named.** Does the phenomenon have a public vocabulary? Emphatically yes, and recently. "The algorithm," "the attention economy," "engagement optimisation," "surveillance capitalism," "doomscrolling" and "enshittification" are all in circulation. Fifteen years ago most of them did not exist. Now they are ambient and cross-partisan, and people with no technical background use them correctly. As a feat of public vocabulary-building, this is a genuine and rapid achievement.
+**Level one: named.** Does the phenomenon have a public vocabulary? Emphatically yes, and recently. "The algorithm," "the attention economy," "engagement optimization," "surveillance capitalism," "doomscrolling" and "enshittification" are all in circulation. Fifteen years ago most of them did not exist. Now they are ambient and cross-partisan, and people with no technical background use them correctly. As a feat of public vocabulary-building, this is a genuine and rapid achievement.
 
 **Level two: described.** Is there an accurate public account of what lies behind it? Substantially, yes. There are whistleblower document releases, sustained investigative journalism, an academic literature, legislative testimony and discovery in litigation. Above all there are the public statements of the people who build these systems, who discuss ranking objectives, engagement metrics and the trade-offs between them in the trade press without much embarrassment.
 
@@ -782,13 +782,13 @@ The curtain has been described, in remarkable detail, from the outside. It has n
 
 Naming without attributing is not a partial success. It has two specific failure modes, and both are operating.
 
-> **Proposition 17** *(structural).* Naming an anonymous authority without attributing it produces a new anonymous authority rather than an overt one. The name relieves the pressure that attribution would otherwise generate, and the arrangement is thereby stabilised by its own critique.
+> **Proposition 17** *(structural).* Naming an anonymous authority without attributing it produces a new anonymous authority rather than an overt one. The name relieves the pressure that attribution would otherwise generate, and the arrangement is thereby stabilized by its own critique.
 
 "The algorithm" is grammatically agentless. It is invoked as necessity, as what is done, as the way things are, which is exactly how anonymous authority operates. A person who says *the algorithm buried it* has not identified an author. They have named a weather system and stopped.
 
-The second failure is that the disclosure has been absorbed as content. Critique of the attention economy is a high-performing category *within* the attention economy. Documentaries about attention capture are distributed on attention-capture platforms and ranked by the systems they criticise. Essays about the feed are optimised for the feed. The apparatus is not merely surviving the disclosure. It is metabolising it.
+The second failure is that the disclosure has been absorbed as content. Critique of the attention economy is a high-performing category *within* the attention economy. Documentaries about attention capture are distributed on attention-capture platforms and ranked by the systems they criticize. Essays about the feed are optimized for the feed. The apparatus is not merely surviving the disclosure. It is metabolizing it.
 
-A third effect is the sharpest prediction in this chapter. By Proposition 16, being able to describe the mechanism supplies exactly the cues of authorship. Consider a person who can explain engagement optimisation, knows about variable-ratio reward schedules and can name what is being done to them. Their next four hours of scrolling arrive with a narrative attached that is knowing, ironic and chosen. Priority, consistency and exclusivity are all satisfied, now with an explicit theory on top. That predicts something checkable. Critical knowledge of the mechanism should not reduce the behaviour, and it may raise people's reported sense of control while leaving the behaviour unchanged. If so, the critique works as a better *authorship narrative* rather than as an intervention. It does not free the person. It improves the story they tell about the same conduct.
+A third effect is the sharpest prediction in this chapter. By Proposition 16, being able to describe the mechanism supplies exactly the cues of authorship. Consider a person who can explain engagement optimization, knows about variable-ratio reward schedules and can name what is being done to them. Their next four hours of scrolling arrive with a narrative attached that is knowing, ironic and chosen. Priority, consistency and exclusivity are all satisfied, now with an explicit theory on top. That predicts something checkable. Critical knowledge of the mechanism should not reduce the behavior, and it may raise people's reported sense of control while leaving the behavior unchanged. If so, the critique works as a better *authorship narrative* rather than as an intervention. It does not free the person. It improves the story they tell about the same conduct.
 
 ### Where attribution has occurred
 
@@ -796,7 +796,7 @@ Attribution has occurred, occasionally, and how it occurred is instructive. Anti
 
 In each case something was converted from *a condition* into *a decision with an author*. In each case the conversion was achieved by compulsory process or by a person taking a personal risk. It was never achieved by consumer awareness, by a documentary, or by a critique reaching a large audience.
 
-That is the operational conclusion of this chapter. Awareness is not the mechanism; compulsion is. Making anonymous authority overt is not something a private person can do to their own attention. The conclusion redirects effort rather than counselling despair. It sends the structural half of the remedy to the institutions that hold compulsory process, and it leaves to the private person the half that Part Four describes.
+That is the operational conclusion of this chapter. Awareness is not the mechanism; compulsion is. Making anonymous authority overt is not something a private person can do to their own attention. The conclusion redirects effort rather than counseling despair. It sends the structural half of the remedy to the institutions that hold compulsory process, and it leaves to the private person the half that Part Four describes.
 
 Before that, Part Three follows what people reach for when attribution is unavailable. There are two common responses, one disreputable and one respectable, and on the dimension that matters most they perform identically.
 
@@ -818,13 +818,13 @@ That account explains three things the rival accounts do not. It explains why th
 
 Three earlier results set the stage.
 
-From Chapter 1 comes the citizen's condition. A person holds an unbounded set of civilisation-scale threats with no common unit, timescales that differ by orders of magnitude, responsible agents who mostly exclude them, and no upper limit on the supply. That person is nonetheless *answerable* for a defensible position on each. This is an obligation that can be neither completed nor resigned (Proposition 1).
+From Chapter 1 comes the citizen's condition. A person holds an unbounded set of civilization-scale threats with no common unit, timescales that differ by orders of magnitude, responsible agents who mostly exclude them, and no upper limit on the supply. That person is nonetheless *answerable* for a defensible position on each. This is an obligation that can be neither completed nor resigned (Proposition 1).
 
 From Chapter 2 comes the citizen's competence. A civic vocabulary made almost entirely of prohibitions produces people whose best-developed skill is refusal. That refusal was earned, since nearly every institution a modern citizen was raised to trust has, within living memory, been found out in some particular.
 
 Also from Chapter 2 comes the authority they face. Fromm's anonymous authority has no agent, issues no commands and therefore cannot be disobeyed (Proposition 4).
 
-From those three, the hinge follows. A person whose only well-developed competence is refusal, facing a situation in which nothing can be refused, will refuse the nearest refusable thing. The threats cannot be refused, so refusal goes elsewhere: to the messenger, to the institution reporting the threat, to the expert, to the neighbour who mentioned it, or to the category of people who worry about it.
+From those three, the hinge follows. A person whose only well-developed competence is refusal, facing a situation in which nothing can be refused, will refuse the nearest refusable thing. The threats cannot be refused, so refusal goes elsewhere: to the messenger, to the institution reporting the threat, to the expert, to the neighbor who mentioned it, or to the category of people who worry about it.
 
 ## The claim
 
@@ -867,7 +867,7 @@ The sharper prediction concerns *where* theories arise, and it is sharp because 
 
 Run the test on yourself, in a domain you are not suspicious about. Pick something that affects you and was decided by someone. It might be the formulary that sets which medications your insurer covers, the model that priced your premium, the standard that defines a serving size, the committee that approved a drug you take, or the ranking function that decided what you saw this morning. Now find out who decided it, when, on what objective, and with what trade-off.
 
-In most cases you will find that you cannot. That is not because the decision is secret in any dramatic sense. It is because it was distributed across a committee, a model, a regulatory comment period, a vendor and an optimisation process, and no document names an author. The inquiry does not hit a lie. It hits a structure with an author-shaped hole in it. That experience, a good-faith inquiry ending in an absence, is the raw material.
+In most cases you will find that you cannot. That is not because the decision is secret in any dramatic sense. It is because it was distributed across a committee, a model, a regulatory comment period, a vendor and an optimization process, and no document names an author. The inquiry does not hit a lie. It hits a structure with an author-shaped hole in it. That experience, a good-faith inquiry ending in an absence, is the raw material.
 
 Test the prediction against the actual distribution. The recurring objects of American conspiracy belief are finance, public health, pharmaceutical regulation, election administration, intelligence agencies, media ownership and the food supply. Every one is a domain of genuinely distributed causation, where attribution is genuinely unavailable.
 
@@ -877,7 +877,7 @@ The counter-case is instructive. Domains with high stakes, strong emotional sali
 
 This is the phenomenological point, and it may be the strongest single piece of evidence for the proposition. Believers are not, as a rule, frightened.
 
-An observer reasoning from the content expects terror. Suppose a person sincerely believes that a coordinated, malevolent group controls the institutions of their society, arranges the deaths of inconvenient people and cannot be voted out. The fitting emotional response is horror. The response actually observed is usually closer to *energised, vindicated and purposeful*.
+An observer reasoning from the content expects terror. Suppose a person sincerely believes that a coordinated, malevolent group controls the institutions of their society, arranges the deaths of inconvenient people and cannot be voted out. The fitting emotional response is horror. The response actually observed is usually closer to *energized, vindicated and purposeful*.
 
 The deficit account cannot explain this, and the motivated-cognition account can only gesture at it. The agent-supply account explains it by simple accounting. Before the theory, the person holds an unbounded set of threats. They are incommensurable and have no exchange rate, no available action and no locatable agent, and the person must keep a position on each. After the theory, the person holds *one* threat of which the others are expressions. They have a single explanatory currency, a named agent, an available action in refusal (the one competence they have), a role for themselves and a community of others who see.
 
@@ -891,7 +891,7 @@ This has a consequence for anyone who wants to intervene. You are not asking the
 
 This is what keeps the account from being an apology, and it is the strongest empirical finding in the book.
 
-Douglas et al. (2017) organise the psychology of conspiracy belief around three motives, and that organisation is now standard in the field. *Epistemic* motives are the desire for understanding, accuracy and certainty. *Existential* motives are the desire for safety, security and control: people turn to conspiracy theories when they are anxious and feel powerless. *Social* motives are the desire to maintain a positive image of oneself and one's group.
+Douglas et al. (2017) organize the psychology of conspiracy belief around three motives, and that organization is now standard in the field. *Epistemic* motives are the desire for understanding, accuracy and certainty. *Existential* motives are the desire for safety, security and control: people turn to conspiracy theories when they are anxious and feel powerless. *Social* motives are the desire to maintain a positive image of oneself and one's group.
 
 Each motive matches the citizen of Chapter 1 precisely, and to that extent the review supports the premise. The reach is toward exactly the things the situation has removed. Then comes the finding. The authors conclude that the motives are not satisfied.
 
@@ -925,7 +925,7 @@ The account also predicts a trajectory, which the rivals do not. A failure of re
 
 It also identifies the target of intervention, and the target is not the proposition. If the belief counterfeits understanding, control and belonging, the only thing that can compete with it is *real* understanding, control and belonging. That is a statement about what would have to be built, not about what would have to be said.
 
-The account does not make conspiracism harmless. Some of these beliefs have body counts. Explaining the demand does not neutralise the supply, and nothing here argues against holding to account the people who manufacture and profit from this material. If anything, the demand account strengthens the case against the suppliers, because it says they are selling to people in a specific and identifiable condition of need.
+The account does not make conspiracism harmless. Some of these beliefs have body counts. Explaining the demand does not neutralize the supply, and nothing here argues against holding to account the people who manufacture and profit from this material. If anything, the demand account strengthens the case against the suppliers, because it says they are selling to people in a specific and identifiable condition of need.
 
 And it does not license the reader's condescension, which is the most likely misreading of this chapter. A reader who hears "they are unfed" as a polite way of saying "they are simple" has inverted the argument. The claim is that the reach is a correct response to a real structural feature of the situation. The reader also lives inside that feature, and has very probably responded to it with a differently shaped counterfeit that their own social world rewards rather than punishes.
 
@@ -939,9 +939,9 @@ The first sentence is a conspiracy claim. The second is the ambient common sense
 
 Both take a distributed, authorless, causally diffuse arrangement and supply it with a *singular noun that has wants*. Neither noun refers to anything capable of wanting. "The algorithm" is not an entity. It is shorthand for an enormous, changing, heterogeneous set of ranking systems, built by different teams at different companies against different objectives, revised continuously, with no unified intention anywhere in them. A person who says "the algorithm wants engagement" has not named an author. They have named a weather system and given it a motive.
 
-The difference between the sentences is real, and nothing below erases it. The second sentence is approximately true and the first is not. Ranking systems really are optimised on objectives close to engagement, and the cabal does not exist. That is not a small difference.
+The difference between the sentences is real, and nothing below erases it. The second sentence is approximately true and the first is not. Ranking systems really are optimized on objectives close to engagement, and the cabal does not exist. That is not a small difference.
 
-But truth of content is not the property at issue. The property at issue is whether the sentence supplies an agent who can be held to account, and on that property the two sentences are identical. Neither supplies one. Both end the inquiry at a noun that cannot be subpoenaed, cannot be voted out, cannot be asked what it was optimising, and cannot be wrong.
+But truth of content is not the property at issue. The property at issue is whether the sentence supplies an agent who can be held to account, and on that property the two sentences are identical. Neither supplies one. Both end the inquiry at a noun that cannot be subpoenaed, cannot be voted out, cannot be asked what it was optimizing, and cannot be wrong.
 
 > **Proposition 19** *(structural).* An agentless noun that has been given a motive is not an attribution but a substitute for one. It discharges the demand for an author while supplying none, and therefore leaves anonymous authority intact in a new idiom.
 
@@ -961,7 +961,7 @@ What this does *not* say needs stating flatly, because the equivalence reading i
 
 What it says is narrower and harder to dismiss. On the specific dimension of whether an authority has been made refusable, the true sentence and the false one perform identically, because refusability requires an author and neither supplies one. The educated reader's advantage over the conspiracist is real in the domain of accuracy and approximately zero in the domain of agency.
 
-In one respect the critic's position is worse. The conspiracist's fabricated agent at least produces action: organising, refusing, showing up, however destructively. The critic's agentless noun produces a knowing sentence and nothing else, because there is nobody to act against. It is the more accurate belief and the more inert one.
+In one respect the critic's position is worse. The conspiracist's fabricated agent at least produces action: organizing, refusing, showing up, however destructively. The critic's agentless noun produces a knowing sentence and nothing else, because there is nobody to act against. It is the more accurate belief and the more inert one.
 
 ## What follows for practice
 
@@ -985,13 +985,13 @@ The disreputable response to an unattributable world produces action without acc
 
 Near the front of nearly every book about attention, technology or consumer culture sits a sentence conceding that the critique is not original. It says that modern life is distracting, consumer culture is hollow, the feeds are engineered and institutional authority has decayed, and that none of this is news. Such sentences are written as disclaimers. They are not. Together they record the most important single datum in this book's argument.
 
-The datum is a conjunction. Assent to this critique is very widely distributed and cuts across partisan lines, and the assent has changed almost nothing. That conjunction needs explaining. This chapter explains it in four vocabularies: as *automaton conformity*, as *idolatry*, as *alienation*, and as the attention economy's best-specified product. It then states the proposition that follows. A critique that is universally assented to and behaviourally inert is not a stage on the way to change. It is a stable equilibrium.
+The datum is a conjunction. Assent to this critique is very widely distributed and cuts across partisan lines, and the assent has changed almost nothing. That conjunction needs explaining. This chapter explains it in four vocabularies: as *automaton conformity*, as *idolatry*, as *alienation*, and as the attention economy's best-specified product. It then states the proposition that follows. A critique that is universally assented to and behaviorally inert is not a stage on the way to change. It is a stable equilibrium.
 
 ## The datum
 
 Take any one of the four propositions: modern life is distracting; consumer culture is hollow; the feeds are engineered; institutional authority has decayed. Now look for someone who disagrees. Not someone who thinks the framing is overwrought or the remedies wrong, but someone who holds the *contrary* position and would defend it. Such people are rare. Most of them are professionals with a direct commercial interest, and even they concede the mechanism and dispute only whether it is bad.
 
-Nor is any of this concealed. Engagement metrics, retention curves, session-length optimisation and the trade-offs among them are discussed openly by practitioners as a matter of craft. The disclosure everyone is waiting for has already happened, and that is what makes the datum strange.
+Nor is any of this concealed. Engagement metrics, retention curves, session-length optimization and the trade-offs among them are discussed openly by practitioners as a matter of craft. The disclosure everyone is waiting for has already happened, and that is what makes the datum strange.
 
 Near-universal assent was achieved within about fifteen years, on a set of propositions about the shape of ordinary life. On its face that is an extraordinary success for a critical literature. Then look for the change. Aggregate consumption has not fallen. Institutional trust has not recovered. The mechanisms described have not been altered by being described. Whatever has changed in fifteen years, it has not changed in the direction the critique argues for.
 
@@ -1013,7 +1013,7 @@ It does not vary with evidence. A genuinely held empirical belief moves when the
 
 And it does not show up in conduct. This is the distinguishing test, and anyone can run it. Does the assenting person behave differently from someone who has never encountered the critique? Overwhelmingly, the answer appears to be no.
 
-A belief that is confidently held, insensitive to evidence, unable to state its own mechanism and causally disconnected from behaviour is not functioning as a belief. It is functioning as a signal of membership, which is precisely what pseudo-thinking is for.
+A belief that is confidently held, insensitive to evidence, unable to state its own mechanism and causally disconnected from behavior is not functioning as a belief. It is functioning as a signal of membership, which is precisely what pseudo-thinking is for.
 
 ### As idolatry
 
@@ -1025,7 +1025,7 @@ These are not analyses. They are devotional formulas, and their function is to d
 
 ### As alienation
 
-Marx's structure, which Fromm took over and generalised, is that one's own product confronts one as an external power. Here the product is the critique itself. Critical capacity, the activity of looking at an arrangement and working out what it is doing, has been externalised into a genre that people consume: essays, podcasts, documentaries, newsletters and treatises. The person no longer performs the critique. They subscribe to it.
+Marx's structure, which Fromm took over and generalized, is that one's own product confronts one as an external power. Here the product is the critique itself. Critical capacity, the activity of looking at an arrangement and working out what it is doing, has been externalized into a genre that people consume: essays, podcasts, documentaries, newsletters and treatises. The person no longer performs the critique. They subscribe to it.
 
 The alienation is complete in Marx's sense. The activity has become a thing, the thing is produced by specialists and exchanged on a market, and the person stands to their own critical capacity as a customer stands to a supplier. This book belongs to that genre, and saying so does not exempt it.
 
@@ -1044,15 +1044,15 @@ That is not an accidental fit. It is the specification of an ideal engagement pr
 
 ## The proposition
 
-> **Proposition 18** *(hypothesis).* A critique that is universally assented to and behaviourally inert is not an intermediate stage on the way to change. It is a stable equilibrium, because assent discharges the pressure that would otherwise have produced action.
+> **Proposition 18** *(hypothesis).* A critique that is universally assented to and behaviorally inert is not an intermediate stage on the way to change. It is a stable equilibrium, because assent discharges the pressure that would otherwise have produced action.
 
 The last clause is the mechanism, and it connects this chapter to Chapter 4. Recognition is a discharge. Reading a passage like this one and thinking *yes, exactly* is a completed act: the impulse arrives and leaves as agreement. The pressure is spent, nothing further is required, and nothing further happens. So the critique is not merely failing to help. It may be the most efficient available means of not acting, because it converts the discomfort that might have produced a change into the satisfaction of having understood.
 
 ### Why the mechanism is worse than it looks
 
-Chapter 5 established that the sense of having chosen is assembled after the fact from cues of priority, consistency and exclusivity, rather than read off the process that produced the action (Proposition 16). Being able to describe the mechanism supplies exactly those cues. A person who can explain engagement optimisation experiences their next four hours of scrolling as *knowing, ironic and chosen*. The theory came first, it is consistent with the act, and no outside agent is visible.
+Chapter 5 established that the sense of having chosen is assembled after the fact from cues of priority, consistency and exclusivity, rather than read off the process that produced the action (Proposition 16). Being able to describe the mechanism supplies exactly those cues. A person who can explain engagement optimization experiences their next four hours of scrolling as *knowing, ironic and chosen*. The theory came first, it is consistent with the act, and no outside agent is visible.
 
-So the critique does not free the person. It improves the story they tell about the same conduct. That is a checkable prediction. Critical knowledge of the mechanism should not reduce the behaviour, and it may raise reported feelings of control while leaving the behaviour unchanged.
+So the critique does not free the person. It improves the story they tell about the same conduct. That is a checkable prediction. Critical knowledge of the mechanism should not reduce the behavior, and it may raise reported feelings of control while leaving the behavior unchanged.
 
 ## What room this leaves for a book
 
@@ -1062,15 +1062,15 @@ Together they leave a narrow role for a document like this one, and the role sho
 
 The first is as an input to the people who do attribution: journalists, litigants, regulators and researchers. For them, an account of *why* attribution rather than education is the operative lever bears on decisions. That audience is real and small, and it is not the audience most writing in this genre addresses.
 
-The second is as something that can be checked against its author's conduct, which is the only property that distinguishes a held critique from an ambient one. Sincerity is expensive precisely because the claimant's own behaviour can falsify it. This book claims that attention is the seat of civic capacity, that construction requires tolerating public incompetence, and that norms are built by modelling rather than advocating. Every one of those claims can be falsified by its author's next month. That exposure is the price of the claims being held rather than ambient, and it is the same price the book asks the reader to pay.
+The second is as something that can be checked against its author's conduct, which is the only property that distinguishes a held critique from an ambient one. Sincerity is expensive precisely because the claimant's own behavior can falsify it. This book claims that attention is the seat of civic capacity, that construction requires tolerating public incompetence, and that norms are built by modeling rather than advocating. Every one of those claims can be falsified by its author's next month. That exposure is the price of the claims being held rather than ambient, and it is the same price the book asks the reader to pay.
 
 ## Three consequences
 
 Agreement with this chapter is worth nothing, and that is a claim, not modesty. If Proposition 18 is right, a reader who agrees with everything here and changes nothing has performed exactly the operation it describes.
 
-So the argument cannot be argued *for*. An argument produces assent, and assent is the failure mode. That is why the constructive material in this book consists of *arrangements* rather than persuasions, and why the norms of Chapter 9 are to be *modelled* rather than advocated. Advocacy produces agreement. Modelling changes what is normal.
+So the argument cannot be argued *for*. An argument produces assent, and assent is the failure mode. That is why the constructive material in this book consists of *arrangements* rather than persuasions, and why the norms of Chapter 9 are to be *modeled* rather than advocated. Advocacy produces agreement. Modeling changes what is normal.
 
-The right response to this chapter, then, is not to agree with it. It is to run the conduct test on yourself, once and honestly: *does my behaviour differ from that of someone who has never encountered any of this?* The test takes about a minute, produces no content and cannot be posted. It is the only part of this chapter that would count as evidence of anything.
+The right response to this chapter, then, is not to agree with it. It is to run the conduct test on yourself, once and honestly: *does my behavior differ from that of someone who has never encountered any of this?* The test takes about a minute, produces no content and cannot be posted. It is the only part of this chapter that would count as evidence of anything.
 
 Chapters 6 and 7 form a pair. One concerns a disreputable response and one a respectable response to a world in which nobody can be named as the author. They differ enormously in truth and not at all in structure, and reading them together is the only way to feel that as an argument rather than a provocation. Both reach for something that is not there. Part Four asks what can be built in its place, and begins with the capacity the building requires.
 
@@ -1090,7 +1090,7 @@ This chapter argues four things. The capacity to hold an undischarged impulse is
 
 ## A deposit, not a cost
 
-The usual framing treats not-reacting as restraint: a suppression, a cost paid, a quantity of willpower spent. On that framing it is depleting, unpleasant and finite, and the natural conclusion is to minimise the occasions that demand it. That framing gets it backwards.
+The usual framing treats not-reacting as restraint: a suppression, a cost paid, a quantity of willpower spent. On that framing it is depleting, unpleasant and finite, and the natural conclusion is to minimize the occasions that demand it. That framing gets it backwards.
 
 > **Proposition 9** *(structural).* An undischarged impulse is not a cost paid but a deposit made. The energy that would have gone into the discharge remains available, and the capacity to hold it is itself built by holding it.
 
@@ -1102,7 +1102,7 @@ The second is Jung's account of *containment*. The governing image is the alchem
 
 ### Why the framing has practical consequences
 
-If not-reacting is a *cost*, the rational strategy is avoidance: reduce the occasions, remove the stimuli, minimise the demand. That is the subtraction remedy. Proposition 2 has already said what subtraction without provision does: it delivers more freedom-*from* to a person short of freedom-*to*.
+If not-reacting is a *cost*, the rational strategy is avoidance: reduce the occasions, remove the stimuli, minimize the demand. That is the subtraction remedy. Proposition 2 has already said what subtraction without provision does: it delivers more freedom-*from* to a person short of freedom-*to*.
 
 If not-reacting is a *deposit*, the rational strategy is exposure at a manageable dose, with enough occasions to build the capacity and not so many that it collapses. That is the logic of *training* rather than the logic of *hygiene*, and it points to a completely different set of practices.
 
@@ -1122,11 +1122,11 @@ Refusal, by contrast, needs no incompetence phase at all. You are good at refusi
 
 **Being bad at something is now visible.** Learning used to happen in private: incompetence was displayed in a workshop, a practice room or a classroom, before a few people with an interest in one's improvement. Today many attempts are public and permanently recorded, before an audience with no such interest. That is not a small change. It turns an ordinary developmental period into a *reputational event*, and the rational response to a reputational event is not to attempt it. Much of what is diagnosed as risk-aversion or lack of ambition is an accurate reading of this situation.
 
-**Competence is displayed as an identity rather than practised as an activity.** If being good at something is a *possession*, then being bad at it is a loss of possession, and the entry cost of anything new is a surrender of standing. If competence is an *activity*, being bad at it is simply the early part of doing it. The possessive framing, which Fromm called the having mode, makes the incompetence phase feel like self-destruction rather than an ordinary Tuesday.
+**Competence is displayed as an identity rather than practiced as an activity.** If being good at something is a *possession*, then being bad at it is a loss of possession, and the entry cost of anything new is a surrender of standing. If competence is an *activity*, being bad at it is simply the early part of doing it. The possessive framing, which Fromm called the having mode, makes the incompetence phase feel like self-destruction rather than an ordinary Tuesday.
 
 **The available supply of competence is a comparison set with no floor.** A beginner at anything now compares themselves not with other beginners, or with their own last month, but with the most competent performances in the world, delivered continuously and free. That comparison does not motivate. It is Rousseau's *amour propre* with a global denominator (Rousseau, 1755/1992). Amour propre is a self-regard whose object is a *position* rather than a good. It cannot be satisfied even in principle, because positions are relative and nobody is ever finished with them.
 
-## The fool and the saviour: a quotation in circulation
+## The fool and the savior: a quotation in circulation
 
 A line attributed to Jung circulates widely in exactly this context: "The fool is the precursor to the savior." It is usually glossed in just the way this chapter needs. You are a fool when you start something new, and if you are unwilling to be a fool you will never start anything.
 
@@ -1152,11 +1152,11 @@ So this book offers the sentence in a form it can stand behind, under its own na
 
 ## The convergence
 
-Set Proposition 11 beside three accounts of what a developed person is, and the three vocabularies arrive at one structure. Fromm's positive freedom is acting from one's own centre, in spontaneous activity, rather than by adopted pattern. Nietzsche's child, the third metamorphosis, is the self-rolling wheel, the first movement, the spirit that wills its own will. Jung's individuation is becoming the particular individual one is, by integrating what has not yet been integrated.
+Set Proposition 11 beside three accounts of what a developed person is, and the three vocabularies arrive at one structure. Fromm's positive freedom is acting from one's own center, in spontaneous activity, rather than by adopted pattern. Nietzsche's child, the third metamorphosis, is the self-rolling wheel, the first movement, the spirit that wills its own will. Jung's individuation is becoming the particular individual one is, by integrating what has not yet been integrated.
 
 Each of the three is explicitly a *construction*, not a removal. None arrives by subtraction, and none is available to a spirit whose whole activity is defined against something. Each requires the same enabling capacity: the ability to hold a tension without discharging it, long enough for something to be made out of it. By this book's rules, the convergence is a pattern worth noting rather than a proof. What it does is locate the target precisely.
 
-That gives the whole argument in one sentence. *The problem is not a lack of freedom, information, intelligence or courage. It is that the capacity by which freedom becomes construction has been the specific target of the most sophisticated optimisation process ever pointed at a human being, and the resulting deficit is experienced, wrongly, as a personal failing.*
+That gives the whole argument in one sentence. *The problem is not a lack of freedom, information, intelligence or courage. It is that the capacity by which freedom becomes construction has been the specific target of the most sophisticated optimization process ever pointed at a human being, and the resulting deficit is experienced, wrongly, as a personal failing.*
 
 Two limits keep that sentence honest. Not all frustration is productive. Undischarged frustration in a situation with no possible resolution is not a deposit. It is Chapter 1's condition of responsibility without efficacy, and it corrodes rather than builds. The deposit requires that the frustration be attached to something one is actually doing. And publicness is not always harmful: some things are learned better in public, and some communities make public incompetence survivable. The claim concerns a default, not a law. Chapter 9 is about building communities of the second kind.
 
@@ -1184,7 +1184,7 @@ Reading Watts as a counsel of passivity is a misreading, and the correction matt
 
 > **Proposition 12** *(structural).* A remedy for the reactive discharge must operate on arrangements rather than on states. One can decide where to put a telephone; one cannot decide to be unbothered by its absence. Instructions addressed to the state are self-defeating; instructions addressed to arrangements are not.
 
-> **Proposition 13** *(structural).* A practice is useful in proportion to how little attention it requires to succeed. A practice that must win an attention contest against an optimised apparatus will lose, and its loss will be misread as a defect of character.
+> **Proposition 13** *(structural).* A practice is useful in proportion to how little attention it requires to succeed. A practice that must win an attention contest against an optimized apparatus will lose, and its loss will be misread as a defect of character.
 
 The test is a single unflattering question: *does the practice still work on a day when you have no willpower at all?*
 
@@ -1196,7 +1196,7 @@ Propositions 12 and 13 rule out most of the self-improvement literature, which i
 
 A norm is an arrangement, not a state. It works through mild ambient expectation rather than resolve. Once established it is cheap to comply with, because compliance becomes the path of least resistance rather than an achievement. It works on people having a bad day. Critically, it *bounds the option set*, because a norm tells you what is done *here*, and that is exactly what an unbounded set of obligations cannot supply. Chapter 1 ended with a design constraint, that only calls which bound the set can work, and a norm meets it.
 
-Norms are also the one civic construction that requires no coalition, budget, office or approval. People build them by behaving a certain way in public and mildly declining to behave otherwise. Political scientists call the people who start this process *norm entrepreneurs*. Their work has a recognisable life cycle: emergence, then a cascade once enough others adopt the norm, then internalisation, the point at which conforming stops being a choice anyone notices (Finnemore & Sikkink, 1998).
+Norms are also the one civic construction that requires no coalition, budget, office or approval. People build them by behaving a certain way in public and mildly declining to behave otherwise. Political scientists call the people who start this process *norm entrepreneurs*. Their work has a recognisable life cycle: emergence, then a cascade once enough others adopt the norm, then internalization, the point at which conforming stops being a choice anyone notices (Finnemore & Sikkink, 1998).
 
 ### Norms are not rules
 
@@ -1206,7 +1206,7 @@ The current governance conversation about online discourse is almost entirely ab
 
 ### The most hopeful fact in this book
 
-Consider how thoroughly the offline equivalents exist. There are elaborate, unwritten, universally understood norms for a funeral, a dinner party, a queue, a lift, a library, a courtroom, a playground, and a face-to-face conversation with someone you disagree with. They took generations to develop. They are enforced by nothing but mild disapproval. And they are extraordinarily effective.
+Consider how thoroughly the offline equivalents exist. There are elaborate, unwritten, universally understood norms for a funeral, a dinner party, a checkout line, an elevator, a library, a courtroom, a playground, and a face-to-face conversation with someone you disagree with. They took generations to develop. They are enforced by nothing but mild disapproval. And they are extraordinarily effective.
 
 Online discourse is about twenty-five years old and has almost none. That is not a moral fact about the people using it. It is a fact about elapsed time. Norms develop slowly, and the medium has not existed for long.
 
@@ -1214,13 +1214,13 @@ This is the most hopeful thing in the book, and after a great deal of grim analy
 
 ### Four properties of a norm that takes
 
-**It must be cheap.** A norm that requires effort will be followed by the conscientious and ignored by everyone else, which produces a norm that penalises the people who keep it.
+**It must be cheap.** A norm that requires effort will be followed by the conscientious and ignored by everyone else, which produces a norm that penalizes the people who keep it.
 
 **It must be legible.** Other people have to be able to tell when it is being followed. A private commitment is not a norm.
 
 **It must be enforceable by mildness.** The sanction has to be a slight social cost, such as a lack of uptake, mild embarrassment, or a conversation that does not continue. A norm enforced by aggression becomes the thing it was meant to prevent. That is the failure of nearly every online norm attempt to date.
 
-**It must be modelled, not advocated.** This is Watts's constraint in social form. Advocating a norm asks people to try; modelling one changes what is normal. The most common single error is posting *about* the norm instead of following it, which turns an arrangement back into an exhortation and destroys it.
+**It must be modeled, not advocated.** This is Watts's constraint in social form. Advocating a norm asks people to try; modeling one changes what is normal. The most common single error is posting *about* the norm instead of following it, which turns an arrangement back into an exhortation and destroys it.
 
 ## Twelve norms for digital civic life
 
@@ -1236,7 +1236,7 @@ What follows is a draft for argument, not a prescription. Each norm is designed 
 *Targets the discharge directly.* This is a norm about latency, not tone, and the interval is the faculty being trained. It is the only norm here that works on time rather than on content, and it is the one most likely to make the others unnecessary.
 
 **4. Attribute before you attack: name who actually decided the thing.**
-*Targets anonymous authority and the conspiracist impulse.* When something outrageous has happened, the useful question is *who decided this, and what were they optimising?* This is the constructive form of an impulse that conspiracism serves badly, and anyone with an afternoon can act on it.
+*Targets anonymous authority and the conspiracist impulse.* When something outrageous has happened, the useful question is *who decided this, and what were they optimizing?* This is the constructive form of an impulse that conspiracism serves badly, and anyone with an afternoon can act on it.
 
 **5. Distinguish "I have checked this" from "I have seen this said."**
 *Targets the verification loop.* Two different phrases, used consistently, would do more for public reasoning than any moderation policy. They cost nothing and are immediately legible.
@@ -1247,7 +1247,7 @@ What follows is a draft for argument, not a prescription. Each norm is designed 
 **7. Do not speak about a category of people unless you could name three of them.**
 *Targets group narcissism and the authoritarian pair.* If the out-group in your sentence cannot be replaced by three actual people you know, the sentence is doing the work of group narcissism, not description.
 
-**8. Praise specifically and in public; criticise specifically and, where possible, in private.**
+**8. Praise specifically and in public; criticize specifically and, where possible, in private.**
 *Targets the incompetence phase.* A medium that punishes visible attempts will not produce attempts. This norm makes norm 6 survivable, and it is the precondition for anyone building anything in public.
 
 **9. Once a month, bring one thing you made to a place where people can see it.**
@@ -1276,7 +1276,7 @@ The likeliest response to all of this is not disagreement but a shrug. The argum
 
 The shrug is right about the arrangement. The institutional failures are real, the marketing is real, the record of betrayed enthusiasm is long, and each betrayal taught something true.
 
-More than that, when a person cannot check a claim, generalised suspicion is the locally rational strategy. It is cheap, it cannot be embarrassed, and it is often correct.
+More than that, when a person cannot check a claim, generalized suspicion is the locally rational strategy. It is cheap, it cannot be embarrassed, and it is often correct.
 
 The best evidence on this is Stavrova and Ehlebracht's (2019) work on what they call the *cynical genius illusion*, and its mechanism matters more than its headline. They tested the common belief that cynics are more astute against data from roughly two hundred thousand people in thirty countries. The association ran the other way: cynical people scored *lower* on measures of cognitive competence, academic achievement, literacy, numeracy and problem-solving. The mechanism was calibration. Highly competent people endorsed cynicism where corruption and weak rule of law made it accurate and withheld it where they did not. Less competent people held cynical views regardless of their environment.
 
@@ -1286,7 +1286,7 @@ Read generously, that finding exonerates the shrugger. Cynicism works as a defau
 
 *It is a fixed setting, and a fixed setting cannot be discernment.* That is the actual content of the finding above. Discernment is, by definition, the thing that varies with what it is looking at. The cynic feels sharp for the same reason a stopped clock feels punctual twice a day.
 
-*It costs nothing, and therefore proves nothing.* It advances no positive claim, so nothing its holder does can contradict it, and there is no afternoon on which it can be caught out. Sincerity is ruinously expensive to hold because the claimant's own behaviour can falsify it. The shrugger is not braver than the sincere person. The shrugger is exposed to nothing.
+*It costs nothing, and therefore proves nothing.* It advances no positive claim, so nothing its holder does can contradict it, and there is no afternoon on which it can be caught out. Sincerity is ruinously expensive to hold because the claimant's own behavior can falsify it. The shrugger is not braver than the sincere person. The shrugger is exposed to nothing.
 
 *It is refusal made total.* It refuses the threats, the institutions, the coalitions, the remedies, and finally the possibility of construction itself. That is not an exit from refusal as a way of life. It is that way of life refusing the last thing left, which is the future. And since a purely refusing position is constituted by what it opposes, a position that has refused everything has nothing left to be constituted by.
 
@@ -1296,7 +1296,7 @@ Read generously, that finding exonerates the shrugger. Cynicism works as a defau
 
 It buys unreachability, and that is a real good. Nothing can reach you from behind that shelter, because you have already said the worst thing before anyone else had the chance. The cost is the same fact. A person who cannot be taken in also cannot be *met*. The habit of assessing every approach as a possible sale turns every person who approaches into an object, and that habit shapes the self that holds it.
 
-That allows the strongest thing that can be said without moralising. The shrug is not a failure of virtue. It is a strategy that solves one problem completely, and in solving it, closes off the only route out of the condition this book describes. Seeing an attitude you are inside requires a vantage point outside it. That vantage point has to be another person, and someone already classified as an interested party cannot occupy it.
+That allows the strongest thing that can be said without moralizing. The shrug is not a failure of virtue. It is a strategy that solves one problem completely, and in solving it, closes off the only route out of the condition this book describes. Seeing an attitude you are inside requires a vantage point outside it. That vantage point has to be another person, and someone already classified as an interested party cannot occupy it.
 
 ## The call, at the strength it can bear
 
@@ -1306,13 +1306,13 @@ What is asked here is not optimism or resolve. Above all, it is not that you car
 >
 > **Keep one recurring obligation with people who will notice if you stop coming.**
 >
-> **Practise the interval at the low-stakes end, where failing costs nothing.**
+> **Practice the interval at the low-stakes end, where failing costs nothing.**
 >
 > **And model, rather than advocate, a small number of norms in the places where you talk to strangers.**
 
-That is four things. None of them requires you to have a position on any civilisation-scale threat, and that is the point. The inventory was never yours, and being released from it is an accurate reallocation, not a moral failure.
+That is four things. None of them requires you to have a position on any civilization-scale threat, and that is the point. The inventory was never yours, and being released from it is an accurate reallocation, not a moral failure.
 
-Notice also where the leverage actually is. Chapter 1's inventory showed that of all the civilisation-scale threats a citizen is expected to have a view on, only two have nonzero individual leverage, and both are local. One is community-scale pandemic response. The other is civil conflict, the only threat on the list constituted by the aggregate ordinary conduct of ordinary people rather than by a government, a laboratory or a rock. So the conduct norms above are not a consolation prize awarded to a citizen who cannot reach the real threats. They are direct action on one of the two threats the citizen can actually reach. That is the load-bearing conclusion of this chapter, and the constructive half of the book stands or falls with it.
+Notice also where the leverage actually is. Chapter 1's inventory showed that of all the civilization-scale threats a citizen is expected to have a view on, only two have nonzero individual leverage, and both are local. One is community-scale pandemic response. The other is civil conflict, the only threat on the list constituted by the aggregate ordinary conduct of ordinary people rather than by a government, a laboratory or a rock. So the conduct norms above are not a consolation prize awarded to a citizen who cannot reach the real threats. They are direct action on one of the two threats the citizen can actually reach. That is the load-bearing conclusion of this chapter, and the constructive half of the book stands or falls with it.
 
 ### Why now
 
@@ -1344,21 +1344,21 @@ After nine chapters, the first three stages hold. The fourth needs to be redrawn
 
 The provisional fourth stage was Wallace's *This Is Water*. In that address, adult freedom is the discipline of choosing what to pay attention to and how to construe it, in place of the default setting of self-absorption (Wallace, 2009).‡ The address deserves its reputation. Its diagnosis of the default setting is the reactive discharge of Chapter 4, described from the inside, and its insistence that freedom means attention, discipline and effort rather than the absence of constraint is Fromm's freedom-*to* in a commencement speaker's voice.
 
-As a *practice*, though, it fails the test of Chapter 9. "Choose what you pay attention to" is an instruction addressed to a state. It asks a person to win, by resolve, an attention contest against an apparatus optimised to win it, and to do so on the days when their reserve is lowest. By Proposition 13 such a practice will lose, and its loss will be misread as a defect of character.
+As a *practice*, though, it fails the test of Chapter 9. "Choose what you pay attention to" is an instruction addressed to a state. It asks a person to win, by resolve, an attention contest against an apparatus optimized to win it, and to do so on the days when their reserve is lowest. By Proposition 13 such a practice will lose, and its loss will be misread as a defect of character.
 
 The address's own fate makes the point more sharply than any argument could. *This Is Water* became one of the most widely shared commencement speeches ever given. It has been excerpted, animated, quoted on posters and nodded along to by millions of readers. By the analysis of Chapter 7, that reception is not evidence that the practice spread. It is the signature of an ambient critique: universally assented to, flattering to the reader, requiring nothing after assent, and repeatable without end. The insight was right, and its form made it consumable.
 
 So the fourth stage is not a transformation of consciousness. It has two halves, and neither works alone.
 
-**The structural half** belongs to the institutions that hold compulsory process. Chapter 5 found that every successful conversion of an anonymous arrangement into a decision with an author was achieved by discovery, compelled audit, statutory researcher access, or a person taking a personal risk. Awareness never achieved it. Renewal at this level means making authority speak again, supplying the agent that conspiracism fabricates and the critique only names. It is Jaynes's voice restored in the only form a modern democracy can accept: an author, on the record, who can be asked what they were optimising.
+**The structural half** belongs to the institutions that hold compulsory process. Chapter 5 found that every successful conversion of an anonymous arrangement into a decision with an author was achieved by discovery, compelled audit, statutory researcher access, or a person taking a personal risk. Awareness never achieved it. Renewal at this level means making authority speak again, supplying the agent that conspiracism fabricates and the critique only names. It is Jaynes's voice restored in the only form a modern democracy can accept: an author, on the record, who can be asked what they were optimizing.
 
-**The personal half** belongs to anyone, and it lies in arrangements rather than in attention. It means bounding the set, keeping one obligation with people who will notice an absence, practising the interval where failing costs nothing, and modelling a few norms in the places where strangers talk. Attention is still the faculty at stake. But it is trained by arrangement, not commanded by resolve.
+**The personal half** belongs to anyone, and it lies in arrangements rather than in attention. It means bounding the set, keeping one obligation with people who will notice an absence, practicing the interval where failing costs nothing, and modeling a few norms in the places where strangers talk. Attention is still the faculty at stake. But it is trained by arrangement, not commanded by resolve.
 
 ## The norm as an authority with authors
 
 One question has been waiting since Chapter 2, and it is the right one to end on. A norm is *what is done here*. That is exactly the form of anonymous authority the book has spent nine chapters diagnosing. Is the remedy simply the disease in a friendlier form?
 
-It is not, and the difference is the book's last claim. Fromm's anonymous authority is anonymous because its authors are hidden. They are distributed across committees, models and optimisation processes, out of reach of the people it governs. A norm is anonymous for the opposite reason. Its authors are *everyone in the room*. Each person who follows it re-enacts it, each person who declines to follow it revises it, and its whole enforcement apparatus is the mild response of the people it binds. It is the one form of authority that is both impersonal and revisable by those subject to it. It cannot be subpoenaed, but it does not need to be, because it can be changed from the inside by anyone willing to behave differently in public and let the difference be seen.
+It is not, and the difference is the book's last claim. Fromm's anonymous authority is anonymous because its authors are hidden. They are distributed across committees, models and optimization processes, out of reach of the people it governs. A norm is anonymous for the opposite reason. Its authors are *everyone in the room*. Each person who follows it re-enacts it, each person who declines to follow it revises it, and its whole enforcement apparatus is the mild response of the people it binds. It is the one form of authority that is both impersonal and revisable by those subject to it. It cannot be subpoenaed, but it does not need to be, because it can be changed from the inside by anyone willing to behave differently in public and let the difference be seen.
 
 The camel bore what it was given. The lion refused it, and was right to. The child's first movement is not submission to a new command. It is taking part in making the arrangements one lives under. That is a capacity rather than a creed. It is built the way every capacity is built, by being bad at it in public for a while, among people who make that survivable.
 
@@ -1372,11 +1372,11 @@ The path to renewal, redrawn, does not run from fragmentation to unity. It runs 
 
 ## Abstract
 
-Citizens of wealthy democracies are now expected to hold a defensible position on an unbounded set of civilisation-scale threats, and they can act on almost none of them. This book argues that the resulting strain is routinely misnamed as cognitive dissonance. It is better understood as a disproportion between assigned responsibility and available efficacy, a structure that clinical ethics has measured for four decades as *moral distress*. The book traces how a civic vocabulary built almost entirely from prohibitions leaves refusal as the citizen's only well-developed competence, and it uses Nietzsche's parable of the camel, the lion and the child to describe a culture that can dismantle anything and construct nothing. When the operative authority is anonymous, in Fromm's sense of an authority with no agent and no command, refusal goes looking for a refusable object.
+Citizens of wealthy democracies are now expected to hold a defensible position on an unbounded set of civilization-scale threats, and they can act on almost none of them. This book argues that the resulting strain is routinely misnamed as cognitive dissonance. It is better understood as a disproportion between assigned responsibility and available efficacy, a structure that clinical ethics has measured for four decades as *moral distress*. The book traces how a civic vocabulary built almost entirely from prohibitions leaves refusal as the citizen's only well-developed competence, and it uses Nietzsche's parable of the camel, the lion and the child to describe a culture that can dismantle anything and construct nothing. When the operative authority is anonymous, in Fromm's sense of an authority with no agent and no command, refusal goes looking for a refusable object.
 
-Drawing on phenomenology (Merleau-Ponty, Heidegger) and on experimental work on confabulation, apparent mental causation and choice blindness, the book argues that first-person report cannot detect the shaping of attention by incorporated, breakdown-resistant instruments, because the sense of authorship is assembled after the fact from cues an arrangement can supply. It then analyses two counterfeit responses. One is conspiracism, which supplies a fabricated agent and, on the evidence, fails to satisfy the epistemic, existential and social motives that drive it. The other is the near-universally accepted critique of the attention economy. That critique is accurate and behaviourally inert, and the book proposes that assent itself discharges the pressure that would have produced action. The two differ enormously in truth and not at all in structure.
+Drawing on phenomenology (Merleau-Ponty, Heidegger) and on experimental work on confabulation, apparent mental causation and choice blindness, the book argues that first-person report cannot detect the shaping of attention by incorporated, breakdown-resistant instruments, because the sense of authorship is assembled after the fact from cues an arrangement can supply. It then analyzes two counterfeit responses. One is conspiracism, which supplies a fabricated agent and, on the evidence, fails to satisfy the epistemic, existential and social motives that drive it. The other is the near-universally accepted critique of the attention economy. That critique is accurate and behaviorally inert, and the book proposes that assent itself discharges the pressure that would have produced action. The two differ enormously in truth and not at all in structure.
 
-The constructive argument identifies a single capacity behind construction: tolerating an undischarged impulse, which is the same capacity as tolerating being bad at something. Because a resolution not to react is itself a reaction, remedies must operate on arrangements rather than on states. At civic scale that means norms, which are cheap, legible, enforced by mildness and built by modelling rather than advocacy. The book proposes twelve norms for online discourse, a medium it treats as a norm vacuum in its first decades. It locates the citizen's real leverage in civil conflict, the one civilisation-scale threat made up of ordinary conduct. And it redraws a four-stage arc from Jaynes to Wallace so that it ends not in a transformation of consciousness but in a movement from refusal to authorship. Nineteen numbered propositions carry the argument, each stated with the observation that would refute it.
+The constructive argument identifies a single capacity behind construction: tolerating an undischarged impulse, which is the same capacity as tolerating being bad at something. Because a resolution not to react is itself a reaction, remedies must operate on arrangements rather than on states. At civic scale that means norms, which are cheap, legible, enforced by mildness and built by modeling rather than advocacy. The book proposes twelve norms for online discourse, a medium it treats as a norm vacuum in its first decades. It locates the citizen's real leverage in civil conflict, the one civilization-scale threat made up of ordinary conduct. And it redraws a four-stage arc from Jaynes to Wallace so that it ends not in a transformation of consciousness but in a movement from refusal to authorship. Nineteen numbered propositions carry the argument, each stated with the observation that would refute it.
 
 ## Keywords by field
 
@@ -1388,7 +1388,7 @@ The constructive argument identifies a single capacity behind construction: tole
 
 **Sociology and political science:** availability cascades; conspiracy belief; institutional trust; norm entrepreneurship; disclosure regimes.
 
-**Anthropology and cultural studies:** norm formation in new media; irony as armour; group narcissism; the authority of the voice.
+**Anthropology and cultural studies:** norm formation in new media; irony as armor; group narcissism; the authority of the voice.
 
 # Glossary {.unnumbered}
 
@@ -1401,7 +1401,7 @@ Agent-shaped hole
 :   [This book] The experience of a good-faith inquiry into "who decided this?" that ends in an absence rather than a lie, because the decision was distributed across committees, models and processes with no named author. ≈ *diffusion of responsibility* (social psychology); *the problem of many hands* (ethics of technology). (6)
 
 Alienation
-:   [Philosophy, Marx; psychology, Fromm] The condition in which a person's own product or capacity confronts them as an external power. In this book, the capacity is attention and critical judgment. ≈ *externalisation* (sociology); *depersonalisation* (clinical psychology, in a narrower sense). (5, 7)
+:   [Philosophy, Marx; psychology, Fromm] The condition in which a person's own product or capacity confronts them as an external power. In this book, the capacity is attention and critical judgment. ≈ *externalization* (sociology); *depersonalization* (clinical psychology, in a narrower sense). (5, 7)
 
 Amour propre
 :   [Philosophy, Rousseau] Self-regard whose object is a position relative to others, not a good, and which therefore cannot be satisfied in principle. ≈ *social comparison* (social psychology); *positional goods* (economics). (8)
@@ -1416,7 +1416,7 @@ Apparent mental causation
 :   [Psychology, Wegner] The theory that people attribute an action to their own will when a thought about it came first, was consistent with it, and had no rival cause. The experience of will is constructed rather than read off. ≈ *sense of agency* (cognitive neuroscience). (5)
 
 Arrangement
-:   [This book] A feature of a person's situation, such as where a device is kept, a recurring obligation, or a norm, as opposed to a state of mind. Remedies that work act on arrangements (Proposition 12). ≈ *choice architecture* (behavioural economics); *environmental design* (behaviour analysis). (9)
+:   [This book] A feature of a person's situation, such as where a device is kept, a recurring obligation, or a norm, as opposed to a state of mind. Remedies that work act on arrangements (Proposition 12). ≈ *choice architecture* (behavioral economics); *environmental design* (behavior analysis). (9)
 
 Authoritarian character
 :   [Psychology, Fromm] A character structure combining a longing to submit to something larger with a longing to dominate something smaller, both serving to dissolve the isolated self. ≈ *right-wing authoritarianism* (political psychology, as measured). (4)
@@ -1437,7 +1437,7 @@ Choice blindness
 :   [Psychology, Johansson and Hall] The failure to notice that one has been given an option one did not choose, followed by fluent justification of the substituted choice. (5)
 
 Confabulation
-:   [Psychology, Nisbett and Wilson] Fluent, confident explanation of one's own behaviour that does not reflect its actual causes. ≈ *rationalisation* (psychoanalysis); *post hoc narrative* (cognitive science). (5)
+:   [Psychology, Nisbett and Wilson] Fluent, confident explanation of one's own behavior that does not reflect its actual causes. ≈ *rationalization* (psychoanalysis); *post hoc narrative* (cognitive science). (5)
 
 Counterfeit
 :   [This book] An object that meets the presenting criterion of a need without meeting the need itself, so that consumption rises rather than falls with use (Proposition 6). ≈ *supernormal stimulus* (ethology); *superficial satisfaction* (Fromm). (6, 7)
@@ -1446,13 +1446,13 @@ Disappointment
 :   [This book] An object that fails the presenting criterion, so that the failure is legible and corrects itself. The opposite of a counterfeit. (6)
 
 Double bind
-:   [Communication theory, Bateson] A demand whose fulfilment is ruled out by the form of the demand, as in "do not react." (9)
+:   [Communication theory, Bateson] A demand whose fulfillment is ruled out by the form of the demand, as in "do not react." (9)
 
 Efficacy, internal and external
 :   [Political science] Internal efficacy is the belief that one can understand and take part in politics. External efficacy is the belief that the system responds. The combination of high internal and low external efficacy is the profile of the informed, exhausted citizen. ≈ *self-efficacy* (Bandura, for the internal component); *alienation* (political sociology). (1)
 
 Freedom from and freedom to
-:   [Psychology, Fromm; philosophy, Berlin] Negative freedom is the removal of constraint. Positive freedom is the capacity to act from one's own centre. ≈ *negative and positive liberty* (political philosophy); *autonomy* (self-determination theory, for the positive pole). (2)
+:   [Psychology, Fromm; philosophy, Berlin] Negative freedom is the removal of constraint. Positive freedom is the capacity to act from one's own center. ≈ *negative and positive liberty* (political philosophy); *autonomy* (self-determination theory, for the positive pole). (2)
 
 Group narcissism
 :   [Psychology, Fromm] Worth drawn from the greatness of a group one belongs to and did not choose. It requires nothing of the member and is cheapest to supply by denigrating an out-group. ≈ *collective narcissism* (social psychology); *in-group bias*. (4)
@@ -1497,7 +1497,7 @@ Norm
 :   [Sociology; political science] A standard of conduct enforced by ambient expectation and mild social cost rather than by an authority. It is anonymous in origin but revisable by everyone it binds. ≈ *descriptive and injunctive norms* (social psychology); *custom*; *etiquette*. (9, Conclusion)
 
 Norm entrepreneur
-:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalised. (9)
+:   [International relations, Finnemore and Sikkink] A person or group who models a new standard of conduct until enough others adopt it for it to cascade and become internalized. (9)
 
 Overt authority
 :   [Psychology, Fromm] Authority exercised by an identifiable agent issuing an identifiable command, and therefore open to disobedience. (2, 6)
@@ -1506,7 +1506,7 @@ Prolongation
 :   [This book] The likeliest outcome of a culture stuck at the lion's stage: an arrangement that does not resolve, break or improve, sustained because refusal blocks every construction, including bad ones. (3, 9)
 
 Pseudo-thinking
-:   [Psychology, Fromm] Thought adopted wholesale from the surrounding culture and experienced as one's own. Part of *automaton conformity*. ≈ *internalisation* (social influence research); *preference falsification* (Kuran, in a related sense). (5, 7)
+:   [Psychology, Fromm] Thought adopted wholesale from the surrounding culture and experienced as one's own. Part of *automaton conformity*. ≈ *internalization* (social influence research); *preference falsification* (Kuran, in a related sense). (5, 7)
 
 Reactive discharge
 :   [This book, after Nietzsche] The collapse of the interval, in which a stimulus is converted directly into a response. The mechanism the book's other pathologies depend on. ≈ *impulsivity* (clinical psychology); *stimulus-driven attention* (cognitive psychology). (4)
@@ -1667,7 +1667,7 @@ This book is the first trade edition of an argument that has existed in two earl
 1. *The* décadence *quotation.* The modular edition treated "the incapacity not to react to a stimulus" as its most important unverified quotation. It is now located and verified in the 1911 Ludovici translation of *Twilight of the Idols*, in "Morality as the Enemy of Nature," §2, and the related "learning to see" passage in "Things the Germans Lack," §6. Chapter 4 quotes both verbatim.
 2. *Tocqueville.* The modular edition put inside quotation marks a sentence ("does not break wills; it softens them, bends them, and directs them") that matches no published translation checked. Reeve's translation reads "The will of man is not shattered, but softened, bent, and guided." The book now paraphrases the passage and cites the chapter.
 3. *Nietzsche's three metamorphoses.* The modular edition's paraphrase of the child ("a self-propelled wheel … a sacred Yes") follows Kaufmann's wording while citing Del Caro. The book now quotes Common's public-domain translation verbatim and notes Kaufmann's familiar phrasing.
-4. *Near-Earth objects.* The modular edition's figures (over 18,000 catalogued, about 40 found per week) were out of date. A query of the JPL Small-Body Database on 3 October 2026 returned 42,758 near-Earth objects.
+4. *Near-Earth objects.* The modular edition's figures (over 18,000 cataloged, about 40 found per week) were out of date. A query of the JPL Small-Body Database on October 3, 2026 returned 42,758 near-Earth objects.
 5. *Muddy water.* The image of muddy water clearing when left still, attributed in the modular edition to Watts, is attributed here to its older source, chapter 15 of the *Tao Te Ching*.
 6. *Errors in* The Path to Renewal. That essay calls Wallace's sensibility "New Senserity." The movement associated with Wallace is usually called the *New Sincerity*. It also attributes a "single-entendre" principle to Samuel Johnson, a claim this edition could not support. Neither claim appears in the book.
 
@@ -1691,10 +1691,10 @@ The propositions keep the numbers they had in the modular edition so that each c
 | 12 | Remedies must operate on arrangements rather than on states. | S | 9 |
 | 13 | A practice is useful in proportion to how little attention it requires. | S | 9 |
 | 14 | An incorporated instrument is not available to first-person inspection as an instrument. | S | 5 |
-| 15 | An instrument optimised against breakdown is optimised against disclosure. | S | 5 |
+| 15 | An instrument optimized against breakdown is optimized against disclosure. | S | 5 |
 | 16 | The sense of authorship is reconstructed from cues, so a felt absence of compulsion is not evidence. | E | 5 |
 | 17 | Naming an anonymous authority without attributing it produces a new anonymous authority. | S | 5 |
-| 18 | A universally assented, behaviourally inert critique is a stable equilibrium. | H | 7 |
+| 18 | A universally assented, behaviorally inert critique is a stable equilibrium. | H | 7 |
 | 19 | An agentless noun given a motive is a substitute for attribution, not an attribution. | S | 6 |
 
 # Appendix C: How Sure Is the Book? Evidence Grades {.unnumbered #app-c}
@@ -1704,14 +1704,14 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Claim | Grade | Note | Ch. |
 |:------------------------------------|:-----------------|:---------------------------------------|:--:|
 | Dissonance effects in induced compliance | Established | Theory's scope and mechanism since reinterpreted | 1 |
-| Finite pool of worry | Contested | Recent tests favour attention, not worry | 1 |
+| Finite pool of worry | Contested | Recent tests favor attention, not worry | 1 |
 | Identified-victim asymmetry | Supported | Strong "numbing" version used only in weak form | 1 |
-| NEO catalogue and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
+| NEO catalog and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
 | Dispersion of expert estimates on unprecedented risks | Supported | Fact about the estimates; source to be added (see Appendix E) | 1 |
 | Moral distress as a construct | Supported | Boundaries debated; instruments have limits | 1 |
 | Moral residue and crescendo effect | Preliminary | Accumulation dynamics less tested | 1 |
-| Internal/external efficacy distinction | Established | Behavioural predictions more contested | 1 |
-| Learned control (revised helplessness) | Supported | Mapping to civic behaviour is an extrapolation | 1 |
+| Internal/external efficacy distinction | Established | Behavioral predictions more contested | 1 |
+| Learned control (revised helplessness) | Supported | Mapping to civic behavior is an extrapolation | 1 |
 | Consumption reduction leaves the sense of obligation intact | Preliminary | Literature weak, self-report heavy; nothing built on it | 1, 4 |
 | Negative-goal coalitions dissolve on success | Speculative | Untested; needs a coded dataset | 2 |
 | Declining confidence in institutions | Supported | Long-running survey series; source to be added | 3 |
@@ -1769,7 +1769,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Propositions 14–17.** *Understanding test (most important):* if mechanistic knowledge of recommendation systems predicts reduced use, controlling for confounds, the education remedy is better than the book allows. *Introspection test:* reliable introspective report of the moment of reach refutes Proposition 14. *Reliability test:* if more reliable systems carry greater public attributional knowledge, Proposition 15 is backwards. *Authorship test:* if authorship reports discriminate reliably between shaped and unshaped choices, Proposition 16 fails. *Vocabulary test:* if adopting critical vocabulary alone increases attributional knowledge, Proposition 17 fails.
 
-**Proposition 18.** *Conduct test at scale:* if people who assent to the critique behave differently from matched people who have never met it, the chapter is refuted. *Longitudinal test:* assent acting as a leading indicator of behavioural change would make it a stage rather than an equilibrium. *Specification test:* if most assenters can state the mechanism accurately, the conformity reading fails.
+**Proposition 18.** *Conduct test at scale:* if people who assent to the critique behave differently from matched people who have never met it, the chapter is refuted. *Longitudinal test:* assent acting as a leading indicator of behavioral change would make it a stage rather than an equilibrium. *Specification test:* if most assenters can state the mechanism accurately, the conformity reading fails.
 
 **Proposition 19.** *Unpacking survey:* ask people who use "the algorithm" to unpack it into a decision. The proposition predicts near-universal failure, including among professional critics.
 
@@ -1779,7 +1779,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 In the master text of this book, a dagger (†) marks a quotation or figure that has not been verified word for word against a printed or authoritative source, and a double dagger (‡) marks a paraphrase of a specific passage. The printed body omits both marks. This note lists every daggered item.
 
-**Verified quotations.** These were checked word for word against public-domain translations transcribed by Project Gutenberg. They are Nietzsche's lion and child passages and the Last Man passages (Common's *Zarathustra*), the madman and shadow passages (Common's *Joyful Wisdom*, §§108, 125), and the two passages from *Twilight of the Idols* (Ludovici). Gutenberg's catalogue record credits *The Joyful Wisdom* to Paul V. Cohn. The title page of the transcribed edition gives Thomas Common as translator, with Cohn and Maude Petre rendering the poetry. The Works Cited follows the title page. The constitutional phrases in Chapter 2 are from the Bill of Rights. The modular edition's edition-of-record decision (Cambridge Texts for Nietzsche) still governs paraphrase. Public-domain translations are used for verbatim quotation because they could be verified and they raise no permissions question for a self-published book.
+**Verified quotations.** These were checked word for word against public-domain translations transcribed by Project Gutenberg. They are Nietzsche's lion and child passages and the Last Man passages (Common's *Zarathustra*), the madman and shadow passages (Common's *Joyful Wisdom*, §§108, 125), and the two passages from *Twilight of the Idols* (Ludovici). Gutenberg's catalog record credits *The Joyful Wisdom* to Paul V. Cohn. The title page of the transcribed edition gives Thomas Common as translator, with Cohn and Maude Petre rendering the poetry. The Works Cited follows the title page. The constitutional phrases in Chapter 2 are from the Bill of Rights. The modular edition's edition-of-record decision (Cambridge Texts for Nietzsche) still governs paraphrase. Public-domain translations are used for verbatim quotation because they could be verified and they raise no permissions question for a self-published book.
 
 ## Unverified items (†)
 

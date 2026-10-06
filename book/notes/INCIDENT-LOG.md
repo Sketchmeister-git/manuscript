@@ -13,3 +13,5 @@ Tally (this pass): 9 incidents; 7 resolved in-session, 2 open.
 | 7 | 2026-10-03 | Build | Chapters were unnumbered and "Conclusion" appeared twice in the contents. | Added `--number-sections` with `secnumdepth=0`, and removed the `\part*{Conclusion}`. |
 | 8 | 2026-10-03 | Build | The index came out empty: the fence tracker in `build_kdp.py` started outside a raw-LaTeX fence that was actually open. | Fence state is now carried from the text before `\realmainmatter`. 299 markers, 207-line index. |
 | 9 | 2026-10-03 | Verify | The Firecrawl connector reports a low credit balance. | **Open:** top up before the next web-verification pass. |
+| 10 | 2026-10-06 | Request | The `/portfolio-build-kickoff` skill (for building web apps) was invoked with the author's answers to the six decisions. It does not apply to a book. | Treated the arguments as the answers to the pass report's decisions 1–6 and applied them. |
+| 11 | 2026-10-06 | Spelling | The first conversion pass missed *behaviourally* and *behaviourist* (suffix forms outside the word list). | Caught by a leftover-forms scan; fixed by hand. Re-run the scan after any new text is added. |

@@ -21,7 +21,7 @@ This book is the first trade edition of an argument that has existed in two earl
 1. *The* décadence *quotation.* The modular edition treated "the incapacity not to react to a stimulus" as its most important unverified quotation. It is now located and verified in the 1911 Ludovici translation of *Twilight of the Idols*, in "Morality as the Enemy of Nature," §2, and the related "learning to see" passage in "Things the Germans Lack," §6. Chapter 4 quotes both verbatim.
 2. *Tocqueville.* The modular edition put inside quotation marks a sentence ("does not break wills; it softens them, bends them, and directs them") that matches no published translation checked. Reeve's translation reads "The will of man is not shattered, but softened, bent, and guided." The book now paraphrases the passage and cites the chapter.
 3. *Nietzsche's three metamorphoses.* The modular edition's paraphrase of the child ("a self-propelled wheel … a sacred Yes") follows Kaufmann's wording while citing Del Caro. The book now quotes Common's public-domain translation verbatim and notes Kaufmann's familiar phrasing.
-4. *Near-Earth objects.* The modular edition's figures (over 18,000 catalogued, about 40 found per week) were out of date. A query of the JPL Small-Body Database on 3 October 2026 returned 42,758 near-Earth objects.
+4. *Near-Earth objects.* The modular edition's figures (over 18,000 cataloged, about 40 found per week) were out of date. A query of the JPL Small-Body Database on October 3, 2026 returned 42,758 near-Earth objects.
 5. *Muddy water.* The image of muddy water clearing when left still, attributed in the modular edition to Watts, is attributed here to its older source, chapter 15 of the *Tao Te Ching*.
 6. *Errors in* The Path to Renewal. That essay calls Wallace's sensibility "New Senserity." The movement associated with Wallace is usually called the *New Sincerity*. It also attributes a "single-entendre" principle to Samuel Johnson, a claim this edition could not support. Neither claim appears in the book.
 
@@ -45,10 +45,10 @@ The propositions keep the numbers they had in the modular edition so that each c
 | 12 | Remedies must operate on arrangements rather than on states. | S | 9 |
 | 13 | A practice is useful in proportion to how little attention it requires. | S | 9 |
 | 14 | An incorporated instrument is not available to first-person inspection as an instrument. | S | 5 |
-| 15 | An instrument optimised against breakdown is optimised against disclosure. | S | 5 |
+| 15 | An instrument optimized against breakdown is optimized against disclosure. | S | 5 |
 | 16 | The sense of authorship is reconstructed from cues, so a felt absence of compulsion is not evidence. | E | 5 |
 | 17 | Naming an anonymous authority without attributing it produces a new anonymous authority. | S | 5 |
-| 18 | A universally assented, behaviourally inert critique is a stable equilibrium. | H | 7 |
+| 18 | A universally assented, behaviorally inert critique is a stable equilibrium. | H | 7 |
 | 19 | An agentless noun given a motive is a substitute for attribution, not an attribution. | S | 6 |
 
 # Appendix C: How Sure Is the Book? Evidence Grades {.unnumbered #app-c}
@@ -58,14 +58,14 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Claim | Grade | Note | Ch. |
 |:------------------------------------|:-----------------|:---------------------------------------|:--:|
 | Dissonance effects in induced compliance | Established | Theory's scope and mechanism since reinterpreted | 1 |
-| Finite pool of worry | Contested | Recent tests favour attention, not worry | 1 |
+| Finite pool of worry | Contested | Recent tests favor attention, not worry | 1 |
 | Identified-victim asymmetry | Supported | Strong "numbing" version used only in weak form | 1 |
-| NEO catalogue and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
+| NEO catalog and Sentry status | Supported | Agency figures; completeness depends on a model | 1 |
 | Dispersion of expert estimates on unprecedented risks | Supported | Fact about the estimates; source to be added (see Appendix E) | 1 |
 | Moral distress as a construct | Supported | Boundaries debated; instruments have limits | 1 |
 | Moral residue and crescendo effect | Preliminary | Accumulation dynamics less tested | 1 |
-| Internal/external efficacy distinction | Established | Behavioural predictions more contested | 1 |
-| Learned control (revised helplessness) | Supported | Mapping to civic behaviour is an extrapolation | 1 |
+| Internal/external efficacy distinction | Established | Behavioral predictions more contested | 1 |
+| Learned control (revised helplessness) | Supported | Mapping to civic behavior is an extrapolation | 1 |
 | Consumption reduction leaves the sense of obligation intact | Preliminary | Literature weak, self-report heavy; nothing built on it | 1, 4 |
 | Negative-goal coalitions dissolve on success | Speculative | Untested; needs a coded dataset | 2 |
 | Declining confidence in institutions | Supported | Long-running survey series; source to be added | 3 |
@@ -123,7 +123,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Propositions 14–17.** *Understanding test (most important):* if mechanistic knowledge of recommendation systems predicts reduced use, controlling for confounds, the education remedy is better than the book allows. *Introspection test:* reliable introspective report of the moment of reach refutes Proposition 14. *Reliability test:* if more reliable systems carry greater public attributional knowledge, Proposition 15 is backwards. *Authorship test:* if authorship reports discriminate reliably between shaped and unshaped choices, Proposition 16 fails. *Vocabulary test:* if adopting critical vocabulary alone increases attributional knowledge, Proposition 17 fails.
 
-**Proposition 18.** *Conduct test at scale:* if people who assent to the critique behave differently from matched people who have never met it, the chapter is refuted. *Longitudinal test:* assent acting as a leading indicator of behavioural change would make it a stage rather than an equilibrium. *Specification test:* if most assenters can state the mechanism accurately, the conformity reading fails.
+**Proposition 18.** *Conduct test at scale:* if people who assent to the critique behave differently from matched people who have never met it, the chapter is refuted. *Longitudinal test:* assent acting as a leading indicator of behavioral change would make it a stage rather than an equilibrium. *Specification test:* if most assenters can state the mechanism accurately, the conformity reading fails.
 
 **Proposition 19.** *Unpacking survey:* ask people who use "the algorithm" to unpack it into a decision. The proposition predicts near-universal failure, including among professional critics.
 
@@ -133,7 +133,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 In the master text of this book, a dagger (†) marks a quotation or figure that has not been verified word for word against a printed or authoritative source, and a double dagger (‡) marks a paraphrase of a specific passage. The printed body omits both marks. This note lists every daggered item.
 
-**Verified quotations.** These were checked word for word against public-domain translations transcribed by Project Gutenberg. They are Nietzsche's lion and child passages and the Last Man passages (Common's *Zarathustra*), the madman and shadow passages (Common's *Joyful Wisdom*, §§108, 125), and the two passages from *Twilight of the Idols* (Ludovici). Gutenberg's catalogue record credits *The Joyful Wisdom* to Paul V. Cohn. The title page of the transcribed edition gives Thomas Common as translator, with Cohn and Maude Petre rendering the poetry. The Works Cited follows the title page. The constitutional phrases in Chapter 2 are from the Bill of Rights. The modular edition's edition-of-record decision (Cambridge Texts for Nietzsche) still governs paraphrase. Public-domain translations are used for verbatim quotation because they could be verified and they raise no permissions question for a self-published book.
+**Verified quotations.** These were checked word for word against public-domain translations transcribed by Project Gutenberg. They are Nietzsche's lion and child passages and the Last Man passages (Common's *Zarathustra*), the madman and shadow passages (Common's *Joyful Wisdom*, §§108, 125), and the two passages from *Twilight of the Idols* (Ludovici). Gutenberg's catalog record credits *The Joyful Wisdom* to Paul V. Cohn. The title page of the transcribed edition gives Thomas Common as translator, with Cohn and Maude Petre rendering the poetry. The Works Cited follows the title page. The constitutional phrases in Chapter 2 are from the Bill of Rights. The modular edition's edition-of-record decision (Cambridge Texts for Nietzsche) still governs paraphrase. Public-domain translations are used for verbatim quotation because they could be verified and they raise no permissions question for a self-published book.
 
 ## Unverified items (†)
 
