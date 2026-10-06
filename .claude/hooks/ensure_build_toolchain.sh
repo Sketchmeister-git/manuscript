@@ -21,12 +21,14 @@ fi
 # Debian/Ubuntu packages the build needs (see book/build/header.tex for the LaTeX
 # packages and fonts it loads).
 APT_PACKAGES=(
-  texlive-xetex          # xelatex, fontspec, polyglossia
+  texlive-xetex              # xelatex, fontspec, polyglossia
   texlive-latex-recommended
-  texlive-latex-extra    # imakeidx, titlesec, emptypage, newunicodechar, ...
-  texlive-lang-english   # hyphenation patterns for the American-English setting
-  fonts-texgyre          # TeX Gyre Pagella (main font)
-  fonts-dejavu-core      # DejaVu Serif (fallback for glyphs Pagella lacks)
+  texlive-latex-extra        # imakeidx, titlesec, emptypage, newunicodechar, ...
+  texlive-lang-english       # hyphenation patterns for the American-English setting
+  texlive-fonts-recommended  # pzdr.tfm (ZapfDingbats metrics); without it XeLaTeX stops
+  lmodern                    # pandoc's LaTeX template loads lmodern.sty
+  fonts-texgyre              # TeX Gyre Pagella (main font)
+  fonts-dejavu-core          # DejaVu Serif (fallback for glyphs Pagella lacks)
 )
 
 privileged() {
