@@ -524,7 +524,7 @@ This genre usually goes wrong at this point by predicting. The better course is 
 
 **The guarantee has gone.** This is not an atheist claim, since a majority still report belief. It is a claim about the background of public argument. The assumption that values are underwritten by something outside human decision is no longer the default, even among believers, who now argue for their values in the same currency as everyone else.
 
-**The shadows have been found out.** Nation, party, progress, market and expert authority have each undergone serial and largely justified disillusionment within living memory. Gallup's nine institutions, tracked consistently since 1979, averaged 28 percent in its July 2025 survey confidence ("a great deal" or "quite a lot"). That is near the lowest reading in forty-six years of measurement, and the average has stayed under 30 percent for four years running (Brenan, 2025). The same report adds a qualification. The average is stable only in aggregate. Republicans' and Democrats' confidence swings with which party holds the presidency, and the 11-point gap between them is the largest in the series. Confidence is low overall, and for partisans it follows control of the White House.
+**The shadows have been found out.** Nation, party, progress, market and expert authority have each undergone serial and largely justified disillusionment within living memory. Gallup's nine institutions, tracked consistently since 1979, averaged 28 percent in its July 2025 survey confidence ("a great deal" or "quite a lot"). That is near the lowest reading in forty-six years of measurement, and the average has stayed under 30 percent for four years running (Brenan, 2025). The same report adds a qualification. The average is stable only in aggregate. Republicans' and Democrats' confidence swings with which party holds the presidency, and the 11-point gap between them is the largest in the series. Confidence is low overall, and for partisans it follows control of the White House. Independents are the informative exception. Their average, 25 percent, has stayed statistically level for three years whoever holds the White House, a standing refusal of the kind the lion diagnosis predicts. The partisans' swings fit it less well. They look more like loyalty to the party in power, the group narcissism of Chapter 4, which is a different mechanism that this diagnosis does not explain.
 
 **Passive nihilism is widespread.** This is the claim most often asserted and least often shown. Some evidence points toward it: declining participation, declining trust, and a rising expectation that public claims are made in bad faith. But it sits alongside strong evidence of intense, sustained and costly engagement by very large numbers of people. An account that reports only the disengagement is selecting its data, and much writing in this area does exactly that.
 
@@ -845,6 +845,8 @@ Look at what a conspiracy theory actually provides, against what the citizen act
 
 Every entry on the right answers the corresponding lack on the left. A random error does not look like that. A solution does.
 
+The idea has near relatives, and they should be named. Popper (1945/1966) argued that the conspiracy theory of society is what remains when belief in divine agency is secularized: the gods are abandoned and sinister groups take their place.‡ Experiments show that people who lack control are more likely to perceive patterns that are not there, including conspiracies (Whitson & Galinsky, 2008). The proposal here shares their premise that a loss of control invites an invented agent or pattern. It differs by tying the invention to one kind of authority, the anonymous kind, and by saying where theories should and should not cluster, which exposes it to the tests at the end of the chapter.
+
 ## Three things the account explains
 
 ### Form-constancy is diagnostic
@@ -993,7 +995,7 @@ Take any one of the four propositions: modern life is distracting; consumer cult
 
 Nor is any of this concealed. Engagement metrics, retention curves, session-length optimization and the trade-offs among them are discussed openly by practitioners as a matter of craft. The disclosure everyone is waiting for has already happened, and that is what makes the datum strange.
 
-Near-universal assent was achieved within about fifteen years, on a set of propositions about the shape of ordinary life. On its face that is an extraordinary success for a critical literature. Then look for the change. Aggregate consumption has not fallen. Institutional trust has not recovered. The mechanisms described have not been altered by being described. Whatever has changed in fifteen years, it has not changed in the direction the critique argues for.
+Near-universal assent was achieved within about fifteen years, on a set of propositions about the shape of ordinary life. On its face that is an extraordinary success for a critical literature. Then look for the change. Aggregate consumption has not fallen. Institutional trust has not recovered. The mechanisms described have not been altered by being described. Whatever has changed in fifteen years, it has not changed in the direction the critique argues for. The best-measured case is the one the critique is most anxious about. Pew's 2024 survey of American teenagers, which its authors frame as arriving amid national concern about technology's effect on young people, found that nearly half say they are online almost constantly, up from 24 percent a decade earlier (Faverio & Sidoti, 2024). The concern was public and loud, and the behavior it targeted rose.
 
 A body of claims can be true, universally believed and inert. That is the phenomenon, and it is more interesting than either half alone.
 
@@ -1574,6 +1576,8 @@ Douglas, K. M., Sutton, R. M., & Cichocka, A. (2017). The psychology of conspira
 
 Epstein, E. G., & Hamric, A. B. (2009). Moral distress, moral residue, and the crescendo effect. *The Journal of Clinical Ethics, 20*(4), 330–342. <https://doi.org/10.1086/jce200920406>
 
+Faverio, M., & Sidoti, O. (2024, December 12). *Teens, social media and technology 2024*. Pew Research Center. <https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/>
+
 Festinger, L. (1957). *A theory of cognitive dissonance*. Stanford University Press.
 
 Finnemore, M., & Sikkink, K. (1998). International norm dynamics and political change. *International Organization, 52*(4), 887–917. <https://doi.org/10.1162/002081898550789>
@@ -1650,6 +1654,8 @@ Nietzsche, F. (2006). *Thus spoke Zarathustra: A book for all and none* (A. Del 
 
 Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review, 84*(3), 231–259. <https://doi.org/10.1037/0033-295X.84.3.231>
 
+Popper, K. R. (1966). *The open society and its enemies: Vol. 2. The high tide of prophecy: Hegel, Marx, and the aftermath* (5th ed., rev.). Routledge & Kegan Paul. (Original work published 1945)
+
 Rousseau, J.-J. (1992). *Discourse on the origin of inequality* (D. A. Cress, Trans.). Hackett. (Original work published 1755)
 
 Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences, 109*(42), E2904–E2913. <https://doi.org/10.1073/pnas.1210467109>
@@ -1679,6 +1685,8 @@ Weber, E. U. (2006). Experience-based and description-based perceptions of long-
 Wegner, D. M. (2002). *The illusion of conscious will*. MIT Press.
 
 Wesner, E., Pavuluri, A., Norwood, E., Schmidt, B., & Bernat, E. (2023). Evaluating competing models of distress tolerance via structural equation modeling. *Journal of Psychiatric Research, 162*, 95–102. <https://doi.org/10.1016/j.jpsychires.2023.03.040>
+
+Whitson, J. A., & Galinsky, A. D. (2008). Lacking control increases illusory pattern perception. *Science, 322*(5898), 115–117. <https://doi.org/10.1126/science.1159845>
 
 Wilson, T. D., Reinhard, D. A., Westgate, E. C., Gilbert, D. T., Ellerbeck, N., Hahn, C., Brown, C. L., & Shaked, A. (2014). Just think: The challenges of the disengaged mind. *Science, 345*(6192), 75–77. <https://doi.org/10.1126/science.1250830>
 
@@ -1764,8 +1772,10 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Confabulation (Nisbett & Wilson) | Established | General claim; some demonstrations small | 5 |
 | Apparent mental causation | Supported | Strong "illusion" framing contested | 5 |
 | Choice blindness | Supported | Replicated across domains and labs | 5 |
+| Teen use of social media rose while public concern was high | Supported | Faverio and Sidoti (2024): probability panel of 1,391 US teens, self-reported; 'almost constantly online' 24% a decade earlier vs nearly half in 2024. Says nothing about adults, or about the level of assent among teens | 7 |
 | Intentional binding as agency measure | Contested | Corroborative only | 5 |
 | Libet readiness potential as prior decision | Contested | Popular reading superseded; nothing rests on it | 5 |
+| Lacking control increases illusory pattern perception, including perceiving conspiracies | Supported | Whitson and Galinsky (2008): six experiments; supports the motive, not the book's specific claim about anonymous authority | 6 |
 | Conspiracy motives not satisfied by belief | Supported | Direction well supported; effect sizes uncertain | 6 |
 | Form-constancy across contents | Supported by observation | Copying not excluded; selection argument untested | 6 |
 | Cynical genius illusion and calibration | Supported | Large multinational data | 9 |
@@ -1787,7 +1797,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Two chapters come close to refuting the enterprise.** Chapter 5 concludes that attribution comes from compulsory process, never from awareness. Chapter 7 concludes that critique is a counterfeit whose consumption discharges the pressure it creates. Chapter 7 states the narrow use that survives.
 
-**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. Proposition 10 claims a shared ingredient and a common family of capacities; the research on distress tolerance supports the family and leaves open whether practice transfers between its members. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
+**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. Proposition 10 claims a shared ingredient and a common family of capacities; the research on distress tolerance supports the family and leaves open whether practice transfers between its members. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct. The datum of Chapter 7, that near-universal assent has changed almost nothing, rests on one measured case (teen self-reports in Faverio and Sidoti, 2024) and on assent among adults that is observed informally and not measured here.
 
 ## Tests, by proposition
 
@@ -1839,6 +1849,7 @@ In the master text of this book, a dagger (†) marks a quotation or figure that
 These passages are paraphrased in the text and cited to the edition of record. Quoting them verbatim requires the printed editions.
 
 - *Zarathustra*, Del Caro translation: the camel and the lion's holy No (Chapter 2); the rope over the abyss, Prologue §4 (Chapter 3).
+- Popper, *The Open Society and Its Enemies*, Vol. 2 (Chapter 6). The paraphrase of his conspiracy-theory-of-society passage needs a page locator and, ideally, verbatim wording. *Needed:* the printed page.
 - *The Gay Science*, Nauckhoff translation, §357 (Chapter 3).
 - Tocqueville, *Democracy in America*, Vol. 2, Book 4, Ch. 6 (Introduction, Chapter 2). This is a deliberate paraphrase of the Reeve translation.
 - Watts, *The Wisdom of Insecurity*: the law of reversed effort and the security paradox (Chapter 9). *Needed:* page numbers.

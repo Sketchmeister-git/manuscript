@@ -9,3 +9,6 @@
 | Comparative test of the lion diagnosis using ESS/WVS efficacy items | Pass report §4 | Ch. 2–3 or appendix | Candidate | Desk study |
 | Proposition 10: distress tolerance and frustration tolerance | Pass report §4 | Ch. 8 | Candidate | Construct-overlap audit |
 | Polarisation evidence for or against conduct-norm leverage | Pass report §4 | Ch. 9 | Candidate | Literature search |
+| Independents as the lion's signature versus partisans as loyalty | Gallup (Brenan, 2025) | Ch. 3 | In draft | A multi-year series by party identification to test the split |
+| The physician: a short account of whether the author's own remedies worked | Adversarial pass | *A Message from the Author* | Candidate (author's only) | The author |
+| Conspiracy belief as the losers' story (power asymmetry) as a rival to agent-supply | Adversarial pass | Ch. 6 | Candidate | Construct-overlap audit for Proposition 5 |

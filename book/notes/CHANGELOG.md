@@ -60,3 +60,12 @@ Derived from the modular edition (Modules A–I) and *The Path to Renewal*. Stru
 | 24 | Ch. 8, Proposition 10, Appendices B–D | The audit of "same capacity" found a family of related tolerances, not one faculty (Wesner et al., 2023; Hsu et al., 2023: behavioral and self-report indicators did not form one dimension). Proposition 10 now claims a shared ingredient and one family of capacities, and a new section, "One capacity, or a family of them?", gives the evidence. Kapur (2015) and Darabi et al. (2018) added for the incompetence phase. Four Works Cited entries (64 total). Appendix D now lists a transfer test. |
 | 25 | Whole book | Reader-test fixes: see `READER-TEST_2026-10-06.md` for the full table (about 30 changes). |
 | 26 | Ch. 1; Appendix E | The 1998 NASA survey goal is reworded and marked † because its source and completion were not confirmed. |
+
+## Adversarial pass, 2026-10-07
+
+| # | Where | Change |
+|---|---|---|
+| 27 | Ch. 7; Works Cited; Appendices C, D | One measured case added for "assent has changed almost nothing": Pew (2024), nearly half of US teens online almost constantly, up from 24% a decade earlier. Scope stated (teens, self-report). |
+| 28 | Ch. 3 | Gallup's independents (25%, level for three years) identified as the lion's signature; the partisans' swings assigned to group loyalty, with the lion diagnosis said not to explain them. |
+| 29 | Ch. 6; Works Cited; Appendices C, E | Popper (1945/1966) and Whitson and Galinsky (2008) credited as the nearest existing constructs. Popper's paraphrase is marked ‡ and needs a page locator. |
+| 30 | Notes | `ADVERSARIAL-PASS_2026-10-07.md` added: four questions, four aporias, the critic-in-corpus choice, falsification conditions. |

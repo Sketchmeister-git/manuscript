@@ -22,6 +22,8 @@ Douglas, K. M., Sutton, R. M., & Cichocka, A. (2017). The psychology of conspira
 
 Epstein, E. G., & Hamric, A. B. (2009). Moral distress, moral residue, and the crescendo effect. *The Journal of Clinical Ethics, 20*(4), 330–342. <https://doi.org/10.1086/jce200920406>
 
+Faverio, M., & Sidoti, O. (2024, December 12). *Teens, social media and technology 2024*. Pew Research Center. <https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/>
+
 Festinger, L. (1957). *A theory of cognitive dissonance*. Stanford University Press.
 
 Finnemore, M., & Sikkink, K. (1998). International norm dynamics and political change. *International Organization, 52*(4), 887–917. <https://doi.org/10.1162/002081898550789>
@@ -98,6 +100,8 @@ Nietzsche, F. (2006). *Thus spoke Zarathustra: A book for all and none* (A. Del 
 
 Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review, 84*(3), 231–259. <https://doi.org/10.1037/0033-295X.84.3.231>
 
+Popper, K. R. (1966). *The open society and its enemies: Vol. 2. The high tide of prophecy: Hegel, Marx, and the aftermath* (5th ed., rev.). Routledge & Kegan Paul. (Original work published 1945)
+
 Rousseau, J.-J. (1992). *Discourse on the origin of inequality* (D. A. Cress, Trans.). Hackett. (Original work published 1755)
 
 Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences, 109*(42), E2904–E2913. <https://doi.org/10.1073/pnas.1210467109>
@@ -127,6 +131,8 @@ Weber, E. U. (2006). Experience-based and description-based perceptions of long-
 Wegner, D. M. (2002). *The illusion of conscious will*. MIT Press.
 
 Wesner, E., Pavuluri, A., Norwood, E., Schmidt, B., & Bernat, E. (2023). Evaluating competing models of distress tolerance via structural equation modeling. *Journal of Psychiatric Research, 162*, 95–102. <https://doi.org/10.1016/j.jpsychires.2023.03.040>
+
+Whitson, J. A., & Galinsky, A. D. (2008). Lacking control increases illusory pattern perception. *Science, 322*(5898), 115–117. <https://doi.org/10.1126/science.1159845>
 
 Wilson, T. D., Reinhard, D. A., Westgate, E. C., Gilbert, D. T., Ellerbeck, N., Hahn, C., Brown, C. L., & Shaked, A. (2014). Just think: The challenges of the disengaged mind. *Science, 345*(6192), 75–77. <https://doi.org/10.1126/science.1250830>
 

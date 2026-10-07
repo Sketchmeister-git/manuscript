@@ -78,8 +78,10 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 | Confabulation (Nisbett & Wilson) | Established | General claim; some demonstrations small | 5 |
 | Apparent mental causation | Supported | Strong "illusion" framing contested | 5 |
 | Choice blindness | Supported | Replicated across domains and labs | 5 |
+| Teen use of social media rose while public concern was high | Supported | Faverio and Sidoti (2024): probability panel of 1,391 US teens, self-reported; 'almost constantly online' 24% a decade earlier vs nearly half in 2024. Says nothing about adults, or about the level of assent among teens | 7 |
 | Intentional binding as agency measure | Contested | Corroborative only | 5 |
 | Libet readiness potential as prior decision | Contested | Popular reading superseded; nothing rests on it | 5 |
+| Lacking control increases illusory pattern perception, including perceiving conspiracies | Supported | Whitson and Galinsky (2008): six experiments; supports the motive, not the book's specific claim about anonymous authority | 6 |
 | Conspiracy motives not satisfied by belief | Supported | Direction well supported; effect sizes uncertain | 6 |
 | Form-constancy across contents | Supported by observation | Copying not excluded; selection argument untested | 6 |
 | Cynical genius illusion and calibration | Supported | Large multinational data | 9 |
@@ -101,7 +103,7 @@ Grades: **Established**: replicated, adequately powered and consistent. **Suppor
 
 **Two chapters come close to refuting the enterprise.** Chapter 5 concludes that attribution comes from compulsory process, never from awareness. Chapter 7 concludes that critique is a counterfeit whose consumption discharges the pressure it creates. Chapter 7 states the narrow use that survives.
 
-**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. Proposition 10 claims a shared ingredient and a common family of capacities; the research on distress tolerance supports the family and leaves open whether practice transfers between its members. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct.
+**The weakest joints.** The second and third conditions in Chapter 5's answer to "does this prove too much?" (an interested arranger, and friction removed for each individual) may do less work than the argument needs. Proposition 8 couples components that each have evidence, but the coupling itself is inferred. Proposition 10 claims a shared ingredient and a common family of capacities; the research on distress tolerance supports the family and leaves open whether practice transfers between its members. The norm-seeding argument of Chapter 9 depends on a historical record of norm entrepreneurship whose successes may be selected on the outcome. The claim that civil conflict is the one threat within a citizen's reach rests on attitude experiments (Voelkel et al., 2024), not on long-run data about conduct. The datum of Chapter 7, that near-universal assent has changed almost nothing, rests on one measured case (teen self-reports in Faverio and Sidoti, 2024) and on assent among adults that is observed informally and not measured here.
 
 ## Tests, by proposition
 
@@ -153,6 +155,7 @@ In the master text of this book, a dagger (†) marks a quotation or figure that
 These passages are paraphrased in the text and cited to the edition of record. Quoting them verbatim requires the printed editions.
 
 - *Zarathustra*, Del Caro translation: the camel and the lion's holy No (Chapter 2); the rope over the abyss, Prologue §4 (Chapter 3).
+- Popper, *The Open Society and Its Enemies*, Vol. 2 (Chapter 6). The paraphrase of his conspiracy-theory-of-society passage needs a page locator and, ideally, verbatim wording. *Needed:* the printed page.
 - *The Gay Science*, Nauckhoff translation, §357 (Chapter 3).
 - Tocqueville, *Democracy in America*, Vol. 2, Book 4, Ch. 6 (Introduction, Chapter 2). This is a deliberate paraphrase of the Reeve translation.
 - Watts, *The Wisdom of Insecurity*: the law of reversed effort and the security paradox (Chapter 9). *Needed:* page numbers.
