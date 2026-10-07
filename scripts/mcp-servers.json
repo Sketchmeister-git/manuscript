@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\danzy\\Local\\New Manuscript",
+        "C:\\Users\\danzy\\Local\\Manuscript",
+        "C:\\Users\\danzy\\Downloads\\Philosophical Drafts",
+        "C:\\Users\\danzy\\Local\\AI Models\\Cowork",
+        "C:\\Users\\danzy\\Obsidian",
+        "C:\\Users\\danzy\\Zotero"
+      ]
+    },
+    "memory": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"],
+      "env": {
+        "MEMORY_FILE_PATH": "C:\\Users\\danzy\\Local\\New Manuscript\\40_logs\\memory.jsonl"
+      }
+    },
+    "fetch": {
+      "command": "uvx",
+      "args": ["mcp-server-fetch"]
+    }
+  }
+}

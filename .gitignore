@@ -1,0 +1,48 @@
+# .gitignore — Manuscript workspace
+#
+# TRACKED by design (no rule below touches them):
+#   markdown drafts (*.md), yaml configs (*.yaml, *.yml), docx exports (*.docx),
+#   automation scripts (scripts/), and custom skills (.claude/skills/).
+#
+# IGNORED: secrets, large binary PDFs, dependency trees, caches, OS/editor cruft.
+
+# --- Secrets -----------------------------------------------------------------
+.env
+.env.*
+
+# --- Large binary PDFs -------------------------------------------------------
+# .gitignore cannot filter by file size, so all PDFs are ignored.
+# To version one specific small PDF deliberately: git add -f path/to/file.pdf
+*.pdf
+
+# --- Dependencies ------------------------------------------------------------
+node_modules/
+
+# --- Caches and logs ---------------------------------------------------------
+.cache/
+.parcel-cache/
+__pycache__/
+*.pyc
+*.log
+
+# --- Office / editor lock and temp files -------------------------------------
+# Word and Excel create ~$name.docx while a file is open.
+~$*
+*.tmp
+*.swp
+
+# --- OS cruft ----------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Claude Code local-only state --------------------------------------------
+.claude/settings.local.json
+
+# --- Config backups written by scripts/install-mcp-config.js -----------------
+*.bak-*
+
+# --- Memory MCP store --------------------------------------------------------
+# Persistent concept notes written by the memory server (MEMORY_FILE_PATH in
+# scripts/mcp-servers.json). Private to this machine, so not versioned.
+40_logs/memory.jsonl
