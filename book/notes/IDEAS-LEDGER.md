@@ -11,4 +11,4 @@
 | Polarisation evidence for or against conduct-norm leverage | Pass report §4 | Ch. 9 | Candidate | Literature search |
 | Independents as the lion's signature versus partisans as loyalty | Gallup (Brenan, 2025) | Ch. 3 | In draft | A multi-year series by party identification to test the split |
 | The physician: a short account of whether the author's own remedies worked | Adversarial pass | *A Message from the Author* | Candidate (author's only) | The author |
-| Conspiracy belief as the losers' story (power asymmetry) as a rival to agent-supply | Adversarial pass | Ch. 6 | Candidate | Construct-overlap audit for Proposition 5 |
+| Conspiracy belief as the losers' story (power asymmetry) as a rival to agent-supply | Adversarial pass | Ch. 6 | Audited 7 Oct: trigger vs channel paragraph added to Ch. 6; elections counter-case open | Coded-corpus check: do post-election claims name the distributed apparatus or the named winner? |

@@ -69,7 +69,7 @@ SURNAME_ALIASES = {"Center for Near-Earth Object Studies": "Center", "Tocquevill
 
 # "Surname, I. (Year)": personal authors. "Name. (Year).": a single-name author or
 # an organisation (Aristotle, Laozi, Center for Near-Earth Object Studies).
-AUTHOR_LIST_ENTRY = re.compile(r"^([A-Z][^,(]+?)(?:,| \()[^()]*?\((\d{4}[a-z]?|ca\. \d+)")
+AUTHOR_LIST_ENTRY = re.compile(r"^((?:van |de |von )?[A-Z][^,(]+?)(?:,| \()[^()]*?\((\d{4}[a-z]?|ca\. \d+)")
 SINGLE_NAME_ENTRY = re.compile(r"^([A-Z][^,(]+?)\. \((\d{4}[a-z]?|ca\. \d+)")
 
 # Capitalised words that precede a year without being an author ("since March, 2024").
@@ -121,7 +121,7 @@ def in_text_citations(body_text: str) -> set:
 
     A name counts as cited only in citation form: a comma or an opening parenthesis
     must stand between the name and the year ("Fromm, 1941", "Libet et al. (1983)"),
-    or the narrative form "Name's *Title* (Year)". That keeps dates such as
+    or the narrative form "Name's *Title* (Year)". A lowercase particle (van, de, von) belongs to the surname. That keeps dates such as
     "3 October 2026" out without consulting the Works Cited, so an author whose
     entry is missing cannot hide their own citations.
     """
@@ -129,12 +129,12 @@ def in_text_citations(body_text: str) -> set:
     body_text = fold_author_aliases(body_text)
     # A capitalised surname, optionally with an internal apostrophe (O'Brien); it
     # cannot start in the middle of a word.
-    name = r"(?<![A-Za-zÀ-ÿ])([A-Z](?:[A-Za-zÀ-ÿ\-]+|['’][A-Z][A-Za-zÀ-ÿ\-]+))"
+    name = r"(?<![A-Za-zÀ-ÿ])((?:van |de |von )?[A-Z](?:[A-Za-zÀ-ÿ\-]+|['’][A-Z][A-Za-zÀ-ÿ\-]+))"
     year = r"(?:ca\. \d+ B\.C\.E\.|\d{4}(?:–\d{4})?)/?(\d{4}[a-z]?)?"
     patterns = [
         # Narrative form with a title between name and year: Name's *Title* (Year)
         rf"{name}['’]s \*[^*]+\* \(({year})()",
-        rf"{name}(?:['’]s)?(?: et al\.| and [A-Z][a-z]+(?:['’]s)?| & [A-Z][a-z]+)?(?:,\s+|\s+\()({year})((?:, \d{{4}}[a-z]?)*)",
+        rf"{name}(?:['’]s)?(?: et al\.| and [A-Z][a-z]+(?:['’]s)?| & (?:[Vv]an |de )?[A-Z][a-z]+)?(?:,\s+|\s+\()({year})((?:, \d{{4}}[a-z]?)*)",
     ]
     for pattern in patterns:
         for match in re.finditer(pattern, body_text):

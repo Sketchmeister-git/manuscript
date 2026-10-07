@@ -18,6 +18,8 @@ Craig, S. C., Niemi, R. G., & Silver, G. E. (1990). Political efficacy and trust
 
 Darabi, A., Arrington, T. L., & Sayilir, E. (2018). Learning from failure: A meta-analysis of the empirical studies. *Educational Technology Research and Development, 66*(5), 1101–1118. <https://doi.org/10.1007/s11423-018-9579-9>
 
+Douglas, K. M., Sutton, R. M., Callan, M. J., Dawtry, R. J., & Harvey, A. J. (2016). Someone is pulling the strings: Hypersensitive agency detection and belief in conspiracy theories. *Thinking & Reasoning, 22*(1), 57–77. <https://doi.org/10.1080/13546783.2015.1051586>
+
 Douglas, K. M., Sutton, R. M., & Cichocka, A. (2017). The psychology of conspiracy theories. *Current Directions in Psychological Science, 26*(6), 538–542. <https://doi.org/10.1177/0963721417718261>
 
 Epstein, E. G., & Hamric, A. B. (2009). Moral distress, moral residue, and the crescendo effect. *The Journal of Clinical Ethics, 20*(4), 330–342. <https://doi.org/10.1086/jce200920406>
@@ -49,6 +51,8 @@ Hall, L., Johansson, P., & Strandberg, T. (2012). Lifting the veil of morality: 
 Heidegger, M. (1962). *Being and time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original work published 1927)
 
 Hsu, T., Thomas, E. B. K., Welch, E. K., O'Hara, M. W., & McCabe, J. E. (2023). Examining the structure of distress tolerance: Are behavioral and self-report indicators assessing the same construct? *Journal of Contextual Behavioral Science, 27*, 143–151. <https://doi.org/10.1016/j.jcbs.2023.02.001>
+
+Imhoff, R., Zimmer, F., Klein, O., António, J. H. C., Babinska, M., Bangerter, A., Bilewicz, M., Blanuša, N., Bovan, K., Bužarovska, R., Cichocka, A., Delouvée, S., Douglas, K. M., Dyrendal, A., Etienne, T., Gjoneska, B., Graf, S., Gualda, E., Hirschberger, G., . . . van Prooijen, J.-W. (2022). Conspiracy mentality and political orientation across 26 countries. *Nature Human Behaviour, 6*(3), 392–403. <https://doi.org/10.1038/s41562-021-01258-7>
 
 Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129–146. <https://doi.org/10.1146/annurev-polisci-051117-073034>
 
@@ -123,6 +127,8 @@ Wallace, D. F. (1996). *Infinite jest*. Little, Brown.
 Wallace, D. F. (2009). *This is water: Some thoughts, delivered on a significant occasion, about living a compassionate life*. Little, Brown.
 
 Watts, A. (1951). *The wisdom of insecurity: A message for an age of anxiety*. Pantheon.
+
+van Prooijen, J.-W., & Van Vugt, M. (2018). Conspiracy theories: Evolved functions and psychological mechanisms. *Perspectives on Psychological Science, 13*(6), 770–788. <https://doi.org/10.1177/1745691618774270>
 
 Watts, A. (1966). *The book: On the taboo against knowing who you are*. Pantheon.
 
