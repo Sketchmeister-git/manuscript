@@ -1,0 +1,50 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 book/build/build_kdp.py:*)",
+      "Bash(python3 book/build/audit_book.py)",
+      "Bash(python3 book/build/build_cover.py)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)"
+    ],
+    "deny": [
+      "Edit(book/reference/primary/**)",
+      "Write(book/reference/primary/**)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/ensure_build_toolchain.sh"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/guard_generated_files.py"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 $CLAUDE_PROJECT_DIR/.claude/hooks/sync_and_audit.py"
+          }
+        ]
+      }
+    ]
+  }
+}

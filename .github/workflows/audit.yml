@@ -1,0 +1,46 @@
+name: Manuscript audit
+
+# Runs the stdlib-only checks (no TeX needed): the committed master must equal the
+# assembled book/src/, and the citation and quotation audits must pass.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Assemble the master from book/src/
+        run: python3 book/build/build_kdp.py --master
+
+      - name: Drift check (committed master must match book/src/)
+        run: |
+          if ! git diff --exit-code -- 'book/LP_KDP-*.md'; then
+            echo "::error::The committed master differs from book/src/. Edit book/src/ and run: python3 book/build/build_kdp.py --master"
+            exit 1
+          fi
+
+      - name: Citation sweep and quotation audit
+        run: python3 book/build/audit_book.py
+
+      # Informational only: a draft legitimately contains these, so this step never fails.
+      - name: Release readiness (non-blocking)
+        if: always()
+        run: |
+          master=$(ls book/LP_KDP-*.md | head -n 1)
+          body_daggers=$(sed '/<!-- MARKS-KEPT-BELOW -->/,$d' "$master" | grep -o '†' | wc -l)
+          {
+            echo "### Release readiness (informational)"
+            echo "- Unverified (†) items in the body: ${body_daggers}"
+            echo "- Placeholders still to replace before upload (author name, ISBN, bio, personal paragraph):"
+            # Where they live: src/01-message.md, build/book_config.py, build/build_cover.py.
+            grep -rnF -e '[AUTHOR:' -e '[Author Name]' -e '[ISBN' book/src book/build \
+              --include='*.md' --include='*.py' | cut -c1-110 | sed 's/^/  - `/; s/$/`/' || true
+          } >> "$GITHUB_STEP_SUMMARY"
