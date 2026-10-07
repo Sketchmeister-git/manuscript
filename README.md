@@ -35,6 +35,8 @@ PDFs are git-ignored (`.gitignore` cannot filter by size); markdown, yaml, docx,
 
 4. Fully quit Claude Desktop from the system tray, relaunch it, and confirm `filesystem`, `memory` and `fetch` under Settings > Developer.
 
+The memory server's data is stored in `40_logs/memory.jsonl` (set through `MEMORY_FILE_PATH`), so it survives npx cache refreshes. That file is git-ignored because it holds private concept notes. If a `memory` entry from an earlier run already exists, re-run with `--force` to update it.
+
 Requirements: Node.js (for `npx`) and [uv](https://docs.astral.sh/uv/) (for `uvx mcp-server-fetch`; the npm package `@modelcontextprotocol/server-fetch` does not exist). The installer warns if either is missing or if an allowed folder does not exist.
 
 ## Scripts

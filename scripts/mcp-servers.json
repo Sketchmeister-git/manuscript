@@ -15,7 +15,10 @@
     },
     "memory": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-memory"]
+      "args": ["-y", "@modelcontextprotocol/server-memory"],
+      "env": {
+        "MEMORY_FILE_PATH": "C:\\Users\\danzy\\Local\\New Manuscript\\40_logs\\memory.jsonl"
+      }
     },
     "fetch": {
       "command": "uvx",

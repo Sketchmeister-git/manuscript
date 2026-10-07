@@ -41,3 +41,8 @@ desktop.ini
 
 # --- Config backups written by scripts/install-mcp-config.js -----------------
 *.bak-*
+
+# --- Memory MCP store --------------------------------------------------------
+# Persistent concept notes written by the memory server (MEMORY_FILE_PATH in
+# scripts/mcp-servers.json). Private to this machine, so not versioned.
+40_logs/memory.jsonl

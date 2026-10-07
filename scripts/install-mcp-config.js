@@ -31,8 +31,10 @@
  * Server notes:
  *   - `fetch` uses the official Python server (`uvx mcp-server-fetch`); the
  *     package "@modelcontextprotocol/server-fetch" does not exist on npm.
- *   - The memory server stores data inside its package directory by default;
- *     set MEMORY_FILE_PATH in its "env" if the data must survive npx cache refreshes.
+ *   - The memory server stores data inside its package directory by default,
+ *     which npx cache refreshes can wipe. The definition therefore sets
+ *     MEMORY_FILE_PATH to 40_logs/memory.jsonl in the workspace. An existing
+ *     memory entry without it is left alone unless --force is passed.
  *
  * Exit codes: 0 success / nothing to do, 2 usage, parse or filesystem error.
  */

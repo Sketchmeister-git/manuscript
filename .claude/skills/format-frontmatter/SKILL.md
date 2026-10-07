@@ -35,7 +35,7 @@ Bring every markdown file under `10_projects/` into line with the frontmatter st
 5. **Verify.** Re-run `node scripts/validate-corpus.js`. Report the failing count before and after.
 6. **Report** with a differential change log first (per `CLAUDE.md`): for each file, which keys were added or changed, and why.
 
-## Volume mapping (to confirm)
+## Volume mapping
 
 | Project folder | Volume |
 |---|---|
@@ -43,4 +43,4 @@ Bring every markdown file under `10_projects/` into line with the frontmatter st
 | `The_Great_Inversion` | Vol II |
 | `The_Second_Position` | Vol III |
 
-This mapping follows the order in which the workspace brief lists the works. The author has not confirmed it. Confirm it before the first bulk run, and update this table if it is wrong.
+Confirmed by the author on 2026-10-07. Change this table only on the author's instruction.
