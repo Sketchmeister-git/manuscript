@@ -11,7 +11,7 @@ Rules checked against KDP guidance as of 26 Sep 2026 (per the standing ruling). 
 | Missing glyphs | ✅ | none in the XeLaTeX log |
 | Overfull lines > 10 pt | ✅ | 0 |
 | Blank pages | ✅ | only openright versos (KDP allows these) |
-| Cover wrap | ✅ | `output/…_Cover-Paperback-Wrap.pdf`, 12.658 × 9.250 in (cream paper; 0.125 in bleed; spine 0.4025 in) |
+| Cover wrap | ✅ | `output/…_Cover-Paperback-Wrap.pdf`, 12.658 × 9.250 in (cream paper; 0.125 in bleed; spine 0.4075 in) |
 | Spine text | ✅ | Allowed (≥ 79 pp.) |
 | Barcode area | ✅ | 2 × 1.2 in clear white box, back panel, bottom right |
 | eBook cover | ✅ | `output/…_Cover-eBook.jpg`, 1600 × 2400 px |
